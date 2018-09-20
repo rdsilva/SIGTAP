@@ -1,13 +1,6 @@
----
-title: "Sigtap - SUS"
-description: |
-  Criando uma tabela única com os processos padronizados pelo SUS.
-author:
-  - name: Rodrigo Silva 
-    url: https://github.com/rdsilva
-    affiliation: Laboratório de Inovação Tecnológica em Saúde - LAIS
-    affiliation_url: http://lais.huol.ufrn.br/
----
+Criando uma tabela única com os processos padronizados pelo SUS.
+Rodrigo Silva 
+
 
 # Sigtap
 
