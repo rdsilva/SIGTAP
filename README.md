@@ -7,14 +7,7 @@ author:
     url: https://github.com/rdsilva
     affiliation: Laboratório de Inovação Tecnológica em Saúde - LAIS
     affiliation_url: http://lais.huol.ufrn.br/
-date: "`r Sys.Date()`"
-output: radix::radix_article
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 
 # Sigtap
 
