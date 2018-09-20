@@ -1,0 +1,38 @@
+001Inclui valor da anestesia                                                                           201809
+003Admite longa permanência                                                                            201809
+004Admite permanência à maior                                                                          201809
+005Admite liberação de quantidade na AIH                                                               201809
+006CNRAC                                                                                               201809
+007Permanência por dia                                                                                 201809
+008Não permite mudança de procedimento                                                                 201809
+009Exige CNS                                                                                           201809
+011Permite alta direta de UTI                                                                          201809
+012Exige idade no BPA (Consolidado)                                                                    201809
+013Verifica habilitação de terceiro                                                                    201809
+014Admite APAC de Continuidade                                                                         201809
+015Admitido apenas em Hosp.Espec/Psiquiatria                                                           201809
+017Exige Informação da OPM                                                                             201809
+020Monitoramento do CEO                                                                                201809
+021Não Exige CBO                                                                                       201809
+022Exige registro na APAC de dados complementares                                                      201809
+023Registro no SISCOLO                                                                                 201809
+024Registro no SISPRENATAL                                                                             201809
+025Registro no SISMAMA                                                                                 201809
+026Registro de Procedimentos Secundário Compativel                                                     201809
+029Admite período maior para a apresentação                                                            201809
+033APAC com validade fixa de 03 competências                                                           201809
+034Não exige CNS                                                                                       201809
+036Exige Autorização                                                                                   201809
+037Exige CNPJ do Fornecedor                                                                            201809
+038Exige Serviço/Classificação                                                                         201809
+040Registro no SISCAN                                                                                  201809
+041APAC com validade fixa de 12 competências                                                           201809
+042Não Admite Liberação de Crítica de Idade                                                            201809
+043Exige registro de CID de causas associadas                                                          201809
+044Cirurgias Eletivas                                                                                  201809
+045Diárias de Leitos Complementares                                                                    201809
+046Tratamento Ambulatorial de Doenças Crônicas                                                         201809
+047Autorização com limite máximo de 6 meses.                                                           201809
+048Exige CID                                                                                           201809
+049Permite Informação de Equipe Cirúrgica                                                              201809
+050Permite o Registro de Informações do CNS do(s) Recém-Nascido(s)                                     201809

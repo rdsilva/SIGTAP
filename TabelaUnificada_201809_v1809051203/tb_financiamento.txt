@@ -1,0 +1,7 @@
+01Atenção Básica (PAB)                                                                                201809
+02Assistência Farmacêutica                                                                            201809
+04Fundo de Ações Estratégicas e Compensações (FAEC)                                                   201809
+05Incentivo - MAC                                                                                     201809
+06Média e Alta Complexidade (MAC)                                                                     201809
+07Vigilância em Saúde                                                                                 201809
+08Gestão do SUS                                                                                       201809

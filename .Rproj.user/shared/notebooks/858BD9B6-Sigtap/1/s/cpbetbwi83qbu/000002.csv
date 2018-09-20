@@ -1,0 +1,8 @@
+"0",""
+"0","library(rmarkdown)"
+"0",""
+"0","setwd('TabelaUnificada_201809_v1809051203/')"
+"0",""
+"0","subgrupo.layout <- read.csv('tb_sub_grupo_layout.txt', header = TRUE, sep = ',')"
+"0",""
+"0","paged_table(subgrupo.layout)"

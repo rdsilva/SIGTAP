@@ -1,0 +1,1 @@
+"0","res_temp <- merge(res_temp, forma_organizacao.ds, by = c('co_grupo', 'co_sub_grupo'))"

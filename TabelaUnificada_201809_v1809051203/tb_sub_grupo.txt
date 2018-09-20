@@ -1,0 +1,59 @@
+0301Consultas / Atendimentos / Acompanhamentos                                                          201809
+0801Ações relacionadas ao estabelecimento                                                               201809
+0201Coleta de material                                                                                  201809
+0101Ações coletivas/individuais em saúde                                                                201809
+0701Órteses, próteses e materiais especiais não relacionados ao ato cirúrgico                           201809
+0601Medicamentos de dispensação excepcional                                                             201809
+0501Coleta e exames para fins de doação de orgãos, tecidos e células e de transplante                   201809
+0401Pequenas cirurgias e cirurgias de pele, tecido subcutâneo e mucosa                                  201809
+0202Diagnóstico em laboratório clínico                                                                  201809
+0102Vigilância em saúde                                                                                 201809
+0802Ações relacionadas ao atendimento                                                                   201809
+0702Órteses, próteses e materiais especiais relacionados ao ato cirúrgico                               201809
+0602Medicamentos estratégicos                                                                           201809
+0502Avaliação de morte encefálica                                                                       201809
+0402Cirurgia de glândulas endócrinas                                                                    201809
+0302Fisioterapia                                                                                        201809
+0203Diagnóstico por anatomia patológica e citopatologia                                                 201809
+0803Autorização / Regulação                                                                             201809
+0603Medicamentos de âmbito hospitalar e urgência                                                        201809
+0403Cirurgia do sistema nervoso central e periférico                                                    201809
+0303Tratamentos clínicos (outras especialidades)                                                        201809
+0503Ações relacionadas à doação de orgãos e tecidos para transplante                                    201809
+0504Processamento de tecidos para transplante                                                           201809
+0404Cirurgia das vias aéreas superiores, da face, da cabeça e do pescoço                                201809
+0204Diagnóstico por radiologia                                                                          201809
+0604Componente Especializado da Assitencia Farmaceutica                                                 201809
+0304Tratamento em oncologia                                                                             201809
+0305Tratamento em nefrologia                                                                            201809
+0405Cirurgia do aparelho da visão                                                                       201809
+0205Diagnóstico por ultrasonografia                                                                     201809
+0505Transplante de orgãos, tecidos e células                                                            201809
+0506Acompanhamento e intercorrências no pré e pós-transplante                                           201809
+0206Diagnóstico por tomografia                                                                          201809
+0406Cirurgia do aparelho circulatório                                                                   201809
+0306Hemoterapia                                                                                         201809
+0307Tratamentos odontológicos                                                                           201809
+0207Diagnóstico por ressonância magnética                                                               201809
+0407Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal                                    201809
+0208Diagnóstico por medicina nuclear in vivo                                                            201809
+0308Tratamento de lesões, envenenamentos e outros, decorrentes de causas externas                       201809
+0408Cirurgia do sistema osteomuscular                                                                   201809
+0409Cirurgia do aparelho geniturinário                                                                  201809
+0309Terapias especializadas                                                                             201809
+0209Diagnóstico por endoscopia                                                                          201809
+0410Cirurgia de mama                                                                                    201809
+0310Parto e nascimento                                                                                  201809
+0210Diagnóstico por radiologia intervencionista                                                         201809
+0411Cirurgia obstétrica                                                                                 201809
+0211Métodos diagnósticos em especialidades                                                              201809
+0412Cirurgia torácica                                                                                   201809
+0212Diagnóstico e procedimentos especiais em hemoterapia                                                201809
+0213Diagnóstico em vigilância epidemiológica e ambiental                                                201809
+0413Cirurgia reparadora                                                                                 201809
+0414Bucomaxilofacial                                                                                    201809
+0214Diagnóstico por teste rápido                                                                        201809
+0415Outras cirurgias                                                                                    201809
+0416Cirurgia em oncologia                                                                               201809
+0417Anestesiologia                                                                                      201809
+0418Cirurgia em nefrologia                                                                              201809

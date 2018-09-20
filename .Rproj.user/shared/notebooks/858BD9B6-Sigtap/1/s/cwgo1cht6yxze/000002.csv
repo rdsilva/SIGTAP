@@ -1,0 +1,8 @@
+"0",""
+"0","setwd('TabelaUnificada_201809_v1809051203/')"
+"0",""
+"0","grupo <- iconv(read_document('tb_grupo.txt'), ""latin1"", ""UTF-8"")"
+"0","subgrupo <- iconv(read_document('tb_sub_grupo.txt'), ""latin1"", ""UTF-8"")"
+"0","forma_organizacao <- iconv(read_document('tb_forma_organizacao.txt'), ""latin1"", ""UTF-8"")"
+"0","procedimento <- iconv(read_document('tb_procedimento.txt'), ""latin1"", ""UTF-8"")"
+"0",""

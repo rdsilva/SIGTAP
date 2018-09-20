@@ -1,0 +1,7 @@
+"0",""
+"0","co_grupo <- substr(grupo, 1, 2)"
+"0","no_grupo <- substr(grupo, 3, 102)"
+"0","dt_competencia <- substr(grupo, 103, 108)"
+"0",""
+"0","grupo.ds <- data.frame(co_grupo, no_grupo, dt_competencia)"
+"0",""

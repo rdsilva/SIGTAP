@@ -1,0 +1,2 @@
+"0","res_temp <- res_temp %>%"
+"0","  select(co_grupo, no_grupo, co_sub_grupo, no_sub_grupo, co_forma_organizacao, no_forma_organizacao)"

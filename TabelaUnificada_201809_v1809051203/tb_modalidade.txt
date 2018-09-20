@@ -1,0 +1,4 @@
+01Ambulatorial                                                                                        201809
+02Hospitalar                                                                                          201809
+03Hospital Dia                                                                                        201809
+06Atenção Domiciliar                                                                                  201809

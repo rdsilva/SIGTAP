@@ -1,0 +1,4 @@
+"0","result <- result %>%"
+"0","  select(co_grupo, no_grupo, co_sub_grupo, no_sub_grupo, co_forma_organizacao, no_forma_organizacao, co_procedimento, no_procedimento, "
+"0","         qt_maxima_execucao, qt_dias_permanencia, qt_pontos, vl_idade_minima, vl_idade_maxima, vl_servico_hospitalar, vl_servico_ambulatorial,"
+"0","         vl_servico_profissional, qt_tempo_permanencia, dt_competencia)"

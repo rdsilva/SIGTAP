@@ -1,0 +1,67 @@
+100Serviço de Atenção a Saúde no Sistema Penitenciário                                                                     201809
+101Estratégia de Saúde da Família                                                                                          201809
+102Estratégias de Agentes Comunitário de Saúde                                                                             201809
+103Serviço de Atendimento Móvel de Urgências                                                                               201809
+104Regulação Assistêncial dos Serviços de Saúde                                                                            201809
+105Serviço de Atenção em Neurologia/ Neurocirurgia                                                                         201809
+106Serviço de Atenção a DST/HIV/AIDS                                                                                       201809
+107Serviço de Atenção a Saúde Auditiva                                                                                     201809
+108Serviço de Atenção a Aaúde do Trabalhador                                                                               201809
+109Serviço de Atenção a Saúde dos Adolecentes em Conflito com a Lei, em Regime de Internação e Internação Provisória       201809
+110Serviço de Atenção a Saúde Reprodutiva                                                                                  201809
+111Serviço de Atenção ao Paciente com Tuberculose                                                                          201809
+112Serviço de Atenção ao Pré-Natal, Parto e Nascimento                                                                     201809
+113Serviço de Atenção Domiciliar                                                                                           201809
+114Serviço de Atenção em Saúde Bucal                                                                                       201809
+115Serviço de Atenção Psicossocial                                                                                         201809
+116Serviço de Atenção Cardiovascular/Cardiologia                                                                           201809
+117Serviço de Cirurgia Reparadora                                                                                          201809
+118Serviço de Cirurgia Torácica                                                                                            201809
+119Serviço de Controle de Tabagismo                                                                                        201809
+120Serviço de Diagnóstico por Anatomia Patológica e/ou Citopatologia                                                       201809
+121Diagnóstico por Imagem                                                                                                  201809
+122Serviço de Diagnóstico por Métodos Gráficos/Dinâmicos                                                                   201809
+123Serviço de Dispensação de Órteses, Próteses e Materiais Especiais                                                       201809
+124Serviço de Endocrinologia                                                                                               201809
+125Serviço de Farmácia                                                                                                     201809
+126Serviço de Fisioterapia                                                                                                 201809
+127Serviço de Atenção à Obesidade                                                                                          201809
+128Serviço de Hemoterapia                                                                                                  201809
+129Servico de Laboratório de Histocompatibilidade                                                                          201809
+130Atenção à Doença Renal Crônica                                                                                          201809
+131Serviço de Oftalmologia                                                                                                 201809
+132Serviço de Oncologia                                                                                                    201809
+133Serviço de Pneumologia                                                                                                  201809
+134Serviço de Práticas Integrativas e Complementares                                                                       201809
+135Serviço de Reabilitação                                                                                                 201809
+136Serviço de Suporte Nutricional                                                                                          201809
+137Serviço de Telemedicina                                                                                                 201809
+138Serviço de Traumato-Ortopedia                                                                                           201809
+139Serviço de Triagem Neonatal                                                                                             201809
+140Serviço de Urgência e Emergência                                                                                        201809
+141Serviço de Vigilância em Saúde                                                                                          201809
+142Serviço de Endoscopia                                                                                                   201809
+143Serviço Móvel de Urgência (exceto SAMU)                                                                                 201809
+144Serviço Posto de Coleta de Materiais Biológicos                                                                         201809
+145Serviço de Diagnóstico por Laboratório Clínico                                                                          201809
+146Serviço de Videolaparoscopia                                                                                            201809
+147Serviço de Apoio a Saúde da Família                                                                                     201809
+148Hospital-Dia                                                                                                            201809
+149Transplante                                                                                                             201809
+150Cirurgia Vascular                                                                                                       201809
+151Medicina Nuclear                                                                                                        201809
+153Atenção Especializada no Processo Transexualizador                                                                      201809
+154Serviço de Banco de Tecidos                                                                                             201809
+155Serviço de Traumatologia  Ortopedia                                                                                     201809
+156Serviço de Atenção á Saúde das Pessoas Ostomizadas                                                                      201809
+157Serviço de Laboratorio de Protese Dentaria                                                                              201809
+158Serviço de Atenção Integral em Hanseniase                                                                               201809
+159Atenção Básica                                                                                                          201809
+160Teleconsultoria                                                                                                         201809
+162Serviço de Terapia Intensiva                                                                                            201809
+163Serviço de Cuidados Intermediários                                                                                      201809
+164Serviço de Órteses,Próteses e Materiais Especiais em Reabilitação                                                       201809
+165Atenção às Pessoas em Situação de Violência Sexual                                                                      201809
+167Atendimento Itinerante de Asistência e Ensino em Saúde                                                                  201809
+168Atenção Às Pessoas com Doenças Raras                                                                                    201809
+169Serviço de Atenção em Urologia                                                                                          201809

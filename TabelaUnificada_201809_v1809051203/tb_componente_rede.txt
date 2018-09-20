@@ -1,0 +1,20 @@
+92.01     Pré-natal                                                                                                                                             092
+92.02     Parto e Nascimento                                                                                                                                    092
+92.03     Puerpério e Atenção Integral à Saúde da Criança                                                                                                       092
+93.01     Promoção, Prevenção e Vigilâcia à Saúde                                                                                                               093
+93.02     Atenção Básica em Saúde                                                                                                                               093
+93.03     Serviço de Atendimento Móvel de Urgência(SAMU 192) e suas Centrais de Regulação Médica de Urgências                                                   093
+93.04     Sala de Estabilização                                                                                                                                 093
+93.05     Força Nacional de Saúde do SUS                                                                                                                        093
+93.06     Unidade de Pronto Atendiemnto (UPA 24h) e Conjunto de Serviços de Urgência 24horas                                                                    093
+93.07     Hospitalar                                                                                                                                            093
+93.08     Atenção Domiciliar                                                                                                                                    093
+94.01     Atenção Básica em Saúde                                                                                                                               094
+94.02     Atenção Psicossocial Especializada                                                                                                                    094
+94.03     Atenção de Urgência e Emergência                                                                                                                      094
+94.04     Atenção Residêncial de Caráter Transitório                                                                                                            094
+94.05     Atenção Hospitalar                                                                                                                                    094
+94.06     Reabilitação Psicossocial                                                                                                                             094
+95.01     Atenção Básica                                                                                                                                        095
+95.02     Atenção Especializada em Reabilitação Auditiva, física, Intelectual, Visual, Ostomia e em Multiplas Deficiências                                      095
+95.03     Atenção Hospitalar e de Urgência e Emergência                                                                                                         095

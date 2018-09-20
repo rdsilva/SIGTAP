@@ -1,0 +1,384 @@
+010101Educação em saúde                                                                                   201809
+080301Deslocamento/Ajuda de custo                                                                         201809
+020101Coleta de material por meio de punção/biópsia                                                       201809
+020201Exames bioquimicos                                                                                  201809
+020301Exames citopatológicos                                                                              201809
+020401Exames radiológicos da cabeça e pescoço                                                             201809
+020501Ultra-sonografias do sistema circulatório (qualquer região anatômica)                               201809
+020601Tomografia da cabeça, pescoço e coluna vertebral                                                    201809
+020701RM da cabeça, pescoço e coluna vertebral                                                            201809
+020801Aparelho cardiovascular                                                                             201809
+020901Aparelho digestivo                                                                                  201809
+021001Exames radiológicos de vasos sangüíneos e linfáticos                                                201809
+021101Diagnóstico em angiologia                                                                           201809
+021201Exames do doador/receptor                                                                           201809
+021301Exames relacionados a doenças e agravos de notificação compulsória                                  201809
+021401Teste realizado fora da estrutura de laboratório                                                    201809
+030101Consultas médicas/outros profissionais  de nivel superior                                           201809
+030201Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                201809
+030301Tratamento de doenças infecciosas e parasitárias                                                    201809
+030401Radioterapia                                                                                        201809
+030501Tratamento dialítico                                                                                201809
+030601Procedimentos destinados a obtenção do sangue para fins de assistência hemoterapica                 201809
+030701Dentística                                                                                          201809
+030801Traumatismos                                                                                        201809
+030901Terapia nutricional                                                                                 201809
+031001Parto e nascimento                                                                                  201809
+040101Pequenas cirurgias                                                                                  201809
+040201Cirurgia de tireóide e paratireóide                                                                 201809
+040301Trauma e anomalias do desenvolvimento                                                               201809
+040401Cirurgia das vias aéreas superiores e do pescoço                                                    201809
+040501Palpebras e vias lacrimais                                                                          201809
+040601Cirurgia cardiovascular                                                                             201809
+040701Esôfago, estômago e duodeno                                                                         201809
+040801Cintura escapular                                                                                   201809
+040901Rim, ureter e bexiga                                                                                201809
+041001Mama                                                                                                201809
+041101Parto                                                                                               201809
+041201Traqueia e brônquios                                                                                201809
+041301Tratamento de queimados                                                                             201809
+041401Buco-maxilo-facial                                                                                  201809
+041501Múltiplas                                                                                           201809
+041601Urologia                                                                                            201809
+041701Anestesias                                                                                          201809
+041801Acessos para dialise                                                                                201809
+050101Coleta e exames para identificação de doador de células-tronco hematopoéticas (busca nacional)      201809
+050201Avaliação clínica de morte encefálica                                                               201809
+050301Ações relacionadas a doação de orgãos e tecidos para transpalnte                                    201809
+050401Processamento de córnea/esclera                                                                     201809
+050501Transplante de tecidos e células                                                                    201809
+050601Acompanhamento de paciente no pré e pós-transplante                                                 201809
+060101Agentes anticitocinas                                                                               201809
+060201Procoagulantes em coagulopatias hereditárias                                                        201809
+060301Antiinflamatórios                                                                                   201809
+060401Acido Aminosalicilico e Similares                                                                   201809
+070101OPM auxiliares da locomoção                                                                         201809
+070201OPM em neurocirurgia                                                                                201809
+080101Incentivos                                                                                          201809
+080201Diárias                                                                                             201809
+010201Vigilancia sanitária                                                                                201809
+010102Saúde bucal                                                                                         201809
+010202Vigilância em Saúde do Trabalhador                                                                  201809
+020102Outras formas de coleta de material                                                                 201809
+020202Exames hematológicos e hemostasia                                                                   201809
+020302Exames anatomopatológicos                                                                           201809
+020402Exames radiológicos da coluna vertebral                                                             201809
+020502Ultra-sonografias dos demais sistemas                                                               201809
+020602Tomografia do torax e membros superiores                                                            201809
+020702RM do torax e membros superiores                                                                    201809
+020802Aparelho digestivo                                                                                  201809
+020902Aparelho urinário                                                                                   201809
+021002Vias biliares                                                                                       201809
+021102Diagnóstico em cardiologia                                                                          201809
+021202Procedimentos especiais em hemoterápica                                                             201809
+021302Exames relacionados ao meio ambiente                                                                201809
+030102Atendimento/Acompanhamento em saúde do trabalhador                                                  201809
+030202Assistência fisioterapêutica em alterações oncológicas                                              201809
+030302Tratamento de doenças do sangue, orgãos hematopoéticos e alguns transtornos imunitários             201809
+030402Quimioterapia paliativa - adulto                                                                    201809
+030502Tratamento em nefrologia em geral                                                                   201809
+030602Medicina transfusional                                                                              201809
+030702Endodontia                                                                                          201809
+030802Intoxicações e envenenamentos                                                                       201809
+030902Terapias em doenças alérgicas                                                                       201809
+040102Cirurgias de pele, tecido subcutâneo e mucosa                                                       201809
+040202Cirurgia da suprarrenal                                                                             201809
+040302Coluna e nervos periféricos                                                                         201809
+040402Cirurgia da face e do sistema estomatognático                                                       201809
+040502Músculos oculomotores                                                                               201809
+040602Cirurgia vascular                                                                                   201809
+040702Intestinos , reto e anus                                                                            201809
+040802Membros superiores                                                                                  201809
+040902Uretra                                                                                              201809
+041102Outras cirurgias relacionadas com o estado gestacional                                              201809
+041202Mediastino                                                                                          201809
+041302Reparadora em oncológica                                                                            201809
+041402Cirurgia oral                                                                                       201809
+041502Sequenciais                                                                                         201809
+041602Sistema linfático                                                                                   201809
+041802Intervençõess cirúrgicas em acessos para diálise                                                    201809
+050102Exames de histocompatibilidade para identificação de receptor de células-tronco hematopoéticas      201809
+050302Cirurgias para transplante - doador vivo                                                            201809
+050402Processamento de tecido ósteo-fascio-condro-ligamentoso humano                                      201809
+050502Transplante de orgãos                                                                               201809
+050602Intercorrência pós transplante                                                                      201809
+060102Antagonista do glutamato                                                                            201809
+060302Imunossupressores                                                                                   201809
+060402Agentes Quelantes de Ferro                                                                          201809
+070102OPM ortopédicas                                                                                     201809
+070202OPM em cirurgia buco-maxilo-facial                                                                  201809
+080202Outras ações                                                                                        201809
+060403Agonistas da Dopamina/inibidor da prolactina                                                        201809
+030903Terapias do aparelho geniturinário                                                                  201809
+070203OPM em ortopedia                                                                                    201809
+040303Tumores do sistema nervoso                                                                          201809
+040403Anomalia Crânio e bucomaxilo facial                                                                 201809
+040503Corpo vítreo, retina, coróide e esclera                                                             201809
+040603Cardiologia intervencionista                                                                        201809
+040703Pancreas, baco, figado e vias biliares                                                              201809
+040803Coluna vertebral e caixa torácica                                                                   201809
+040903Próstata e vesicula seminal                                                                         201809
+041203Pleura                                                                                              201809
+041303Reparadora para lipodistrofia                                                                       201809
+041503Politraumatizados                                                                                   201809
+041603Cabeça e pescoço                                                                                    201809
+050103Coleta e exames para ident. de doador de célula-tronco hematopoéticas (busca internacional/nacional)201809
+050303Manutenção e retirada de orgãos e tecidos para transplante                                          201809
+050403Processamento de válvula/tubo valvado cardíaco humano                                               201809
+060103Antianêmicos não hormonais                                                                          201809
+060303Imunoterápicos                                                                                      201809
+010103Visita domiciliar                                                                                   201809
+020203Exames sorológicos e imunológicos                                                                   201809
+020403Exames radiológicos do torax e mediastino                                                           201809
+020603Tomografia do abdomen, pelve e membros inferiores                                                   201809
+020703RM do abdomen, pelve e membros inferiores                                                           201809
+020803Aparelho endócrino                                                                                  201809
+020903Aparelho ginecológico                                                                               201809
+021103Diagnóstico cinético funcional                                                                      201809
+030103Atendimento pré-hospitalar de urgência                                                              201809
+030203Assistência fisioterapêutica em oftalmologia                                                        201809
+030303Tratamento de doenças endocrinas, metabólicas e nutricionais                                        201809
+030403Quimioterapia para controle temporário de doença - adulto                                           201809
+030703Periodontia clínica                                                                                 201809
+030803Outras consequências de causas externas                                                             201809
+070103OPM auditivas                                                                                       201809
+060404Agonistas seletivos dos receptores beta 2 adrenérgicos                                              201809
+070104OPM oftalmológicas                                                                                  201809
+070204OPM em assistência cardiovascular                                                                   201809
+040304Neurocirurgias vasculares                                                                           201809
+040504Cavidade orbitária e globo ocular                                                                   201809
+040604Cirurgia endovascular                                                                               201809
+040704Parede e cavidade abdominal                                                                         201809
+040804Cintura pélvica                                                                                     201809
+040904Bolsa escrotal, testículos e cordão espermático                                                     201809
+041204Parede torácica                                                                                     201809
+041304Outras cirurgias plásticas/reparadoras                                                              201809
+041504Procedimentos cirúrgicos gerais                                                                     201809
+041604Esôfago-gastro duodenal e vísceras anexas e outros orgãos intra-abdominais                          201809
+050104Exames imunogenéticos/histocompatibilidade para identificação de doador de orgãos                   201809
+050304Açõess complementares destinadas a doação de orgãos, tecidos e células.                             201809
+050404Processamento de pele humana                                                                        201809
+060104Antianêmicos hormonais                                                                              201809
+060304Reguladores de atividade hormonal - inibidores da prolactina                                        201809
+010104Alimentação e nutrição                                                                              201809
+020204Exames coprológicos                                                                                 201809
+020404Exames radiológicos da cintura escapular e dos membros superiores                                   201809
+020804Aparelho geniturinário                                                                              201809
+020904Aparelho respiratório                                                                               201809
+021104Diagnóstico em ginecologia-obstetrícia                                                              201809
+030104Outros atendimentos realizados por profissionais de níveis superior                                 201809
+030204Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                   201809
+030304Tratamento de doenças do sistema nervoso central e periférico                                       201809
+030404Quimioterapia prévia (neoadjuvante/citorredutora)- adulto                                           201809
+030704Moldagem/Manutenção                                                                                 201809
+030804Complicações consequentes a procedimentos em saúde                                                  201809
+030904Terapias do aparelho cardiovascular                                                                 201809
+060405Alcalóides naturais do ópio                                                                         201809
+030405Quimioterapia adjuvante (profilática) - adulto                                                      201809
+070205OPM comuns                                                                                          201809
+030905Práticas integrativas e complementares                                                              201809
+040305Tratamento neurocirúrgico da dor funcional                                                          201809
+040505Conjuntiva, córnea, câmara anterior, íris, corpo ciliar e cristalino                                201809
+040605Eletrofisiologia                                                                                    201809
+040805Membros inferiores                                                                                  201809
+040905Pênis                                                                                               201809
+041205Pulmão                                                                                              201809
+041605Colo-proctologia                                                                                    201809
+050105Exames imunogenéticos/histocompatibilidade para identificação de receptor de orgãos                 201809
+060105Antiasmáticos                                                                                       201809
+060305Antitrombóticos                                                                                     201809
+010105Praticas Integrativas/Complementares                                                                201809
+020205Exames de uroanálise                                                                                201809
+020405Exames radiológicos do abdomen e pelve                                                              201809
+020805Aparelho esquelético                                                                                201809
+021105Diagnóstico em neurologia                                                                           201809
+030105Atenção domiciliar                                                                                  201809
+030205Assistência fisioterapêutica nas disfunções musculo esqueleticas (todas as origens)                 201809
+030305Tratamento de doenças do aparelho da visão                                                          201809
+070105OPM em gastroenterologia                                                                            201809
+060406Alimentos dietéticos isentos de fenilalanina                                                        201809
+030406Quimioterapia curativa - adulto                                                                     201809
+070206OPM em urologia                                                                                     201809
+030906Acessos venosos                                                                                     201809
+040306Investigação e cirurgia da epilepsia                                                                201809
+040806Gerais                                                                                              201809
+040906Útero e anexos                                                                                      201809
+041606Ginecologia                                                                                         201809
+050106Exames gráficos ou por imagem para diagnóstico de morte encefálica                                  201809
+060106Antibióticos                                                                                        201809
+060306Tensiolítico alveolar                                                                               201809
+020206Exames hormonais                                                                                    201809
+020406Exames radiológicos da cintura pélvica e dos membros inferiores                                     201809
+020806Aparelho nervoso                                                                                    201809
+021106Diagnóstico em oftalmologia                                                                         201809
+030106Consulta/Atendimento ás urgências (em geral)                                                        201809
+030206Assistência fisioterapêutica nas alterações em neurologia                                           201809
+030306Tratamento de doenças cardiovasculares                                                              201809
+070106OPM em urologia                                                                                     201809
+060407Aminas Terciárias                                                                                   201809
+030407Quimioterapia de tumores de crianca e adolescente                                                   201809
+070207OPM em cirurgias oftálmicas                                                                         201809
+030907Angiologia                                                                                          201809
+040307Tratamento neuro-endovascular                                                                       201809
+040907Vagina, vulva e períneo                                                                             201809
+041607Oftalmologia                                                                                        201809
+050107Outros exames complementares para doação de orgãos, tecidos e células                               201809
+060107Antiepiléticos                                                                                      201809
+060307Hemoderivados                                                                                       201809
+020207Exames toxicológicos ou de monitorização terapêutica                                                201809
+020807Aparelho respiratório                                                                               201809
+021107Diagnóstico em otorrinolaringologia/fonoaudiologia                                                  201809
+030107Atendimento/acompanhamento em reabilitação física, mental, visual e múltiplas deficiências          201809
+030207Assistência fisioterapêutica em queimados                                                           201809
+030307Tratamento de doenças do aparelho digestivo                                                         201809
+070107OPM em odontologia                                                                                  201809
+060408Aminoquinolinas                                                                                     201809
+070108OPM de anomalias buco-maxilo-facial                                                                 201809
+070208OPM em cirurgia plástica/reparadora                                                                 201809
+040308Neurocirurgia funcional estereotáxica                                                               201809
+041608Pele e cirurgia plástica                                                                            201809
+050108Exames complementares para pacientes transplantados                                                 201809
+030408Quimioterapia - procedimentos especiais                                                             201809
+060308Medicamentos para transplante                                                                       201809
+020208Exames microbiológicos                                                                              201809
+020808Aparelho hematológico                                                                               201809
+021108Diagnóstico em pneumologia                                                                          201809
+030108Atendimento/Acompanhamento psicossocial                                                             201809
+030308Tratamento de doenças da pele e do tecido  subcutâneo                                               201809
+060108Antiinflamatórios                                                                                   201809
+060409Análogos da mostarda nitrogenada                                                                    201809
+070109Substituição/Troca em órteses/próteses                                                              201809
+070209OPM em cirurgia de otorrinolaringologia                                                             201809
+041609Ossos e partes moles                                                                                201809
+060109Antiinflamatórios intestinais                                                                       201809
+030409Medicina nuclear - terapêutica oncológica                                                           201809
+020809Outros métodos de diagnóstico em medicina nuclear in vivo                                           201809
+021109Diagnóstico em urologia                                                                             201809
+030109Atendimento/Acompanhamento em saúde do idoso                                                        201809
+030309Tratamento de doenças do sistema osteomuscular e do tecido conjuntivo                               201809
+020209Exames em outros líquidos biológicos                                                                201809
+070110OPM em queimados                                                                                    201809
+030310Tratamento durante a gestação, parto e puerpério                                                    201809
+030410Gerais em oncologia                                                                                 201809
+021110Diagnóstico em psicologia-psiquiatria                                                               201809
+041610Neurocirurgia                                                                                       201809
+060410Vasopressina e Análogos                                                                             201809
+030110Atendimentos de enfermagem (em geral)                                                               201809
+070210OPM em nefrologia                                                                                   201809
+060110Antiparkinsonianos                                                                                  201809
+020210Exames de genética                                                                                  201809
+030311Tratamento de malformações congênitas, deformidades e anomalias cromossômicas                       201809
+030111Atendimento/Acompanhamento queimados                                                                201809
+021111Diagnóstico em cardiologia intervencionista                                                         201809
+020211Exames para triagem neonatal                                                                        201809
+070211OPM em queimados                                                                                    201809
+060411Análogos do hormônio liberador de gonadotrofina                                                     201809
+060111Antipsicóticos                                                                                      201809
+041611Cirurgia torácica                                                                                   201809
+020212Exames imunohematológicos                                                                           201809
+030112Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabolicas e nutricionais          201809
+021112Diagnóstico em traumato-ortopedia                                                                   201809
+030312Tratamentos por medicina nuclear in vivo                                                            201809
+060412Antiandrogênios                                                                                     201809
+060112Antivirais                                                                                          201809
+041612Mastologia                                                                                          201809
+070212OPM para transplantes                                                                               201809
+041613Otorrinolaringologia                                                                                201809
+030113Acompanhamento em outras especialidades                                                             201809
+030313Tratamento de pacientes sob cuidados prolongados                                                    201809
+060413Anticolinesterases                                                                                  201809
+060113Bloqueadores neuromusculares                                                                        201809
+060114Ceratolíticos sistêmicos                                                                            201809
+030114Cuidados Paliativos                                                                                 201809
+030314Tratamento de doenças do ouvido/apófise mastóide e vias aéreas                                      201809
+060414Antigonadotrofinas e agentes similares                                                              201809
+060415Barbitúricos e derivados                                                                            201809
+060115Complementos alimentares para fenilcetonúricos                                                      201809
+030315Tratamento das doenças do aparelho geniturinário                                                    201809
+030316Tratamento de algumas afecçõess originadas no período neonatal                                      201809
+060116Fatores de crescimento mielóides                                                                    201809
+060416Bisfosfonados                                                                                       201809
+030317Tratamento dos transtornos mentais e comportamentais                                                201809
+060117Hipnoanalgésicos                                                                                    201809
+060417Compostos de Alumínio                                                                               201809
+060418Derivados da benzodiazepina                                                                         201809
+060118Hipolipemiantes                                                                                     201809
+030318Tratamento HIV/Aids                                                                                 201809
+060419Derivados de ácidos graxos                                                                          201809
+030319Reabilitação                                                                                        201809
+060119Imunomoduladores                                                                                    201809
+060120Imunossupressores                                                                                   201809
+060420Derivados do adamantano                                                                             201809
+060121Imunoterapicos                                                                                      201809
+060421Derivados do indol                                                                                  201809
+060122Inibidores da acetilcolinesterase                                                                   201809
+060422Derivados da succinimida                                                                            201809
+060123Mucolíticos                                                                                         201809
+060423Diazepinas, oxazepinas e tiazepinas                                                                 201809
+060124Quelantes do ferro                                                                                  201809
+060424 Enzimas                                                                                            201809
+060125Outros quelantes                                                                                    201809
+060425Fatores de estimulação de colônias                                                                  201809
+060126Reguladores da atividade hormonal-agonistas da vasopressina                                         201809
+060426Ferro trivalente, preparações parenterais                                                           201809
+060127Reguladores da atividade hormonal-analogos do GNRH                                                  201809
+060427Fibratos, Acido Nicotínico e seus derivados                                                         201809
+060128Reguladores da atividade hormonal-antiandrogênicos                                                  201809
+060428Glicocorticóides                                                                                    201809
+060429Somatostatina e Análogos                                                                            201809
+060129Reguladores da atividade hormonal-inibidores das gonadotrofinas                                     201809
+060130Reguladores da atividade hormonal-inibidores do hormônio do crescimento                             201809
+060430 Imunoglobulinas específicas                                                                        201809
+060131Reguladores da atividade hormonal-inibidores de prolactina                                          201809
+060431Imunoglobulinas, humana normal                                                                      201809
+060132Reguladores da atividade hormonal-hormonios de crescimento                                          201809
+060432Imunossupressores seletivos                                                                         201809
+060433Inibidores da agregação plaquetária, excl. heparina                                                 201809
+060133Reguladores da atividade hormonal-hormonios tireoidianos                                            201809
+060134Reguladores da atividade hormonal-mineralocorticóides                                               201809
+060434Inibidores da calcineurina                                                                          201809
+060135Reguladores da homeostase do cálcio                                                                 201809
+060435Inibidores da fosfodiesterase                                                                       201809
+060136Repositores enzimáticos                                                                             201809
+060436Inibidores da HMG-CoA redutase                                                                      201809
+060437Inibidores da monoamino oxidase tipo b                                                              201809
+060438Inibidores do fator de necrose tumoral alfa (TNF-a)                                                 201809
+060439Interferonas                                                                                        201809
+060440Medicamentos para tratamento da hipercalemia e hiperfosfatemia                                      201809
+060441Medicamentos utilizados na dependência de opióides                                                  201809
+060442Mineralocorticóides                                                                                 201809
+060443Modulador seletivo de receptor de estrogênio                                                        201809
+060444Mucolíticos                                                                                         201809
+060445Nucleosídeo e nucleotídeo (excl. inibidores da transcriptase reversa)                               201809
+060446Nucleosídeo e nucleotídeo, Inibidor da transcriptase reversa                                        201809
+060447Outras preparações antianêmicas                                                                     201809
+060448Outros agentes citotóxicos                                                                          201809
+060449Outros agentes dopaminérgicos                                                                       201809
+060450Outros antiepilépticos                                                                              201809
+060451Outros antipsicóticos                                                                               201809
+060452Outros imunoestimulantes                                                                            201809
+060453Outros imunossupressores                                                                            201809
+060454Outros medicamentos do sistema nervoso                                                              201809
+060455Outros relaxantes musculares de ação periférica                                                     201809
+060456Penicilamina e agentes similares                                                                    201809
+060457Preparações de calcitonina                                                                          201809
+060458Preparações de enzimas                                                                              201809
+060459Retinóides para tratamento da acne                                                                  201809
+060460Retinóides para tratamento da psoríase                                                              201809
+060461Somatropina e agonistas da somatropina                                                              201809
+060462Vitamina D e análogos, incluido combinação dos dois                                                 201809
+060463Produtos diversos para o trato alimentar ou metabolismo                                             201809
+060464Inibidores de Protease                                                                              201809
+060465Análogos das Prostaglandinas                                                                        201809
+060466Inibidores da Anidrase Carbonica                                                                    201809
+060467Simpatomiméticos na Terapia de Glaucoma                                                             201809
+060468Anticorpos Monoclonais                                                                              201809
+060469Inibidores de Interleucinas                                                                         201809
+060470Outros Antipsoriaticos de Uso Tópico                                                                201809
+060471Corticoesteróides de Potência Muito Alta (Grupo IV)                                                 201809
+060472Derivados do Ácido Propriônico                                                                      201809
+060473Parassimpaticomiméticos                                                                             201809
+060474Agentes Beta Bloqueadores                                                                           201809
+060475Outros Anti-hipertensivos                                                                           201809
+060476Outros Antivirais                                                                                   201809
+060477Outros Agentes Antiparatireoide                                                                     201809

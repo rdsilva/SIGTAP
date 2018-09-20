@@ -1,0 +1,339 @@
+168001Atenção Especializada Em Doenças Raras                                                                                                                201809
+169001Urologia em Geral                                                                                                                                     201809
+100001Atendimento em presídio até 100 presos                                                                                                                201809
+101001Saúde da família                                                                                                                                      201809
+102001Estratégia de Agentes Comunitários de Saúde - EACS                                                                                                    201809
+103001Ambulância de transporte                                                                                                                              201809
+104001Central de Regulação de Internações Hospitalares                                                                                                      201809
+105001Neurocirurgia do trauma e anomalias do desenvolvimento                                                                                                201809
+106001Testagem e aconselhamento                                                                                                                             201809
+107001Serviço de Atenção à Saúde Auditiva na Média Complexidade                                                                                             201809
+108001Atendimento/acompanhamento em saúde do trabalhador                                                                                                    201809
+109001Unidade sócio-educativa com até 40 adolecentes                                                                                                        201809
+110001Atenção à infertilidade                                                                                                                               201809
+111001Diagnóstico e tratamento                                                                                                                              201809
+112001Acompanhamento do pré-natal de risco habitual                                                                                                         201809
+113001Assitência Domiciliar                                                                                                                                 201809
+114001Dentística                                                                                                                                            201809
+115001Residência terapêutica em saúde mental                                                                                                                201809
+116001Eletrofisiologia                                                                                                                                      201809
+117001Tratamento da lipodistrofia do portador de HIV / AIDS                                                                                                 201809
+118001Cirurgia torácica                                                                                                                                     201809
+119001Abordagem e tratamento do fumante                                                                                                                     201809
+120001Exames anatomopatológicos                                                                                                                             201809
+121001Radiologia                                                                                                                                            201809
+122001Teste Ergométrico                                                                                                                                     201809
+123001OPM auxiliares de locomoção                                                                                                                           201809
+124001Diagnóstico/Tratamento das doenças endócrinas, metabólicas e nutricionais                                                                             201809
+125001Dispensação de Medicamentos do Componente Especializado da Assistência Farmaceutica.                                                                  201809
+126001Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                                                                  201809
+127001Tratamento clínico, cirúrgico, reparador e acompanhamento ao obeso                                                                                    201809
+128001Procedimentos destinados à obtenção do sangue para fins de assitência hemoterápica                                                                    201809
+129001Exames de histocompatibilidade por meio de sorologia                                                                                                  201809
+130001Tratamento Dialítico-Hemodiálise                                                                                                                      201809
+131001Diagnóstico em oftalmologia                                                                                                                           201809
+132001Oncologia pediátrica                                                                                                                                  201809
+133001Tratamento de Doenças das Vias Aéreas Inferiores                                                                                                      201809
+134001Acupuntura                                                                                                                                            201809
+135001Reabilitação Visual                                                                                                                                   201809
+136001Enteral                                                                                                                                               201809
+137001Exame eletrocardiográfico por telemedicina                                                                                                            201809
+138001Diagnóstico e tratamento em cintura escapular                                                                                                         201809
+139001Tratamento de recém-nascido com hipotireoidismo e fenilcetonuria                                                                                      201809
+141001Vigilância epidemiológica                                                                                                                             201809
+142001Do aparelho digestivo                                                                                                                                 201809
+143001Transporte terrestre                                                                                                                                  201809
+144001Coleta realizada fora das estrutura laboratorial                                                                                                      201809
+145001Exames Bioquimicos                                                                                                                                    201809
+146001Diagnóstica                                                                                                                                           201809
+147001NASF 1                                                                                                                                                201809
+148001Saúde mental                                                                                                                                          201809
+149001Rim                                                                                                                                                   201809
+150001Fístula arteriovenosa sem enxerto                                                                                                                     201809
+151001Medicina nuclear in vivo                                                                                                                              201809
+153001Acompanhamento Clínico, pré e pós operatório e hormonioterapia.                                                                                       201809
+154001Banco de valvula cardiaca humana                                                                                                                      201809
+155001Serviço de Traumatologia e Ortopedia                                                                                                                  201809
+156001Atenção as Pessoas Ostomizadas I                                                                                                                      201809
+157001Laboratorio Regional de Protese Dentaria                                                                                                              201809
+158001Serviço de Atenção Integral em Hanseniase Tipo I                                                                                                      201809
+159001Atenção Básica                                                                                                                                        201809
+160001Teleconsultoria Assíncrona                                                                                                                            201809
+162001ADULTO                                                                                                                                                201809
+163001NEONATAL CONVENCIONAL                                                                                                                                 201809
+164001Dispensação de OPM Auxiliares de Locomoção                                                                                                            201809
+165001Referência para Atenção Integral às Pessoas em Situação de Violência Sexual                                                                           201809
+167001ODONTOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                           201809
+100002Atendimento em manicômio até 100 presos                                                                                                               201809
+169002Litotripsia                                                                                                                                           201809
+102002Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade I)                                                                          201809
+103002Unidade de suporte básico de vida terrestre (USB)                                                                                                     201809
+104002Cental de Regulação de Consultas e Exames                                                                                                             201809
+105002Coluna e nervos periféricos                                                                                                                           201809
+106002Diagnóstico e tratamento                                                                                                                              201809
+107002Serviço de Atenção à Saúde Auditiva na Alta Complexidade                                                                                              201809
+108002Centro de referência em saúde do trabalhador CEREST estadual                                                                                          201809
+109002Unidade sócio-educativa com de 41 a 100 adolecentes                                                                                                   201809
+110002Contracepção clínica                                                                                                                                  201809
+111002Tratamento multidrogas resistentes                                                                                                                    201809
+112002Acompanhamento do pré-natal de alto risco                                                                                                             201809
+113002Internação Domiciliar                                                                                                                                 201809
+114002Endodontia                                                                                                                                            201809
+115002Atendimento psicossocial                                                                                                                              201809
+116002Cirurgia cardiovascular (adulto)                                                                                                                      201809
+117002Tratamento em queimados                                                                                                                               201809
+120002Exames citopatológicos                                                                                                                                201809
+121002Ultra-sonografia                                                                                                                                      201809
+122002Teste de Holter                                                                                                                                       201809
+123002OPM ortopédicas                                                                                                                                       201809
+124002Cirurgia de glândulas endócrinas                                                                                                                      201809
+125002Farmácia Popular                                                                                                                                      201809
+126002Assistência fisioterapêutica em alterações oncológicas                                                                                                201809
+128002Diagnóstico em hemoterapia                                                                                                                            201809
+129002Exames de histocompatibilidade por sorologia e biologia                                                                                               201809
+131002Tratamento clínico do aparelho da visão                                                                                                               201809
+132002Hematologia                                                                                                                                           201809
+133002Diagnóstico em Pneumologia                                                                                                                            201809
+134002Fitoterapia                                                                                                                                           201809
+135002Reabilitação Intelectual                                                                                                                              201809
+136002Enteral/Parenteral                                                                                                                                    201809
+138002Diagnóstico e tratamento em membros superiores                                                                                                        201809
+139002Tratamento de recém-nascido com doenças falciformes                                                                                                   201809
+141002Vigilância sanitária                                                                                                                                  201809
+142002Do aparelho respiratório                                                                                                                              201809
+143002Transporte aéreo                                                                                                                                      201809
+145002Exames hematológicos e hemostasia                                                                                                                     201809
+146002Cirúrgica                                                                                                                                             201809
+147002NASF 2                                                                                                                                                201809
+148002AIDS                                                                                                                                                  201809
+149002Medula óssea                                                                                                                                          201809
+150002Fístula arteriovenosa com enxerto                                                                                                                     201809
+151002Medicina nuclear in vitro                                                                                                                             201809
+153002Cirurgia e Acompanhamento pré e pós oreratório                                                                                                        201809
+154002Banco de tecido musculo esqueletico                                                                                                                   201809
+155002Serviço de Traumatologia e Ortopedia Pediátrica (até 21 anos de idade)                                                                                201809
+156002Atenção as Pessoas Ostomizadas II                                                                                                                     201809
+158002Serviço de Atenção Integral em Hanseniase Tipo II                                                                                                     201809
+159002Atenção Básica com Saúde Bucal                                                                                                                        201809
+160002Teleconsultoria Síncrona                                                                                                                              201809
+162002NEONATAL                                                                                                                                              201809
+163002NEONATAL CANGURU                                                                                                                                      201809
+164002Manutenção e Adaptação de OPM Auxiliares de Locomoção                                                                                                 201809
+165002Atenção Integral à Saúde de Adolescentes em Situação de Violência Sexual                                                                              201809
+167002ODONTOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                       201809
+168002Referência em Doenças Raras                                                                                                                           201809
+101002Saúde bucal MI                                                                                                                                        201809
+100003Atendimento em presídio acima de 100 presos                                                                                                           201809
+101003Saúde bucal MII                                                                                                                                       201809
+102003Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade II)                                                                         201809
+103003Unidade de suporte avançado de vida terrestre (USA)                                                                                                   201809
+104003Central de Regulação de Urgências                                                                                                                     201809
+105003Tumores do sistema nervoso                                                                                                                            201809
+106003Diagnóstico, tratamento e capacitação técnica                                                                                                         201809
+107003Terapia fonoaudiológica                                                                                                                               201809
+108003VIGILÂNCIA EM SAÚDE DO TRABALHADOR (VISAT)                                                                                                            201809
+109003Unidade sócio-educativa com de 101 a 180 adolecentes                                                                                                  201809
+110003Laqueadura                                                                                                                                            201809
+112003Parto em gestação de risco habitual                                                                                                                   201809
+113003Equipe Multidisciplinar de Atenção Domiciliar - EMAD                                                                                                  201809
+114003Periodontia clínica                                                                                                                                   201809
+115003Serviço Hospitalar para Atenção a Saúde Mental                                                                                                        201809
+116003Cirurgia cardiovascular (Pediátrico)                                                                                                                  201809
+117003Tratamento da lipoatrofia facial do portador de HIV / AIDS                                                                                            201809
+120003Monitoramento Externo da Qualidade dos Exames Citopatologicos do Colo do Útero                                                                        201809
+121003Tomografia computadorizada                                                                                                                            201809
+122003Exame Eletrocardiográfico                                                                                                                             201809
+123003OPM auditivas                                                                                                                                         201809
+125003Farmácia com manipulação homeopática                                                                                                                  201809
+126003Assistência fisioterapêutica em oftalmologia                                                                                                          201809
+128003Procedimentos especiais em hemoterapia                                                                                                                201809
+130003Confeccção/Intervenção de Acessos para Diálise                                                                                                        201809
+131003Tratamento cirúrgico do aparelho da visão                                                                                                             201809
+132003Oncologia clínica                                                                                                                                     201809
+133003Diagnóstico em Pneumologia por Telemedicina                                                                                                           201809
+134003Outras técnicas em medicina tradicional chinesa                                                                                                       201809
+135003Reabilitação Física                                                                                                                                   201809
+136003Enteral/Parenteral, com manipulação/fabricação                                                                                                        201809
+138003Diagnóstico e tratamento em coluna vertebral e caixa torácica                                                                                         201809
+139003Tratamento de recém-nascido com fibrose cística                                                                                                       201809
+141003Vigilância ambiental                                                                                                                                  201809
+142003Do aparelho urinário                                                                                                                                  201809
+143003Transporte marítimo                                                                                                                                   201809
+145003Exames sorológicos e imunológicos                                                                                                                     201809
+148003Geriátrico                                                                                                                                            201809
+149003Coração                                                                                                                                               201809
+151003Medicina nuclear in vivo por telemedicina                                                                                                             201809
+155003Serviço de Traumatologia e Ortopedia de Urgência                                                                                                      201809
+158003Serviço de Atenção Integral em Hanseniase Tipo III                                                                                                    201809
+160003Segunda Opinião Formativa                                                                                                                             201809
+162003PEDIÁTRICO                                                                                                                                            201809
+163003PEDIÁTRICO                                                                                                                                            201809
+164003Dispensação de OPM Ortopédica                                                                                                                         201809
+165003Atenção Integral à Saúde de Crianças em Situação de Violência Sexual                                                                                  201809
+167003OFTALMOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                          201809
+128004Medicina transfusional                                                                                                                                201809
+126004Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                                                                     201809
+131004Projeto Olhar Brasil                                                                                                                                  201809
+132004Radioterapia                                                                                                                                          201809
+134004Práticas corporais/Atividade física                                                                                                                   201809
+135004Reabilitação visual/mental/múltiplas deficiências                                                                                                     201809
+138004Diagnóstico e tratamento em cintura pélvica                                                                                                           201809
+139004Tratamento de recém-nascido com outras doenças congênitas                                                                                             201809
+140004Estabilização de paciente crítico/grave                                                                                                               201809
+141004Núcleo de vigilância hospitalar                                                                                                                       201809
+142004Do aparelho ginecológico                                                                                                                              201809
+145004Exames coprológicos                                                                                                                                   201809
+148004Fibrose cística                                                                                                                                       201809
+149004Pulmão                                                                                                                                                201809
+162004QUEIMADOS                                                                                                                                             201809
+163004ADULTO                                                                                                                                                201809
+164004Manutenção e Adaptação de OPM Ortopédica                                                                                                              201809
+165004Atenção Integral à Saúde de Homens em Situação de Violência Sexual                                                                                    201809
+167004OFTALMOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                      201809
+100004Atendimento em manicômio acima de 100 presos                                                                                                          201809
+104004Unidade de autorizações de TFD intermunicipais                                                                                                        201809
+105004Neurocirurgia vascular                                                                                                                                201809
+107004Diagnóstico em audiologia/otologia                                                                                                                    201809
+109004Unidade sócio-educativa com mais de 180 adolecentes                                                                                                   201809
+110004Vasectomia                                                                                                                                            201809
+112004Parto em gestação de alto risco                                                                                                                       201809
+113004Equipe Multidisciplinar de Apoio - EMAP                                                                                                               201809
+114004Moldagem/Manutenção                                                                                                                                   201809
+115004Serviço Residencial Terapêutico Tipo I - SRT tipo I                                                                                                   201809
+116004Cirurgia vascular                                                                                                                                     201809
+121004Ressonância magnética                                                                                                                                 201809
+122004Exame Eletroencefalográfico                                                                                                                           201809
+123004OPM oftalmológicas                                                                                                                                    201809
+125004Dispensação de medicamentos estratégicos                                                                                                              201809
+130004Tratamento Nefrologia em Geral                                                                                                                        201809
+130005Tratamento Diálitico Peritonial                                                                                                                       201809
+131005Diagnóstico em Oftalmologia por Telemedicina                                                                                                          201809
+132005Oncologia cirúrgica                                                                                                                                   201809
+134005Homeopatia                                                                                                                                            201809
+135005Reabiliatação Auditiva                                                                                                                                201809
+138005Diagnóstico e tratamento em membros inferiores                                                                                                        201809
+139005Acompanhamento a pacientes com diagnósticos de Hiperplasia Adrenal Congênita                                                                          201809
+140005Atendimento ao paciente com Acidente Vascular Cerebral (AVC)                                                                                          201809
+145005Exames de uroanálise                                                                                                                                  201809
+148005Cirúrgico / Diagnóstico                                                                                                                               201809
+149005Córnea / Esclera                                                                                                                                      201809
+162005DOENÇA CORONARIANA (UCO)                                                                                                                              201809
+164005Dispensação de OPM Auditiva                                                                                                                           201809
+165005Atenção Integral à Saúde de Pessoas Idosas em Situação de Violência Sexual                                                                            201809
+103005Unidade de Suporte Básico de vida: Equipe Embarcação                                                                                                  201809
+104005Unidade de autorizações de TFD interestaduais                                                                                                         201809
+105005Tratamento neurocirúrgico da dor funcional                                                                                                            201809
+107005Implante Coclear                                                                                                                                      201809
+112005Centro de parto normal                                                                                                                                201809
+114005Cirurgia oral                                                                                                                                         201809
+115005Serviço Residencial Terapêutico Tipo II - SRT tipo II                                                                                                 201809
+116005Cardiologia intervencionista (hemodinâmica)                                                                                                           201809
+122005Teste Ergométrico por Telemedicina                                                                                                                    201809
+123005OPM em gastroenterologia                                                                                                                              201809
+125005Dispensação de medicamentos básicos                                                                                                                   201809
+126005Assistência fisioterapêutica nas disfunções músculo-esqueléticas (todas as origens)                                                                   201809
+130006Tratamento em DRC                                                                                                                                     201809
+126006Assistência fisioterapêutica em queimados                                                                                                             201809
+134006Termalismo/Crenoterapia                                                                                                                               201809
+139006Acompanhamento a pacientes com diagnósticos de Deficiência Biotinidase                                                                                201809
+140006Pronto Atendimento Clínico                                                                                                                            201809
+145006Exames hormonais                                                                                                                                      201809
+148006Acompanhamento pós-transplante de medula óssea                                                                                                        201809
+149006Fígado                                                                                                                                                201809
+164006Manutenção e Adaptação de OPM Auditiva                                                                                                                201809
+165006Interrupção de Gravidez nos Casos Previstos em Lei                                                                                                    201809
+103006Veículos de intervenção rápida                                                                                                                        201809
+104006Central Estadual de Regulação da Alta Complexidade                                                                                                    201809
+105006Investigação e cirurgia de epilepsia                                                                                                                  201809
+107006Triagem Auditiva Neonatal                                                                                                                             201809
+112006Casa da Gestante, Bebê e Puérpera                                                                                                                     201809
+114006Cirurgia buco-maxilo-facial                                                                                                                           201809
+115006UA Adulto                                                                                                                                             201809
+116006Cardiologia Endovascular Extracardíaco                                                                                                                201809
+121006Radiologia intervencionista                                                                                                                           201809
+122006Teste Holter por Telemedicina                                                                                                                         201809
+123006OPM em urologia                                                                                                                                       201809
+125006Farmácia Hospitalar                                                                                                                                   201809
+131006Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                                 201809
+131007Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                             201809
+126007Assistência fisioterapêutica nas alterações em neurologia                                                                                             201809
+135007Oficina Ortopédica Fixa                                                                                                                               201809
+140007Pronto Atendimento Pediátrico                                                                                                                         201809
+145007Exames de  vigilância epidemiológica e  ambiental                                                                                                     201809
+149007Pâncreas                                                                                                                                              201809
+164007Dispensação de OPM Oftalmológica                                                                                                                      201809
+165007Atenção Ambulatorial às Pessoas em Situação de Violência Sexual                                                                                       201809
+103007Outros veículos                                                                                                                                       201809
+105007Tratamento endovascular                                                                                                                               201809
+107007Diagnóstico em Audiologia/Otologia po Telemedicina                                                                                                    201809
+114007Atendimento à pessoa com deficiência                                                                                                                  201809
+115007UA Infantojuvenil                                                                                                                                     201809
+116007Cardiologia Clínica                                                                                                                                   201809
+121007Radiologia por telemedicina                                                                                                                           201809
+122007Exame Eletrocardiografico por Telemedicina                                                                                                            201809
+123007OPM em odontologia                                                                                                                                    201809
+134007Medicina antroposófica                                                                                                                                201809
+135008Oficina Ortopédica Intinerante Terrestre                                                                                                              201809
+126008Diagnóstico cinético funcional                                                                                                                        201809
+145008Exames toxicológicos ou de monitorização terapêutica                                                                                                  201809
+149008Retirada de orgãos                                                                                                                                    201809
+164008Manutenção e Adaptação de OPM Oftalmológica                                                                                                           201809
+165008Coleta de Vestígios de Violência Sexual                                                                                                               201809
+103008Ambulância de resgate                                                                                                                                 201809
+105008Neurocirurgia funcional estereotáxica                                                                                                                 201809
+107008Atenção Especializada às Pessoas com Deficiência Auditiva                                                                                             201809
+115008Unidade de Atenção em Regime Residencial                                                                                                              201809
+116008Serviço de Atenção Cardiovascular/Cardiologia Angiologia                                                                                              201809
+121008Ultra-sonografia por telemedicina                                                                                                                     201809
+122008Exame Eletroencefalografico por Telemedicina                                                                                                          201809
+123008OPM buco-maxilo-facial                                                                                                                                201809
+140008Pronto Atendimento Obstétrico                                                                                                                         201809
+135009Oficina Ortopédica Intinerante Fluvial                                                                                                                201809
+140009Pronto Atendimento Psiquiátrico                                                                                                                       201809
+145009Exames microbiológicos                                                                                                                                201809
+149009Pele                                                                                                                                                  201809
+123009Substituição/Troca em órteses/próteses                                                                                                                201809
+105009Polissonografia                                                                                                                                       201809
+121009Tomografia computadorizada por telemedicina                                                                                                           201809
+122009Exame Eletroneuromiografia                                                                                                                            201809
+164009Substitução/Troca de OPM                                                                                                                              201809
+123010OPM em queimados                                                                                                                                      201809
+149010Válvulas cardíacas                                                                                                                                    201809
+145010Exames em outros líquidos biológicos                                                                                                                  201809
+121010Ressonância magnética por telemedicina                                                                                                                201809
+103010Motolância                                                                                                                                            201809
+140010Pronto Atendimento Oftalmológico                                                                                                                      201809
+135010Atenção Fonoaudiológica                                                                                                                               201809
+122010Exame videoeletroencefalografia                                                                                                                       201809
+122011Potenciais Evocados                                                                                                                                   201809
+121011Radiologia intervencionista por telemedicina                                                                                                          201809
+103011Unidade de Suporte Avançado de vida: Equipe Embarcação                                                                                                201809
+149011Osteocondroligamentos                                                                                                                                 201809
+145011Exames de genética                                                                                                                                    201809
+140011Pronto Atendimento Odontológico                                                                                                                       201809
+135011Atenção Fisioterapeutica                                                                                                                              201809
+123011OPM em nefrologia                                                                                                                                     201809
+135012Atenção à Saúde das Pessoas Ostomizadas I                                                                                                             201809
+145012Exames para triagem neonatal                                                                                                                          201809
+103012Equipe Aeromédico                                                                                                                                     201809
+123012OPM - Projeto Olhar Brasil                                                                                                                            201809
+122012Potenciais Evocados por Telemedicina                                                                                                                  201809
+149012Separação, avaliação biomicroscópica e conservação da córnea/esclera                                                                                  201809
+140012Pronto Socorro Pediátrico                                                                                                                             201809
+121012Mamografia                                                                                                                                            201809
+123013OPM Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                             201809
+149013Contagem endotelial corneana                                                                                                                          201809
+145013Exames imunohematológicos                                                                                                                             201809
+135013Atenção à Saúde das Pessoas Ostomizadas II                                                                                                            201809
+140013Pronto Socorro Obstétrico                                                                                                                             201809
+121013Mamografia por Telemedicina                                                                                                                           201809
+149014Acompanhamento de paciente transplantado                                                                                                              201809
+123014OPM Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                         201809
+140014Pronto Socorro Cardiovascular                                                                                                                         201809
+140015Pronto Socorro Neurologia/Neurocirurgia                                                                                                               201809
+149015Ações para doação e captação de órgãos e tecidos                                                                                                      201809
+140016Pronto Socorro Traumato-Ortopédico                                                                                                                    201809
+149016Retirada de globo ocular humano para transplante                                                                                                      201809
+140017Pronto Socorro Odontológico                                                                                                                           201809
+140018Pronto Socorro Oftalmológico                                                                                                                          201809
+140019Pronto Socorro Geral/Clínico                                                                                                                          201809
