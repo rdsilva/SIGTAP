@@ -187,33 +187,33 @@ procedimento.ds <- data.frame(co_grupo,
 
 ### Merging Grupo e Subgrupo
 
-```{r}
+```{r merge grupo e subgrupo, eval=FALSE, warning=FALSE, echo=TRUE}
 res_temp <- merge(grupo.ds, subgrupo.ds)
 ```
 
-```{r}
+```{r resorting res_temp, eval=FALSE, warning=FALSE, echo=TRUE}
 res_temp <- res_temp %>%
   select(co_grupo, no_grupo, co_sub_grupo, no_sub_grupo)
 ```
 
 ### Merging Forma Organizacional
 
-```{r}
+```{r merge res_temp e organizacao, eval=FALSE, warning=FALSE, echo=TRUE}
 res_temp <- merge(res_temp, forma_organizacao.ds, by = c('co_grupo', 'co_sub_grupo'))
 ```
 
-```{r}
+```{r resorting res_temp 2, eval=FALSE, warning=FALSE, echo=TRUE}
 res_temp <- res_temp %>%
   select(co_grupo, no_grupo, co_sub_grupo, no_sub_grupo, co_forma_organizacao, no_forma_organizacao)
 ```
 
 ### Merging os Procedimentos
 
-```{r}
+```{r merge res_temp 2 e procedimentos, eval=FALSE, warning=FALSE, echo=TRUE}
 result <- merge(res_temp, procedimento.ds, by = c('co_grupo', 'co_sub_grupo', 'co_forma_organizacao'))
 ```
 
-```{r}
+```{r resorting resultado, eval=FALSE, warning=FALSE, echo=TRUE}
 result <- result %>%
   select(co_grupo, no_grupo, co_sub_grupo, no_sub_grupo, co_forma_organizacao, no_forma_organizacao, co_procedimento, no_procedimento, 
          qt_maxima_execucao, qt_dias_permanencia, qt_pontos, vl_idade_minima, vl_idade_maxima, vl_servico_hospitalar, vl_servico_ambulatorial,
@@ -222,34 +222,6 @@ result <- result %>%
 
 ## Salvando o arquivo
 
-```{r}
+```{r salvando arquivo final, eval=FALSE, warning=FALSE, echo=TRUE}
 write.csv2(result, 'tabela-sigtap-201809.csv', row.names = FALSE)
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

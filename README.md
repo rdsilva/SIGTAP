@@ -225,3 +225,4 @@ result <- result %>%
 ```{r salvando arquivo final, eval=FALSE, warning=FALSE, echo=TRUE}
 write.csv2(result, 'tabela-sigtap-201809.csv', row.names = FALSE)
 ```
+
