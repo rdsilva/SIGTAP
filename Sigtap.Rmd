@@ -20,6 +20,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 O objetivo deste estudo é criar uma tabela unificada com todos os parametros do Sigtap em uma única tabela. Isto irá gerar uma quantidade enorme de dados repetidos, contudo acredita-se que isto facilitará trabalhos futuros de consultas e processamento. Igualmente irá contribuir com a comunidade no que diz respeito a divulgação de um dataset importante para os estudos centrados no SUS. Por fim, o dataset a ser construído é praticamente fixo, onde não há a adição constante de novos valores visto que todo o tramite de atualização deve antes passar por portarias e normativas.
 
+<aside>
+Wiki [SIGTAP](https://wiki.saude.gov.br/sigtap/index.php/Gerais#Regra_Condicionada)
+</aside>
+
 Os dados do `Sigtap` são organizados em um conjunto de pouco mais de 80 arquivos, disponibilizados mensalmente pelo próprio DataSUS. Desta forma iniciaremos trabalhando com os dados das tabelas *grupo*, *subgrupo*, *forma* *organizacional*, *procedimento* e *tuss*. No futuro irei adicionar as demais informações, tais como relação com cid, com nível de atenção e outros. 
 
 <aside>
@@ -225,3 +229,68 @@ result <- result %>%
 ```{r salvando arquivo final, eval=FALSE, warning=FALSE, echo=TRUE}
 write.csv2(result, 'tabela-sigtap-201809.csv', row.names = FALSE)
 ```
+
+
+# Procedimentos e Materiais
+
+Materiais para procedimentos também estão salvos na tabela geral do SIGTAP, o que ocorre é que estes dados ficam salvos no grupo 07 dos procedimentos. Há então a necessidade de se descobrir como mapear esses dados...
+
+
+# Compatibilidade de Procedimentos
+
+Diversos procedimentos são correlatos, de certa forma alguns deles são compativeis uns com os outros. Desta forma esta parte do script tratará os dados de relacionamento de compatibilidade entre **procedimentos**.
+
+A tabela que armazena esta relação é a *rl_procedimento_compativel*
+
+```{r compatibilidade, eval=FALSE, warning=FALSE, echo=TRUE}
+
+setwd('TabelaUnificada_201809_v1809051203/')
+
+rl_proc_comp <- iconv(read_document('rl_procedimento_compativel.txt'), "latin1", "UTF-8")
+
+```
+
+Separando as informações
+
+```{r tb_compativeis, eval=FALSE, warning=FALSE, echo=TRUE}
+
+co_procedimento <- substr(rl_proc_comp, 1, 10)
+co_registro_principal <- substr(rl_proc_comp, 11, 12)
+co_procedimento_compativel <- substr(rl_proc_comp, 13, 22)
+co_registro_compativel <- substr(rl_proc_comp, 23, 24)
+tp_compatibilidade <- substr(rl_proc_comp, 25, 25)
+qt_permitida <- substr(rl_proc_comp, 26, 29)
+dt_competencia <- substr(rl_proc_comp, 30, 35)
+
+compativeis <- data.frame(co_procedimento,
+                        co_registro_principal,
+                        co_procedimento_compativel,
+                        co_registro_compativel,
+                        tp_compatibilidade,
+                        qt_permitida,
+                        dt_competencia)
+
+```
+
+```{r view tb_compativeis, eval=FALSE, message=TRUE, warning=FALSE, echo=FALSE, layout="l-body-outset"}
+library(rmarkdown)
+
+paged_table(compativeis)
+```
+
+```{r}
+write.csv2(compativeis, 'sigtap-compativeis.csv', row.names = FALSE)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
