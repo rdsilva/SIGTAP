@@ -1,0 +1,270 @@
+0101Centro de referência em atenção a saúde do idoso                                                                                                      201904
+0202Unidade de alta complexidade ao paciente portador de obesidade grave                                                                                  201904
+0203Assistência em Alta Complexidade ao individuo com Obesidade                                                                                           201904
+0301Centros/Núcleos para realização de implante coclear                                                                                                   201904
+0305Atenção Especializada às Pessoas com Deficiência Auditiva                                                                                             201904
+0401Centro de tratamento da má formação labio-palatal                                                                                                     201904
+0403Centro de Especialidade Odontológica - CEO I                                                                                                          201904
+0404Centro de Especialidade Odontológica - CEO II                                                                                                         201904
+0405Centro de Especialidade Odontológica - CEO III                                                                                                        201904
+0503Unidade de Atenção Especializada em Oftalmologia                                                                                                      201904
+0504Centro de Referência em Oftalmologia                                                                                                                  201904
+0505Projeto Olhar Brasil                                                                                                                                  201904
+0506Tratamento do Glaucoma com medicamentos no âmbito da Política Nacional de Atenção Oftalmológica                                                       201904
+0507Consultório Itinerante de Ensino em Oftalmologia                                                                                                      201904
+0508Tratamento do Glaucoma com medicamentos do Componente Especializado da Assistência Farmacêutica                                                       201904
+0601Psiquiatria - Classe I                                                                                                                                201904
+0602Psiquiatria - Classe II                                                                                                                               201904
+0603Psiquiatria - Classe III                                                                                                                              201904
+0604Psiquiatria - Classe IV                                                                                                                               201904
+0605Psiquiatria - Classe V                                                                                                                                201904
+0606Psiquiatria - Classe VI                                                                                                                               201904
+0607Psiquiatria - Classe VII                                                                                                                              201904
+0608Psiquiatria - Classe VIII                                                                                                                             201904
+0609Psiquiatria - Classe IX                                                                                                                               201904
+0610Psiquiatria - Classe X                                                                                                                                201904
+0611Psiquiatria - Classe XI                                                                                                                               201904
+0612Psiquiatria - Classe XII                                                                                                                              201904
+0613Psiquiatria - Classe XIII                                                                                                                             201904
+0614Psiquiatria - Classe XIV                                                                                                                              201904
+0615PNASS maior que 80%                                                                                                                                   201904
+0616Centro de Atenção Psicossocial - CAPS I                                                                                                               201904
+0617Centro de Atenção Psicossocial - CAPS II                                                                                                              201904
+0618Centro de Atenção Psicossocial - CAPS III                                                                                                             201904
+0619Centro de Atenção Psicossocial Álcool e Drogas - CAPSad                                                                                               201904
+0620Centro de Atenção Psicossocial Infantil - CAPSi                                                                                                       201904
+0621Serviço hospitalar de referência para a atenção integral aos usuários de álcool e outras drogas                                                       201904
+0622Psiquiatria Classe I - PT/GM nº251/02                                                                                                                 201904
+0623Psiquiatria Classe II - PT/GM nº251/02                                                                                                                201904
+0624Psiquiatria Classe III - PT/GM nº251/02                                                                                                               201904
+0625Psiquiatria Classe IV - PT/GM nº 251/02                                                                                                               201904
+0626Psiquiatria Classe V - PT/GM nº251/02                                                                                                                 201904
+0627Psiquiatria Classe VI - PT/GM nº251/02                                                                                                                201904
+0628Psiquiatria Classe VII - PT/GM nº251/02                                                                                                               201904
+0629Psiquiatria Classe VIII - PT/GM nº251/02                                                                                                              201904
+0630Psiquiatria III                                                                                                                                       201904
+0631Nível I                                                                                                                                               201904
+0632Nível II                                                                                                                                              201904
+0633Nível III                                                                                                                                             201904
+0634Nível IV                                                                                                                                              201904
+0635Centro de Atenção Psicossocial Álcool e Drogas - CAPS AD III                                                                                          201904
+0636Atenção a pessoas com sofrimento ou transtorno mental decorrente de alcool e outras drogas.                                                           201904
+0637CAPS AD IV                                                                                                                                            201904
+0801Unidade de assistência de alta complexidade cardiovascular                                                                                            201904
+0802Centro de referência em alta complexidade cardiovascular                                                                                              201904
+0803Cirurgia cardiovascular e procedimentos em cardiologia intervencionista                                                                               201904
+0804Cirurgia cardiovascular pediátrica                                                                                                                    201904
+0805Cirurgia vascular                                                                                                                                     201904
+0806Cirurgia vascular e procedimentos endovasculares extracardíacos                                                                                       201904
+0807Laboratório de eletrofisiologia, cirurgia cardiovascular e procedimentos de cardiologia intervencionista                                              201904
+0808Implante de marcapasso definitivo                                                                                                                     201904
+0809Cirurgia cardíaca                                                                                                                                     201904
+0810Laboratório eletrofisiológico e terapia intervencionista                                                                                              201904
+0901Cuidados prolongados - enfermidades cardiovasculares                                                                                                  201904
+0902Cuidados prolongados - enfermidades pneumológicas                                                                                                     201904
+0903Cuidados prolongados - enfermidades neurológicas                                                                                                      201904
+0904Cuidados prolongados - enfermidades osteomuscular e do tecido conjuntivo                                                                              201904
+0905Cuidados prolongados - enfermidades oncológicas                                                                                                       201904
+0906Cuidados prolongados - enfermidades decorrentes da AIDS                                                                                               201904
+0907Cuidados prolongados - enfermidades devido a causas externas                                                                                          201904
+1001Centro de referência no tratamento da dor crônica                                                                                                     201904
+1101Serviço hospitalar para tratamento AIDS                                                                                                               201904
+1102Laboratório Especializado em Contagem de Linfócitos T CD4+/CD8+ e HIV1 Quant. do RNA                                                                  201904
+1103Tratamento da lipoatrofia facial do portador de HIV/AIDS                                                                                              201904
+1104Tratamento da liopodistrofia do Portador de HIV/AIDS                                                                                                  201904
+1105Laboratório Especializado em Contagem de Linfócitos T CD4+/CD8+                                                                                       201904
+1106Laboratório Especializado em Quantificação do RNA do HIV1                                                                                             201904
+1201Fibrose cística - Hospital Dia                                                                                                                        201904
+1202Hospital Dia - Procedimentos cirúrgicos, diagnósticos ou terapêuticos                                                                                 201904
+1203Hospital Dia - AIDS                                                                                                                                   201904
+1204Hospital Dia em intercorrências pós-transplante de medula óssea e de outros precursores hematopoéticos                                                201904
+1205Hospital Dia - Geriatria                                                                                                                              201904
+1206Hospital Dia - Saúde Mental                                                                                                                           201904
+1301Internação domiciliar                                                                                                                                 201904
+1401Referência hospitalar em atendimento secundário a gestante de alto risco                                                                              201904
+1402Referência hospitalar em atendimento terciário a gestante de alto risco                                                                               201904
+1403Unidade que realiza assistência ao parto sem distócia por enfermeiro obstetra ou obstetriz                                                            201904
+1404Hospital Amigo da Criança                                                                                                                             201904
+1405Centro de referência em triagem neonatal/acompanhamento e tratamento de doenças congênitas - fenilcetonuria/hipotireoidismo congenito                 201904
+1406Centro de referência em triagem neonatal/acompanhamento e tratamento - doenças falciformes e outras hemoglobinopatias                                 201904
+1407Centro de referência em triagem neonatal/acompanhamento e tratamento - fibrose cística                                                                201904
+1408Triagem Neonatal Fase IV                                                                                                                              201904
+1409Diagnóse de Fibrose Cistica                                                                                                                           201904
+1410Unidade de Centro de Parto Normal Intra-Hospitalar Tipo I 3 PPP                                                                                       201904
+1411Unidade de Centro de Parto Normal Intra-Hospitalar Tipo I 5 PPP                                                                                       201904
+1412Unidade de Centro de Parto Normal Peri-Hospitalar 5 PPP                                                                                               201904
+1413Atenção Hospitalar de Referência à Gestação de Alto Risco Tipo 1                                                                                      201904
+1414Atenção Hospitalar de Referência à Gestação de Alto Risco Tipo 2                                                                                      201904
+1415Casa da Gestante, Bebê e Puérpera                                                                                                                     201904
+1416Hospital Amigo da Criança                                                                                                                             201904
+1417Unidade de Centro de Parto Normal Peri-Hospitalar 3 PPP                                                                                               201904
+1418Unidade de Centro de Parto Normal Intra-Hospitalar Tipo II 3 PPP                                                                                      201904
+1419Unidade de Centro de Parto Normal Intra-Hospitalar Tipo II 5 PPP                                                                                      201904
+1501Unidade de assistência de alta complexidade em nefrologia (serviço de nefrologia)                                                                     201904
+1502Centro de referência de alta complexidade em nefrologia                                                                                               201904
+1504Atenção Especializada em DRC com Hemodiálise                                                                                                          201904
+1505Atenção Especializada em DRC com Diálise Peritoneal                                                                                                   201904
+1506Atenção Especializada em DRC nos estágios 4 e 5-PréDialitico                                                                                          201904
+1507Unidade Especializada em DRC com TRS/Diálise Tipo I com Hemodiálise                                                                                   201904
+1508Unidade Especializada em DRC com TRS/Diálise Tipo I com Diálise Peritoneal                                                                            201904
+1509Unidade Especializada em DRC com TRS/Diálise Tipo II com Hemodiálise                                                                                  201904
+1510Unidade Especializada em DRC com TRS/Diálise Tipo II com Diálise Peritoneal                                                                           201904
+1511Unidade Especializada em DRC com TRS/Diálise Tipo III com Hemodiálise                                                                                 201904
+1512Unidade Especializada em DRC com TRS/Diálise Tipo III com Diálise Peritoneal                                                                          201904
+1513Unidade Especializada em DRC com TRS/Diálise Tipo IV com Hemodiálise                                                                                  201904
+1514Unidade Especializada em DRC com TRS/Diálise Tipo IV com Diálise Peritoneal                                                                           201904
+1601Unidade de assistência de alta complexidade em neurologia/neurocirurgia                                                                               201904
+1602Centro de referência de alta complexidade em neurologia/neurocirurgia                                                                                 201904
+1603Trauma e anomalias do desenvolvimento                                                                                                                 201904
+1604Coluna e dos nervos periféricos                                                                                                                       201904
+1605Tumores do sistema nervoso                                                                                                                            201904
+1606Neurocirurgia vascular                                                                                                                                201904
+1607Tratamento neurocirúrgico da dor e funcional                                                                                                          201904
+1608Investigação e cirurgia de epilepsia                                                                                                                  201904
+1609Tratamento neuro-endovascular                                                                                                                         201904
+1610Neurocirurgia funcional esteriotáxica                                                                                                                 201904
+1611Epilepsia                                                                                                                                             201904
+1612Neurocirurgia I                                                                                                                                       201904
+1613Neurocirurgia II                                                                                                                                      201904
+1614Neurocirurgia III                                                                                                                                     201904
+1615Centro de Atendimento de Urgência Tipo I aos Pacientes com AVC                                                                                        201904
+1616Centro de Atendimento de Urgência Tipo II aos Pacientes com AVC                                                                                       201904
+1617Centro de Atendimento de Urgência Tipo III aos Pacientes com AVC                                                                                      201904
+1704Serviço isolado de radioterapia                                                                                                                       201904
+1705Serviço isolado de quimioterapia                                                                                                                      201904
+1706UNACON                                                                                                                                                201904
+1707UNACON com serviço de radioterapia                                                                                                                    201904
+1708UNACON com serviço de hematologia                                                                                                                     201904
+1709UNACON com serviço de oncologia pediátrica                                                                                                            201904
+1710UNACON exclusiva de hematologia                                                                                                                       201904
+1711UNACON exclusiva de oncologia pediátrica                                                                                                              201904
+1712CACON                                                                                                                                                 201904
+1713CACON com serviço de oncologia pediátrica                                                                                                             201904
+1714Hospital Geral com cirurgia oncológica                                                                                                                201904
+1715Serviço de radioterapia de complexo hospitalar                                                                                                        201904
+1716Serviço de Oncologia Clínica de Complexo hospitalar                                                                                                   201904
+1717Oncologia Cirúrgica Hospital Porte A                                                                                                                  201904
+1718Oncologia Cirúrgica Hospital Porte B.                                                                                                                 201904
+1719Serviço de Referência P/Diagnóstico e Trat. de Lesões Precursoras do Câncer do Colo de Útero(SRC)                                                     201904
+1720Serviço de Referência para Diagnóstico de Câncer de Mama (SDM)                                                                                        201904
+1721Hospital Geral com Cirurgia de Câncer de Complexo Hospitalar                                                                                          201904
+1801Centro de referência de tratamento de osteogênesis imperfecta                                                                                         201904
+1901Laqueadura                                                                                                                                            201904
+1902Vasectomia                                                                                                                                            201904
+2001Programa de assistência ventilatoria não invasiva aos portadores de doenças neuromusculares                                                           201904
+2101Unidade de referência em assistência a queimados - média complexidade                                                                                 201904
+2102Centro de referência em assistência a queimados - alta complexidade                                                                                   201904
+2201Centro de referência de reabilitação em medicina fisica                                                                                               201904
+2202Centro de reabilitação fisica - nível intermediário                                                                                                   201904
+2203Centro de Reabilitação Visual                                                                                                                         201904
+2204Centro de Reabilitação Auditiva na Média Complexidade                                                                                                 201904
+2205Centro de Reabilitação Auditiva na Alta Complexidade                                                                                                  201904
+2206Centro de Reabilitação Intelectual                                                                                                                    201904
+2207Centro de Reabilitação dos Transtornos do Spectro do Autismo                                                                                          201904
+2208Centro Especializado em Reabilitação (CER) Modalidade Física                                                                                          201904
+2209Centro Especializado em Reabilitação (CER) Modalidade Intelectual                                                                                     201904
+2210Centro Especializado em Reabilitação (CER) Modalidade Auditiva                                                                                        201904
+2211Centro Especializado em Reabilitação (CER) Modalidade Visual                                                                                          201904
+2301Unidade de assistência de alta complexidade em terapia nutricional                                                                                    201904
+2302Centro de referência de alta complexidade em terapia nutricional                                                                                      201904
+2303Enteral                                                                                                                                               201904
+2304Enteral e parenteral                                                                                                                                  201904
+2305Enteral e parenteral com manipulação e fabricação da fórmula nutricional                                                                              201904
+2306Nutrição enteral                                                                                                                                      201904
+2401Transplante de medula óssea-autogênico                                                                                                                201904
+2402Transplante de medula óssea-alogênico aparentado                                                                                                      201904
+2403Transplante de medula óssea-alogênico não aparentado                                                                                                  201904
+2404Transplante de pâncreas isolado                                                                                                                       201904
+2405Transplante conjugado rim e pâncreas                                                                                                                  201904
+2407Transplante de córnea/esclera                                                                                                                         201904
+2408Transplante renal                                                                                                                                     201904
+2409Transplante de fígado                                                                                                                                 201904
+2410Transplante de pulmão                                                                                                                                 201904
+2411Transplante de coração                                                                                                                                201904
+2412Busca ativa de orgãos                                                                                                                                 201904
+2413Banco de tecido ocular humano                                                                                                                         201904
+2414Banco de válvulas cardíacas                                                                                                                           201904
+2415Banco de tecido músculo-esquelético                                                                                                                   201904
+2416Banco de sangue e cordão umbilical e placentário                                                                                                      201904
+2417Exames de histocompatibilidade atraves de sorologia - Tipo I                                                                                          201904
+2418Exames de histocompatibilidade atraves de sorologia e ou biologia molecular - Tipo II                                                                 201904
+2419Banco de Pele Humana                                                                                                                                  201904
+2420Retirada de Órgãos e Tecidos                                                                                                                          201904
+2421Banco de Multitecidos                                                                                                                                 201904
+2422Transplante de tecido músculo esquelético                                                                                                             201904
+2423Transplante da válvula cardíaca humana                                                                                                                201904
+2424Transplante de pele                                                                                                                                   201904
+2425Cadastramento de doadores voluntários de medula óssea e outros precursores hematopoéticos                                                             201904
+2426Estabelecimento de saúde de Nível A                                                                                                                   201904
+2427Estabelecimento de saúde de Nível B                                                                                                                   201904
+2428Estabelecimento de saúde de Nível C                                                                                                                   201904
+2429Estabelecimento de saúde de Nível D                                                                                                                   201904
+2430Transplante de figado- IHH por febre amarela                                                                                                          201904
+2501Unidade de atenção especializada em traumato-ortopedia                                                                                                201904
+2502Centro de referência de alta complexidade em traumato-ortopedia                                                                                       201904
+2503Coluna                                                                                                                                                201904
+2504Cintura escapular, ombro, braço e cotovelo                                                                                                            201904
+2505Antebraço, punho e mão                                                                                                                                201904
+2506Cintura pélvica, quadril, coxa                                                                                                                        201904
+2507Coxa, joelho e perna                                                                                                                                  201904
+2508Perna, tornozelo e pé                                                                                                                                 201904
+2509Ortopedia infantil                                                                                                                                    201904
+2510Traumatologia ortopédica de urgência                                                                                                                  201904
+2511Ortopedia - Coluna                                                                                                                                    201904
+2512Ortopedia - Ombro                                                                                                                                     201904
+2513Ortopedia - Mão                                                                                                                                       201904
+2514Ortopedia - Quadril                                                                                                                                   201904
+2515Ortopedia - Joelho                                                                                                                                    201904
+2516Ortopedia - Tumor Ósseo                                                                                                                               201904
+2517Outros segmentos ósseos                                                                                                                               201904
+2518Adesão á Estratégia de Aumento do Acesso aos Procedimentos-TOM                                                                                        201904
+2601UTI II - Adulto                                                                                                                                       201904
+2602UTI II - Neonatal                                                                                                                                     201904
+2603UTI II - Pediátrica                                                                                                                                   201904
+2604UTI III - Adulto                                                                                                                                      201904
+2605UTI III - Neonatal                                                                                                                                    201904
+2606UTI III - Pediátrica                                                                                                                                  201904
+2607UTI - Queimados                                                                                                                                       201904
+2608Unidade Terapia Intensiva Coronariana - UCO TIPO II                                                                                                   201904
+2609Unidade Terapia Intensiva Coronariana - UCO TIPO III                                                                                                  201904
+2610Unidade de Terapia Intensiva Neonatal Tipo II - UTIN II                                                                                               201904
+2611Unidade de Terapia Intensiva Neonatal Tipo III - UTIN III                                                                                             201904
+2696UTI I Adulto                                                                                                                                          201904
+2697UTI I Neonatal                                                                                                                                        201904
+2698UTI I Pediatria                                                                                                                                       201904
+2699UTI I                                                                                                                                                 201904
+2701Hospital Tipo I em Urgência                                                                                                                           201904
+2702Hospital Tipo II em Urgência                                                                                                                          201904
+2703Hospital Tipo III em Urgência                                                                                                                         201904
+2711Administração Pré Hospitalar de Tenectoplase                                                                                                          201904
+2801Unidade de cuidados intermediários neonatal                                                                                                           201904
+2802Unidade de Cuidados Intermediários Neonatal Convencional (UCINCo)                                                                                     201904
+2803Unidade de Cuidados Intermediários Neonatal Canguru (UCINCa)                                                                                          201904
+2901Videocirurgia                                                                                                                                         201904
+3001Unidade de Atenção Especializada no Processo Transexualizador                                                                                         201904
+3002Atenção ao Pré e Pós Operatório (clínico) e Hormonioterapia no Processo Transexualizador                                                              201904
+3003Atenção ao Pré e Pós Operatório e Cirurgias no Processo Transexualizador                                                                              201904
+3101HPP- Hospital de Pequeno Porte                                                                                                                        201904
+3201Unidade de Mamografia Móvel                                                                                                                           201904
+3202Laboratório de Exames Citopatológico do Cólo do Últero-Tipo I                                                                                         201904
+3203Lab. Monitoramento Externo de Qualidade de Exame Citopatológico do Colo do Útero Tipo-II                                                              201904
+3401Centro de Trauma Tipo I                                                                                                                               201904
+3402Centro de Trauma Tipo II                                                                                                                              201904
+3403Centro de Trauma Tipo III                                                                                                                             201904
+3501Atenção Especializada Eixo I DR de Origem Genética: 1-Anomalias Congênitas ou de Manifestação Tardia                                                  201904
+3502Atenção Especializada Eixo I DR de Origem Genética:2-Deficiência Intelectual Associada à Doença Rara                                                  201904
+3503Atenção Especializada Eixo I DR de Origem Genética: 3-Erro Inato do Metabolismo (EIM)                                                                 201904
+3504Atenção Especializada Eixo II DR de Origem não Genética: 1-Doenças Raras Inflamatórias                                                                201904
+3505Atenção Especializada Eixo II DR de Origem não Genética: 2-Doenças Raras Infecciosas                                                                  201904
+3506Atenção Especializada Eixo II DR de Origem não Genética: 3-Doenças Raras Autoimunes                                                                   201904
+3507Serviço de Referência Eixo I DR de Origem Genética:1 Anomalias Congênitas ou de Manifestação Tardia                                                   201904
+3508Serviço de Referência Eixo I DR de Origem Genética:2-Deficiência Intelectual Associada à Doença Rara                                                  201904
+3509Serviço de Referência Eixo I DR de Origem Genética:3-Erro Inato do Metabolismo (EIM)                                                                  201904
+3510Serviço de Referência Eixo II DR de Origem não Genética:3-Doenças Raras Autoimunes                                                                    201904
+3511Serviço de Referência Eixo II DR de Origem não Genética:2-Doenças Raras Inflamatórias                                                                 201904
+3512Serviço de Referência Eixo II DR de Origem não Genética:1-Doenças Raras Infecciosas                                                                   201904
+3513Atenção Especializada Eixo II DR de Origem não Genética:4-Outras DR de Origem não Genética                                                            201904
+3514Serviço de Referência Eixo II DR de Origem não Genética:4-Outras DR de Origem não Genética                                                            201904
+3515Serviço de Aconselhamento Genético                                                                                                                    201904
+3601Sítio Testador de ácidos nucléicos (SIT-NAT)                                                                                                          201904
+3701Coleta de Vestígios de Violência Sexual                                                                                                               201904

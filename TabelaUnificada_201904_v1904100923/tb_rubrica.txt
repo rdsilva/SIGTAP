@@ -1,0 +1,20 @@
+040009Atendimento/acompanhamento em reabilitação física, mental, visual, auditiva e múltiplas deficiências201904
+040013Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabólicas e nutricionais          201904
+040017Nefrologia                                                                                          201904
+040024Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal(inclui pré e pós operatório)       201904
+040028Outras cirurgias plásticas/reparadoras                                                              201904
+040030Sequenciais                                                                                         201904
+040032Transplantes de orgãos, tecidos e células                                                           201904
+040033Medicamentos para transplante                                                                       201904
+040038OPM para transplantes                                                                               201904
+040041Central Nacional de Regulação de Alta Complexidade (CNRAC)                                          201904
+040044Redesignação e Acompanhamento                                                                       201904
+040049Implementar Cirg. CV Pediátrica                                                                     201904
+040055Transplante - Histocompatibilidade                                                                  201904
+040062Doenças Raras                                                                                       201904
+040063Cadeiras de Rodas                                                                                   201904
+040065Medicamentos em Urgência                                                                            201904
+040066Cirurgias Eletivas - Componente Único                                                               201904
+040067Atenção Especializada em Saúde Auditiva                                                             201904
+040068Terapias Especializadas em Angiologia                                                               201904
+040069Tratamento de Doença Macular                                                                        201904

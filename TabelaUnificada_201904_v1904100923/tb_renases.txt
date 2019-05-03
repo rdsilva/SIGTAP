@@ -1,0 +1,201 @@
+001       Gestão da Atenção Primária                                                                                                                            
+002       Atenção Domiciliar                                                                                                                                    
+003       Atendimento Cirúrgico Ambulatorial Básico                                                                                                             
+004       Atendimento Clinico na Atenção Primária                                                                                                               
+005       Consulta e Acompanhamento Realizados por Profissional de Nível Superior                                                                               
+006       Exames Diagnósticos na Atenção Primária                                                                                                               
+007       Práticas Integrativas e Complementares                                                                                                                
+008       Ações Comunitárias                                                                                                                                    
+009       Atenção Familiar                                                                                                                                      
+010       Atividades Educativas, Terapêuticas e de Orientação à População.                                                                                      
+011       Atividades Físicas, Educativas e de Orientação à População.                                                                                           
+012       Imunização                                                                                                                                            
+013       Visita Domiciliar ou Institucional                                                                                                                    
+014       Atenção à Saúde da Criança                                                                                                                            
+015       Atenção à Saúde da Mulher                                                                                                                             
+016       Atenção à Saúde de Pessoas com Doenças Transmissíveis Epidemiologicamente Relevantes para o País                                                      
+017       Atenção à Saúde do Adolescente                                                                                                                        
+018       Atenção à Saúde do Homem                                                                                                                              
+019       Atenção à Saúde do Idoso                                                                                                                              
+020       Atenção à Saúde dos Adultos                                                                                                                           
+021       Atenção a Saúde Mental, Ácool e Outras Drogas                                                                                                         
+022       Educação em Saúde sobre Uso Racional de Medicamentos                                                                                                  
+023       Orientação Farmacêutica na Dispensação de Medicamentos.                                                                                               
+024       Realização de Procedimentos Cirúrgicos  em Saúde Bucal                                                                                                
+025       Realização de Procedimentos Clínicos em Saúde Bucal                                                                                                   
+026       Atenção à Saúde da Pessoa com Deficiência                                                                                                             
+027       Gestão de Serviços de Urgência e Emergência                                                                                                           
+028       Atendimento de Urgência em Unidades Básicas de Saúde                                                                                                  
+029       Atendimento de Urgência em Unidades de Pronto Atendimento 24 horas                                                                                    
+030       Atendimento de Urgência em Unidades Hospitalares                                                                                                      
+031       Atendimento em Sala de Estabilização                                                                                                                  
+032       Atendimento Pré-hospitalar de Urgência para Gestantes, Puérperas e Recém-Nascidos de Alto Risco                                                       
+033       Atendimento Pré-hospitalar Móvel de Urgência                                                                                                          
+034       Gestão da Rede de Atenção Psicossocial                                                                                                                
+035       Acolhimento e Atenção de Retaguarda para Usuários de Àlcool e Drogas                                                                                  
+036       Alta Planejada e Reabilitação Psicossocial Assistida                                                                                                  
+037       Aplicação de Testes (psicodiagnósticos)                                                                                                               
+038       Atenção Psicossocial - Centros de Atenção Psicossocial                                                                                                
+039       Atenção Psicossocial Hospitalar                                                                                                                       
+040       Atividades Educativas Coletivas                                                                                                                       
+041       Diagnóstico em Psicologia e Psiquiatria                                                                                                               
+042       Geração de Trabalho e Renda                                                                                                                           
+043       Residências Terapêuticas para Egressos de Hospitais Psiquiátricos                                                                                     
+044       Terapia em Grupo                                                                                                                                      
+045       Terapia Individual                                                                                                                                    
+046       Tratamento dos Transtornos Mentais e Comportamentais                                                                                                  
+047       Gestão da Atenção Especializada                                                                                                                       
+048       Acompanhamento e Tratamento de Doenças ou Condições Clínicas Crônicas                                                                                 
+049       Assistência Domiciliar Terapêutica Multiprofissional em HIV/AIDS (ADTM)                                                                               
+050       Assistência Especializada Domiciliar Realizada por Equipe Multiprofissional                                                                           
+051       Atenção à Saúde de Pessoas Privadas de Liberdade                                                                                                      
+052       Atendimento e Acompanhamento de Pacientes Acometidos por Anemia Falciforme e Outras Hemoglobinopatias                                                 
+053       Atendimento e Acompanhamento de Pacientes Acometidos por Doeças Endócrinas, Metabólicas ou Nutricionais                                               
+054       Atendimento e acompanhamento de pacientes com depressão pós-parto                                                                                     
+055       Atendimento e Acompanhamento em Reabilitação de Pessoas com Deficiência                                                                               
+056       Atividade Educativa ou Orientação em Grupo na Atenção Especializada                                                                                   
+057       Cirurgia Ambulatorial do Sistema Geniturinário: Vasectomia                                                                                            
+058       Cirurgias Ambulatoriais com Anestesia                                                                                                                 
+059       Cirurgias Ambulatoriais do Sistema Geniturinário                                                                                                      
+060       Cirurgias Ambulatoriais do Sistema Osteomuscular                                                                                                      
+061       Cirurgias Ambulatoriais em Nefrologia                                                                                                                 
+062       Cirurgias Ambulatoriais: Aparelho Digestivo, Orgãos Anexos e Parede Abdominal                                                                         
+063       Cirurgias Ambulatoriais: Cirurgia Bucomaxilofacial                                                                                                    
+064       Cirurgias Ambulatoriais: Cirurgia do Aparelho Circulatório                                                                                            
+065       Cirurgias Ambulatoriais: Cirurgia Ginecológica e Obstétrica                                                                                           
+066       Cirurgias Ambulatoriais: Cirurgia Plástica Reparadora                                                                                                 
+067       Cirurgias Ambulatoriais: Cirurgia Torácica                                                                                                            
+068       Cirurgias Ambulatoriais: Cirurgias da Mama                                                                                                            
+069       Cirurgias Ambulatoriais: Cirurgias Reparadoras para Tratamentos de Grandes Queimados e Pacientes com Lipoatrofia de Face                              
+070       Cirurgias Ambulatoriais: Oftalmológicas                                                                                                               
+071       Cirurgias Ambulatoriais: Pele, Tecidos Subcutâneos e Mucosas                                                                                          
+072       Cirurgias Ambulatoriais: Vias Respiratórias                                                                                                           
+073       Coleta de Material para Exame Complementar ao Diagnóstico, por Meio de Punção ou Biópsia                                                              
+074       Consultas Eletivas Especializadas, Realizadas por Profissionais de Nível Superior                                                                     
+075       Diagnóstico por Endoscopia                                                                                                                            
+076       Diagnóstico por Imagem                                                                                                                                
+077       Diagnóstico por Medicina Nuclear IN VIVO                                                                                                              
+078       Diagnóstico por Radiologia Intervencionista                                                                                                           
+079       Diagnósticos e Procedimentos Especiais em Hemoterapia: Exames do Doador/Receptor                                                                      
+080       Diagnósticos e Procedimentos Especiais em Hemoterapia: Procedimentos Especiais em Hemoterápica                                                        
+081       Diagnósticos por Testes Rápidos                                                                                                                       
+082       Dispensação de Òrteses e Próteses em Caráter Ambulatorial                                                                                             
+083       Exames Anatomopatológicos                                                                                                                             
+084       Exames Citopatológicos                                                                                                                                
+085       Exames Citopatológicos para Prevenção do Câncer do Colo Uterino                                                                                       
+086       Exames Complementares de Diagnóstico: Exames Bioquímicos                                                                                              
+087       Exames Complementares de Diagnóstico: Exames Coprológicos                                                                                             
+088       Exames Complementares de Diagnóstico: Exames de Uroanálise                                                                                            
+089       Exames Complementares de Diagnóstico: Exames Hematológicos e Hemostasia                                                                               
+090       Exames Complementares de Diagnóstico: Exames Microbiológicos                                                                                          
+091       Exames Complementares de Diagnóstico: Exames para Triagem Neonatal                                                                                    
+092       Exames Complementares de Diagnóstico: Exames Sorológicos e Imunológicos                                                                               
+093       Exames Complementares do Diagnóstico  - Exames em  Liquidos Biológicos                                                                                
+094       Exames Complementares do Diagnóstico: Exames de Genética                                                                                              
+095       Exames Complementares do Diagnóstico: Exames Imuno-Hematológicos                                                                                      
+096       Exames Hormonais                                                                                                                                      
+097       Exames Toxicológicos ou de Monitorização Terapêutica                                                                                                  
+098       Hemoterapia: Medicina Transfusional                                                                                                                   
+099       Hemoterapia: Procedimentos Destinados à Obtenção do Sangue para Fins de Assistência Hemoterápica                                                      
+100       Métodos Diagnósticos Cinético-Funcionais                                                                                                              
+101       Métodos Diagnósticos em Angiologia                                                                                                                    
+102       Métodos Diagnósticos em Cardiologia                                                                                                                   
+103       Métodos Diagnósticos em Cardiologia Intervencionista                                                                                                  
+104       Métodos Diagnósticos em Ginecologia e Obstetrícia                                                                                                     
+105       Métodos Diagnósticos em Neurologia                                                                                                                    
+106       Métodos Diagnósticos em Oftalmologia                                                                                                                  
+107       Métodos Diagnósticos em Otorrinolaringologia e Fonoaudiologia                                                                                         
+108       Métodos Diagnósticos em Pneumologia                                                                                                                   
+109       Métodos diagnósticos em psicologia e psiquiatria                                                                                                      
+110       Métodos Diagnósticos em Urologia                                                                                                                      
+111       Outras Cirurgias Ambulatoriais                                                                                                                        
+112       Terapia Nutricional                                                                                                                                   
+113       Terapias em doenças alérgicas                                                                                                                         
+114       Terapias em Urologia                                                                                                                                  
+115       Tratamento em Nefrologia: Tratamento Dialítico                                                                                                        
+116       Tratamento Oncológico: Medicina Nuclear - Terapêutica Oncológica                                                                                      
+117       Tratamento Oncológico: Quimioterapia Adjuvante Profilática em Adultos                                                                                 
+118       Tratamento Oncológico: Quimioterapia Curativa em Adultos                                                                                              
+119       Tratamento Oncológico: Quimioterapia de Tumores de Crianças e Adolescentes                                                                            
+120       Tratamento Oncológico: Quimioterapia Paliativa em Adultos                                                                                             
+121       Tratamento Oncológico: Quimioterapia para Controle Temporário de Doença em Adultos                                                                    
+122       Tratamento Oncológico: Quimioterapia Prévia Neoadjuvante ou Citorredutora em Adultos                                                                  
+123       Tratamento Oncológico: Radioterapia                                                                                                                   
+124       Tratamento Oncológico: Tratamento de Intercorrências Clínicas em Paciente Oncológico                                                                  
+125       Realização de Procedimentos Clínicos em Odontologia                                                                                                   
+126       Realização de procedimentos com finalidade diagnóstica em Odontologia                                                                                 
+127       Realização de Procedimentos Cirúrgicos em Odontologia Especializada                                                                                   
+128       Atividade Educativa em Saúde Bucal                                                                                                                    
+129       Confecção de Órteses e Próteses Odontológicas                                                                                                         
+130       Laboratório Regional de Prótese Dentária                                                                                                              
+131       Centro de Especialidade Odontológica                                                                                                                  
+132       Atendimento Odontológico para Pacientes com Necessidades Especiais em Ambientes Hospitalares                                                          
+133       Cirurgia do Sistema Osteomuscular                                                                                                                     
+134       Cirurgia Bucomaxilofacial                                                                                                                             
+135       Cirurgias Plásticas/Reparadoras                                                                                                                       
+136       Cirurgia Reparadora para Lipodistrofia                                                                                                                
+137       Cirurgia Reparadora em Tratamento de Queimados                                                                                                        
+138       Cirurgia Geral                                                                                                                                        
+139       Cirurgias em  Politraumatizados                                                                                                                       
+140       Internações de Longa Permanência                                                                                                                      
+141       Hospital-Dia                                                                                                                                          
+142       Cirurgia em Oncologia                                                                                                                                 
+143       Intervenções Cirúrgicas para Criação de Acessos para Diálise                                                                                          
+144       Transplantes                                                                                                                                          
+145       Ações Relacionadas a Doação de Orgãos e Tecidos em Doador                                                                                             
+146       Dispensação de Órteses e Próteses e Materiais Especiais em Caráter Hospitalar                                                                         
+147       Tratamento Intensivo                                                                                                                                  
+148       Acolhimento com Classificação de Risco em Maternidades                                                                                                
+149       Parto Normal em Gravidez de Risco Habitual                                                                                                            
+150       Parto Normal em Gestação de Alto Risco                                                                                                                
+151       Parto Cesáreo em Gravidez de Risco Habitual                                                                                                           
+152       Parto Cesáreo em Gestação de Alto Risco                                                                                                               
+153       Parto Cesáreo com Laqueadura Tubária                                                                                                                  
+154       Cirurgia Bariátrica                                                                                                                                   
+155       Internação para Tratamento Medicamentoso da Osteogenesis Imperfecta                                                                                   
+156       Cirurgia do Sistema Nervoso Central e Periférico Relacionada ao Trauma e Anomalias do Desenvolvimento                                                 
+157       Cirurgia do Sistema Nervoso Central e Periférico Relacionada a Coluna e Nervos Periféricos                                                            
+158       Cirurgia do Sistema Nervoso Central e Periférico Relacionada aos Tumores do Sistema Nervoso                                                           
+159       Cirurgia do Sistema Nervoso Central e Periférico, Relacionada às Neurocirurgias Vasculares                                                            
+160       Cirurgia do Sistema Nervoso Central e Periférico, Relacionada ao Tratamento Neurocirúrgico da Dor Funcional                                           
+161       Cirurgia do Sistema Nervoso Central: Investigação e Cirurgia da Epilepsia                                                                             
+162       Cirurgia do Sistema Nervoso Central e Periférico, Relacionada ao Tratamento Neuroendovascular                                                         
+163       Cirurgia das Vias Aéreas Superiores, da Face, da Cabeça e do Pescoço                                                                                  
+164       Cirurgia do Aparelho da Visão                                                                                                                         
+165       Cirurgia Cardiovascular                                                                                                                               
+166       Cirurgia Vascular                                                                                                                                     
+167       Cardiologia Intervencionista                                                                                                                          
+168       Cirurgia Endovascular                                                                                                                                 
+169       Eletrofisiologia                                                                                                                                      
+170       Cirurgia do Sistema Nervoso Central - Neurocirurgia Funcional Estereotáxica                                                                           
+171       Gestão da Vigilância em Saúde                                                                                                                         
+172       Autorização de Funcionamento de Empresas sujeitas a Vigilância Sanitária                                                                              
+173       Registro, Notificação, Cadastro Sanitário de Produtos                                                                                                 
+174       Anuência de Importação e Registro de Exportação                                                                                                       
+175       Anuência Prévia de Patente                                                                                                                            
+176       Regulação de Preço de Medicamentos e Produtos para Saúde                                                                                              
+177       Credenciamento e Habilitação de Laboratórios Analíticos                                                                                               
+178       Controle Sanitário e Orientação de Viajantes                                                                                                          
+179       Monitoramento Sanitário de Produtos e Serviços                                                                                                        
+180       Gerenciamento do Risco Sanitário                                                                                                                      
+181       Análise e Aprovação de Projetos Básicos de Arquitetura                                                                                                
+182       Informação, Educação e Comunicação em Vigilância em Saúde                                                                                             
+183       Acolhimento e Atendimento a Notificações, Denuncias e Reclamações                                                                                     
+184       Regulamentação de Ações de Saúde Pública sob Vigilância Sanitária                                                                                     
+185       Fiscalização Sanitária de Produtos e Serviços                                                                                                         
+186       Emissão de Certidões e Certificados                                                                                                                   
+187       Inspeção Sanitária dos Estabelecimentos Sujeitos à Vigilância Sanitária                                                                               
+188       Emissão de Licença Sanitária para Estabelecimentos Sujeitos à Vigilância Sanitária                                                                    
+189       Farmacovigilância                                                                                                                                     
+190       Alerta e Resposta a Surtos e Eventos de Importância em Saúde Pública                                                                                  
+191       Notificação de Eventos de Interesse de Saúde Pública                                                                                                  
+192       Investigação de Eventos de Interesse de Saúde Pública                                                                                                 
+193       Busca Ativa                                                                                                                                           
+194       Interrupção da Cadeia de Transmissão                                                                                                                  
+195       Controle de Vetores, Reservatórios e Hospedeiros.                                                                                                     
+196       Diagnóstico Laboratorial de Eventos de Interesse de Saúde Pública                                                                                     
+197       Vacinação                                                                                                                                             
+198       Oferta de Tratamento Clínico e Cirúrgico para Doenças de Interesse de Saúde Pública                                                                   
+199       Realização de Inquéritos Epidemiológicos                                                                                                              
+200       Prevenção de Doenças e Agravos                                                                                                                        
+201       Promoção da Saúde                                                                                                                                     

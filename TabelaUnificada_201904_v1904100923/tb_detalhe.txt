@@ -1,0 +1,38 @@
+001Inclui valor da anestesia                                                                           201904
+003Admite longa permanência                                                                            201904
+004Admite permanência à maior                                                                          201904
+005Admite liberação de quantidade na AIH                                                               201904
+006CNRAC                                                                                               201904
+007Permanência por dia                                                                                 201904
+008Não permite mudança de procedimento                                                                 201904
+009Exige CNS                                                                                           201904
+011Permite alta direta de UTI                                                                          201904
+012Exige idade no BPA (Consolidado)                                                                    201904
+013Verifica habilitação de terceiro                                                                    201904
+014Admite APAC de Continuidade                                                                         201904
+015Admitido apenas em Hosp.Espec/Psiquiatria                                                           201904
+017Exige Informação da OPM                                                                             201904
+020Monitoramento do CEO                                                                                201904
+021Não Exige CBO                                                                                       201904
+022Exige registro na APAC de dados complementares                                                      201904
+023Registro no SISCOLO                                                                                 201904
+024Registro no SISPRENATAL                                                                             201904
+025Registro no SISMAMA                                                                                 201904
+026Registro de Procedimentos Secundário Compativel                                                     201904
+029Admite período maior para a apresentação                                                            201904
+033APAC com validade fixa de 03 competências                                                           201904
+034Não exige CNS                                                                                       201904
+036Exige Autorização                                                                                   201904
+037Exige CNPJ do Fornecedor                                                                            201904
+038Exige Serviço/Classificação                                                                         201904
+040Registro no SISCAN                                                                                  201904
+041APAC com validade fixa de 12 competências                                                           201904
+042Não Admite Liberação de Crítica de Idade                                                            201904
+043Exige registro de CID de causas associadas                                                          201904
+044Cirurgias Eletivas                                                                                  201904
+045Diárias de Leitos Complementares                                                                    201904
+046Tratamento Ambulatorial de Doenças Crônicas                                                         201904
+047Autorização com limite máximo de 6 meses.                                                           201904
+048Exige CID                                                                                           201904
+049Permite Informação de Equipe Cirúrgica                                                              201904
+050Permite o Registro de Informações do CNS do(s) Recém-Nascido(s)                                     201904

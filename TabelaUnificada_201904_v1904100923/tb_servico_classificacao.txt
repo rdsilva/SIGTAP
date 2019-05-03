@@ -1,0 +1,347 @@
+168001Atenção Especializada Em Doenças Raras                                                                                                                201904
+169001Urologia em Geral                                                                                                                                     201904
+100001Atendimento em presídio até 100 presos                                                                                                                201904
+101001Saúde da família                                                                                                                                      201904
+102001Estratégia de Agentes Comunitários de Saúde - EACS                                                                                                    201904
+103001Ambulância de transporte                                                                                                                              201904
+104001Central de Regulação de Internações Hospitalares                                                                                                      201904
+105001Neurocirurgia do trauma e anomalias do desenvolvimento                                                                                                201904
+106001Testagem e aconselhamento                                                                                                                             201904
+107001Serviço de Atenção à Saúde Auditiva na Média Complexidade                                                                                             201904
+108001Atendimento/acompanhamento em saúde do trabalhador                                                                                                    201904
+109001Unidade sócio-educativa com até 40 adolecentes                                                                                                        201904
+110001Atenção à infertilidade                                                                                                                               201904
+111001Diagnóstico e tratamento                                                                                                                              201904
+112001Acompanhamento do pré-natal de risco habitual                                                                                                         201904
+113001Assitência Domiciliar                                                                                                                                 201904
+114001Dentística                                                                                                                                            201904
+115001Residência terapêutica em saúde mental                                                                                                                201904
+116001Eletrofisiologia                                                                                                                                      201904
+117001Tratamento da lipodistrofia do portador de HIV / AIDS                                                                                                 201904
+118001Cirurgia torácica                                                                                                                                     201904
+119001Abordagem e tratamento do fumante                                                                                                                     201904
+120001Exames anatomopatológicos                                                                                                                             201904
+121001Radiologia                                                                                                                                            201904
+122001Teste Ergométrico                                                                                                                                     201904
+123001OPM auxiliares de locomoção                                                                                                                           201904
+124001Diagnóstico/Tratamento das doenças endócrinas, metabólicas e nutricionais                                                                             201904
+125001Dispensação de Medicamentos do Componente Especializado da Assistência Farmaceutica.                                                                  201904
+126001Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                                                                  201904
+127001Tratamento clínico, cirúrgico, reparador e acompanhamento ao obeso                                                                                    201904
+128001Procedimentos destinados à obtenção do sangue para fins de assitência hemoterápica                                                                    201904
+129001Exames de histocompatibilidade por meio de sorologia                                                                                                  201904
+130001Tratamento Dialítico-Hemodiálise                                                                                                                      201904
+131001Diagnóstico em oftalmologia                                                                                                                           201904
+132001Oncologia pediátrica                                                                                                                                  201904
+133001Tratamento de Doenças das Vias Aéreas Inferiores                                                                                                      201904
+134001Acupuntura                                                                                                                                            201904
+135001Reabilitação Visual                                                                                                                                   201904
+136001Enteral                                                                                                                                               201904
+137001Exame eletrocardiográfico por telemedicina                                                                                                            201904
+138001Diagnóstico e tratamento em cintura escapular                                                                                                         201904
+139001Tratamento de recém-nascido com hipotireoidismo e fenilcetonuria                                                                                      201904
+141001Vigilância epidemiológica                                                                                                                             201904
+142001Do aparelho digestivo                                                                                                                                 201904
+143001Transporte terrestre                                                                                                                                  201904
+144001Coleta realizada fora das estrutura laboratorial                                                                                                      201904
+145001Exames Bioquimicos                                                                                                                                    201904
+146001Diagnóstica                                                                                                                                           201904
+147001NASF 1                                                                                                                                                201904
+148001Saúde mental                                                                                                                                          201904
+149001Rim                                                                                                                                                   201904
+150001Fístula arteriovenosa sem enxerto                                                                                                                     201904
+151001Medicina nuclear in vivo                                                                                                                              201904
+153001Acompanhamento Clínico, pré e pós operatório e hormonioterapia.                                                                                       201904
+154001Banco de valvula cardiaca humana                                                                                                                      201904
+155001Serviço de Traumatologia e Ortopedia                                                                                                                  201904
+156001Atenção as Pessoas Ostomizadas I                                                                                                                      201904
+157001Laboratorio Regional de Protese Dentaria                                                                                                              201904
+158001Serviço de Atenção Integral em Hanseniase Tipo I                                                                                                      201904
+159001Atenção Básica                                                                                                                                        201904
+160001Teleconsultoria Assíncrona                                                                                                                            201904
+162001ADULTO                                                                                                                                                201904
+163001NEONATAL CONVENCIONAL                                                                                                                                 201904
+164001Dispensação de OPM Auxiliares de Locomoção                                                                                                            201904
+165001Referência para Atenção Integral às Pessoas em Situação de Violência Sexual                                                                           201904
+167001ODONTOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                           201904
+100002Atendimento em manicômio até 100 presos                                                                                                               201904
+169002Litotripsia                                                                                                                                           201904
+102002Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade I)                                                                          201904
+103002Unidade de suporte básico de vida terrestre (USB)                                                                                                     201904
+104002Cental de Regulação de Consultas e Exames                                                                                                             201904
+105002Coluna e nervos periféricos                                                                                                                           201904
+106002Diagnóstico e tratamento                                                                                                                              201904
+107002Serviço de Atenção à Saúde Auditiva na Alta Complexidade                                                                                              201904
+108002Centro de referência em saúde do trabalhador CEREST estadual                                                                                          201904
+109002Unidade sócio-educativa com de 41 a 100 adolecentes                                                                                                   201904
+110002Contracepção clínica                                                                                                                                  201904
+111002Tratamento multidrogas resistentes                                                                                                                    201904
+112002Acompanhamento do pré-natal de alto risco                                                                                                             201904
+113002Internação Domiciliar                                                                                                                                 201904
+114002Endodontia                                                                                                                                            201904
+115002Atendimento psicossocial                                                                                                                              201904
+116002Cirurgia cardiovascular (adulto)                                                                                                                      201904
+117002Tratamento em queimados                                                                                                                               201904
+120002Exames citopatológicos                                                                                                                                201904
+121002Ultra-sonografia                                                                                                                                      201904
+122002Teste de Holter                                                                                                                                       201904
+123002OPM ortopédicas                                                                                                                                       201904
+124002Cirurgia de glândulas endócrinas                                                                                                                      201904
+125002Farmácia Popular                                                                                                                                      201904
+126002Assistência fisioterapêutica em alterações oncológicas                                                                                                201904
+128002Diagnóstico em hemoterapia                                                                                                                            201904
+129002Exames de histocompatibilidade por sorologia e biologia                                                                                               201904
+131002Tratamento clínico do aparelho da visão                                                                                                               201904
+132002Hematologia                                                                                                                                           201904
+133002Diagnóstico em Pneumologia                                                                                                                            201904
+134002Fitoterapia                                                                                                                                           201904
+135002Reabilitação Intelectual                                                                                                                              201904
+136002Enteral/Parenteral                                                                                                                                    201904
+138002Diagnóstico e tratamento em membros superiores                                                                                                        201904
+139002Tratamento de recém-nascido com doenças falciformes                                                                                                   201904
+141002Vigilância sanitária                                                                                                                                  201904
+142002Do aparelho respiratório                                                                                                                              201904
+143002Transporte aéreo                                                                                                                                      201904
+145002Exames hematológicos e hemostasia                                                                                                                     201904
+146002Cirúrgica                                                                                                                                             201904
+147002NASF 2                                                                                                                                                201904
+148002AIDS                                                                                                                                                  201904
+149002Medula óssea                                                                                                                                          201904
+150002Fístula arteriovenosa com enxerto                                                                                                                     201904
+151002Medicina nuclear in vitro                                                                                                                             201904
+153002Cirurgia e Acompanhamento pré e pós oreratório                                                                                                        201904
+154002Banco de tecido musculo esqueletico                                                                                                                   201904
+155002Serviço de Traumatologia e Ortopedia Pediátrica (até 21 anos de idade)                                                                                201904
+156002Atenção as Pessoas Ostomizadas II                                                                                                                     201904
+158002Serviço de Atenção Integral em Hanseniase Tipo II                                                                                                     201904
+159002Atenção Básica com Saúde Bucal                                                                                                                        201904
+160002Teleconsultoria Síncrona                                                                                                                              201904
+162002NEONATAL                                                                                                                                              201904
+163002NEONATAL CANGURU                                                                                                                                      201904
+164002Manutenção e Adaptação de OPM Auxiliares de Locomoção                                                                                                 201904
+165002Atenção Integral à Saúde de Adolescentes em Situação de Violência Sexual                                                                              201904
+167002ODONTOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                       201904
+168002Referência em Doenças Raras                                                                                                                           201904
+101002Saúde bucal MI                                                                                                                                        201904
+100003Atendimento em presídio acima de 100 presos                                                                                                           201904
+101003Saúde bucal MII                                                                                                                                       201904
+102003Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade II)                                                                         201904
+103003Unidade de suporte avançado de vida terrestre (USA)                                                                                                   201904
+104003Central de Regulação de Urgências                                                                                                                     201904
+105003Tumores do sistema nervoso                                                                                                                            201904
+106003Diagnóstico, tratamento e capacitação técnica                                                                                                         201904
+107003Terapia fonoaudiológica                                                                                                                               201904
+108003VIGILÂNCIA EM SAÚDE DO TRABALHADOR (VISAT)                                                                                                            201904
+109003Unidade sócio-educativa com de 101 a 180 adolecentes                                                                                                  201904
+110003Laqueadura                                                                                                                                            201904
+112003Parto em gestação de risco habitual                                                                                                                   201904
+113003Equipe Multidisciplinar de Atenção Domiciliar - EMAD                                                                                                  201904
+114003Periodontia clínica                                                                                                                                   201904
+115003Serviço Hospitalar para Atenção a Saúde Mental                                                                                                        201904
+116003Cirurgia cardiovascular (Pediátrico)                                                                                                                  201904
+117003Tratamento da lipoatrofia facial do portador de HIV / AIDS                                                                                            201904
+120003Monitoramento Externo da Qualidade dos Exames Citopatologicos do Colo do Útero                                                                        201904
+121003Tomografia computadorizada                                                                                                                            201904
+122003Exame Eletrocardiográfico                                                                                                                             201904
+123003OPM auditivas                                                                                                                                         201904
+125003Farmácia com manipulação homeopática                                                                                                                  201904
+126003Assistência fisioterapêutica em oftalmologia                                                                                                          201904
+128003Procedimentos especiais em hemoterapia                                                                                                                201904
+130003Confeccção/Intervenção de Acessos para Diálise                                                                                                        201904
+131003Tratamento cirúrgico do aparelho da visão                                                                                                             201904
+132003Oncologia clínica                                                                                                                                     201904
+133003Diagnóstico em Pneumologia por Telemedicina                                                                                                           201904
+134003Outras Práticas em Medicina Tradicional Chinesa                                                                                                       201904
+135003Reabilitação Física                                                                                                                                   201904
+136003Enteral/Parenteral, com manipulação/fabricação                                                                                                        201904
+138003Diagnóstico e tratamento em coluna vertebral e caixa torácica                                                                                         201904
+139003Tratamento de recém-nascido com fibrose cística                                                                                                       201904
+141003Vigilância ambiental                                                                                                                                  201904
+142003Do aparelho urinário                                                                                                                                  201904
+143003Transporte marítimo                                                                                                                                   201904
+145003Exames sorológicos e imunológicos                                                                                                                     201904
+148003Geriátrico                                                                                                                                            201904
+149003Coração                                                                                                                                               201904
+151003Medicina nuclear in vivo por telemedicina                                                                                                             201904
+155003Serviço de Traumatologia e Ortopedia de Urgência                                                                                                      201904
+158003Serviço de Atenção Integral em Hanseniase Tipo III                                                                                                    201904
+160003Segunda Opinião Formativa                                                                                                                             201904
+162003PEDIÁTRICO                                                                                                                                            201904
+163003PEDIÁTRICO                                                                                                                                            201904
+164003Dispensação de OPM Ortopédica                                                                                                                         201904
+165003Atenção Integral à Saúde de Crianças em Situação de Violência Sexual                                                                                  201904
+167003OFTALMOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                          201904
+128004Medicina transfusional                                                                                                                                201904
+130004Tratamento Nefrologia em Geral                                                                                                                        201904
+131004Projeto Olhar Brasil                                                                                                                                  201904
+132004Radioterapia                                                                                                                                          201904
+134004Práticas Corpo-mente                                                                                                                                  201904
+135004Reabilitação visual/mental/múltiplas deficiências                                                                                                     201904
+138004Diagnóstico e tratamento em cintura pélvica                                                                                                           201904
+139004Tratamento de recém-nascido com outras doenças congênitas                                                                                             201904
+140004Estabilização de paciente crítico/grave                                                                                                               201904
+141004Núcleo de vigilância hospitalar                                                                                                                       201904
+142004Do aparelho ginecológico                                                                                                                              201904
+145004Exames coprológicos                                                                                                                                   201904
+148004Fibrose cística                                                                                                                                       201904
+149004Pulmão                                                                                                                                                201904
+162004QUEIMADOS                                                                                                                                             201904
+163004ADULTO                                                                                                                                                201904
+164004Manutenção e Adaptação de OPM Ortopédica                                                                                                              201904
+165004Atenção Integral à Saúde de Homens em Situação de Violência Sexual                                                                                    201904
+167004OFTALMOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                      201904
+100004Atendimento em manicômio acima de 100 presos                                                                                                          201904
+104004Unidade de autorizações de TFD intermunicipais                                                                                                        201904
+105004Neurocirurgia vascular                                                                                                                                201904
+107004Diagnóstico em audiologia/otologia                                                                                                                    201904
+109004Unidade sócio-educativa com mais de 180 adolecentes                                                                                                   201904
+110004Vasectomia                                                                                                                                            201904
+112004Parto em gestação de alto risco                                                                                                                       201904
+113004Equipe Multidisciplinar de Apoio - EMAP                                                                                                               201904
+114004Moldagem/Manutenção                                                                                                                                   201904
+115004Serviço Residencial Terapêutico Tipo I - SRT tipo I                                                                                                   201904
+116004Cirurgia vascular                                                                                                                                     201904
+121004Ressonância magnética                                                                                                                                 201904
+122004Exame Eletroencefalográfico                                                                                                                           201904
+123004OPM oftalmológicas                                                                                                                                    201904
+125004Dispensação de medicamentos estratégicos                                                                                                              201904
+126004Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                                                                     201904
+130005Tratamento Diálitico Peritonial                                                                                                                       201904
+126005Assistência fisioterapêutica nas disfunções músculo-esqueléticas (todas as origens)                                                                   201904
+132005Oncologia cirúrgica                                                                                                                                   201904
+134005Homeopatia                                                                                                                                            201904
+135005Reabiliatação Auditiva                                                                                                                                201904
+138005Diagnóstico e tratamento em membros inferiores                                                                                                        201904
+139005Acompanhamento a pacientes com diagnósticos de Hiperplasia Adrenal Congênita                                                                          201904
+140005Atendimento ao paciente com Acidente Vascular Cerebral (AVC)                                                                                          201904
+145005Exames de uroanálise                                                                                                                                  201904
+148005Cirúrgico / Diagnóstico                                                                                                                               201904
+149005Córnea / Esclera                                                                                                                                      201904
+162005DOENÇA CORONARIANA (UCO)                                                                                                                              201904
+164005Dispensação de OPM Auditiva                                                                                                                           201904
+165005Atenção Integral à Saúde de Pessoas Idosas em Situação de Violência Sexual                                                                            201904
+103005Unidade de Suporte Básico de vida: Equipe Embarcação                                                                                                  201904
+104005Unidade de autorizações de TFD interestaduais                                                                                                         201904
+105005Tratamento neurocirúrgico da dor funcional                                                                                                            201904
+107005Implante Coclear                                                                                                                                      201904
+112005Centro de parto normal                                                                                                                                201904
+114005Cirurgia oral                                                                                                                                         201904
+115005Serviço Residencial Terapêutico Tipo II - SRT tipo II                                                                                                 201904
+116005Cardiologia intervencionista (hemodinâmica)                                                                                                           201904
+122005Teste Ergométrico por Telemedicina                                                                                                                    201904
+123005OPM em gastroenterologia                                                                                                                              201904
+125005Dispensação de medicamentos básicos                                                                                                                   201904
+131005Diagnóstico em Oftalmologia por Telemedicina                                                                                                          201904
+130006Tratamento em DRC                                                                                                                                     201904
+126006Assistência fisioterapêutica em queimados                                                                                                             201904
+134006Termalismo/Crenoterapia                                                                                                                               201904
+139006Acompanhamento a pacientes com diagnósticos de Deficiência Biotinidase                                                                                201904
+140006Pronto Atendimento Clínico                                                                                                                            201904
+145006Exames hormonais                                                                                                                                      201904
+148006Acompanhamento pós-transplante de medula óssea                                                                                                        201904
+149006Fígado                                                                                                                                                201904
+164006Manutenção e Adaptação de OPM Auditiva                                                                                                                201904
+165006Interrupção de Gravidez nos Casos Previstos em Lei                                                                                                    201904
+103006Veículos de intervenção rápida                                                                                                                        201904
+104006Central Estadual de Regulação da Alta Complexidade                                                                                                    201904
+105006Investigação e cirurgia de epilepsia                                                                                                                  201904
+107006Triagem Auditiva Neonatal                                                                                                                             201904
+112006Casa da Gestante, Bebê e Puérpera                                                                                                                     201904
+114006Cirurgia buco-maxilo-facial                                                                                                                           201904
+115006UA Adulto                                                                                                                                             201904
+116006Cardiologia Endovascular Extracardíaco                                                                                                                201904
+121006Radiologia intervencionista                                                                                                                           201904
+122006Teste Holter por Telemedicina                                                                                                                         201904
+123006OPM em urologia                                                                                                                                       201904
+125006Farmácia Hospitalar                                                                                                                                   201904
+131006Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                                 201904
+131007Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                             201904
+126007Assistência fisioterapêutica nas alterações em neurologia                                                                                             201904
+135007Oficina Ortopédica Fixa                                                                                                                               201904
+140007Pronto Atendimento Pediátrico                                                                                                                         201904
+145007Exames de  vigilância epidemiológica e  ambiental                                                                                                     201904
+149007Pâncreas                                                                                                                                              201904
+164007Dispensação de OPM Oftalmológica                                                                                                                      201904
+165007Atenção Ambulatorial às Pessoas em Situação de Violência Sexual                                                                                       201904
+103007Outros veículos                                                                                                                                       201904
+105007Tratamento endovascular                                                                                                                               201904
+107007Diagnóstico em Audiologia/Otologia po Telemedicina                                                                                                    201904
+114007Atendimento à pessoa com deficiência                                                                                                                  201904
+115007UA Infantojuvenil                                                                                                                                     201904
+116007Cardiologia Clínica                                                                                                                                   201904
+121007Radiologia por telemedicina                                                                                                                           201904
+122007Exame Eletrocardiografico por Telemedicina                                                                                                            201904
+123007OPM em odontologia                                                                                                                                    201904
+134007Antroposofia Aplicada à Saúde                                                                                                                         201904
+134008Práticas Expressivas                                                                                                                                  201904
+126008Diagnóstico cinético funcional                                                                                                                        201904
+140008Pronto Atendimento Obstétrico                                                                                                                         201904
+145008Exames toxicológicos ou de monitorização terapêutica                                                                                                  201904
+149008Retirada de orgãos                                                                                                                                    201904
+164008Manutenção e Adaptação de OPM Oftalmológica                                                                                                           201904
+165008Coleta de Vestígios de Violência Sexual                                                                                                               201904
+103008Ambulância de resgate                                                                                                                                 201904
+105008Neurocirurgia funcional estereotáxica                                                                                                                 201904
+107008Atenção Especializada às Pessoas com Deficiência Auditiva                                                                                             201904
+115008Unidade de Atenção em Regime Residencial                                                                                                              201904
+116008Serviço de Atenção Cardiovascular/Cardiologia Angiologia                                                                                              201904
+121008Ultra-sonografia por telemedicina                                                                                                                     201904
+122008Exame Eletroencefalografico por Telemedicina                                                                                                          201904
+123008OPM buco-maxilo-facial                                                                                                                                201904
+135008Oficina Ortopédica Intinerante Terrestre                                                                                                              201904
+134009Ayurveda                                                                                                                                              201904
+135009Oficina Ortopédica Intinerante Fluvial                                                                                                                201904
+140009Pronto Atendimento Psiquiátrico                                                                                                                       201904
+145009Exames microbiológicos                                                                                                                                201904
+123009Substituição/Troca em órteses/próteses                                                                                                                201904
+164009Substitução/Troca de OPM                                                                                                                              201904
+105009Polissonografia                                                                                                                                       201904
+121009Tomografia computadorizada por telemedicina                                                                                                           201904
+122009Exame Eletroneuromiografia                                                                                                                            201904
+149009Pele                                                                                                                                                  201904
+145010Exames em outros líquidos biológicos                                                                                                                  201904
+123010OPM em queimados                                                                                                                                      201904
+134010Práticas Naturais                                                                                                                                     201904
+121010Ressonância magnética por telemedicina                                                                                                                201904
+149010Válvulas cardíacas                                                                                                                                    201904
+140010Pronto Atendimento Oftalmológico                                                                                                                      201904
+135010Atenção Fonoaudiológica                                                                                                                               201904
+122010Exame videoeletroencefalografia                                                                                                                       201904
+103010Motolância                                                                                                                                            201904
+123011OPM em nefrologia                                                                                                                                     201904
+122011Potenciais Evocados                                                                                                                                   201904
+121011Radiologia intervencionista por telemedicina                                                                                                          201904
+103011Unidade de Suporte Avançado de vida: Equipe Embarcação                                                                                                201904
+149011Osteocondroligamentos                                                                                                                                 201904
+145011Exames de genética                                                                                                                                    201904
+140011Pronto Atendimento Odontológico                                                                                                                       201904
+135011Atenção Fisioterapeutica                                                                                                                              201904
+134011Práticas Manuais                                                                                                                                      201904
+103012Equipe Aeromédico                                                                                                                                     201904
+145012Exames para triagem neonatal                                                                                                                          201904
+123012OPM - Projeto Olhar Brasil                                                                                                                            201904
+134012Práticas Psicodinâmicas                                                                                                                               201904
+122012Potenciais Evocados por Telemedicina                                                                                                                  201904
+140012Pronto Socorro Pediátrico                                                                                                                             201904
+121012Mamografia                                                                                                                                            201904
+135012Atenção à Saúde das Pessoas Ostomizadas I                                                                                                             201904
+149012Separação, avaliação biomicroscópica e conservação da córnea/esclera                                                                                  201904
+149013Contagem endotelial corneana                                                                                                                          201904
+134013Ozônioterapia                                                                                                                                         201904
+135013Atenção à Saúde das Pessoas Ostomizadas II                                                                                                            201904
+140013Pronto Socorro Obstétrico                                                                                                                             201904
+145013Exames imunohematológicos                                                                                                                             201904
+121013Mamografia por Telemedicina                                                                                                                           201904
+123013OPM Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                             201904
+140014Pronto Socorro Cardiovascular                                                                                                                         201904
+134014Aromaterapia                                                                                                                                          201904
+123014OPM Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                         201904
+149014Acompanhamento de paciente transplantado                                                                                                              201904
+149015Ações para doação e captação de órgãos e tecidos                                                                                                      201904
+140015Pronto Socorro Neurologia/Neurocirurgia                                                                                                               201904
+134015Imposição de Mãos                                                                                                                                     201904
+149016Retirada de globo ocular humano para transplante                                                                                                      201904
+140016Pronto Socorro Traumato-Ortopédico                                                                                                                    201904
+140017Pronto Socorro Odontológico                                                                                                                           201904
+140018Pronto Socorro Oftalmológico                                                                                                                          201904
+140019Pronto Socorro Geral/Clínico                                                                                                                          201904

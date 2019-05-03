@@ -27,7 +27,7 @@ Wiki [SIGTAP](https://wiki.saude.gov.br/sigtap/index.php/Gerais#Regra_Condiciona
 Os dados do `Sigtap` são organizados em um conjunto de pouco mais de 80 arquivos, disponibilizados mensalmente pelo próprio DataSUS. Desta forma iniciaremos trabalhando com os dados das tabelas *grupo*, *subgrupo*, *forma* *organizacional*, *procedimento* e *tuss*. No futuro irei adicionar as demais informações, tais como relação com cid, com nível de atenção e outros. 
 
 <aside>
-Competência : 09/2018
+Competência : 04/2019
 </aside>
 
 ## Dados do Sigtap
@@ -39,7 +39,9 @@ library(textreadr)
 
 ```{r work directory, eval=FALSE, warning=FALSE, echo=TRUE}
 
-setwd('TabelaUnificada_201809_v1809051203/')
+path <- 'TabelaUnificada_201904_v1904100923/'
+
+setwd(path)
 
 grupo <- iconv(read_document('tb_grupo.txt'), "latin1", "UTF-8")
 subgrupo <- iconv(read_document('tb_sub_grupo.txt'), "latin1", "UTF-8")
@@ -60,7 +62,7 @@ Por hora irei fazer as transcrições no braço mesmo, em um futuro próximo ire
 
 library(rmarkdown)
 
-setwd('TabelaUnificada_201809_v1809051203/')
+setwd(path)
 
 grupo.layout <- read.csv('tb_grupo_layout.txt', header = TRUE, sep = ',')
 
@@ -86,7 +88,7 @@ grupo.ds <- data.frame(co_grupo, no_grupo, dt_competencia)
 
 library(rmarkdown)
 
-setwd('TabelaUnificada_201809_v1809051203/')
+setwd(path)
 
 subgrupo.layout <- read.csv('tb_sub_grupo_layout.txt', header = TRUE, sep = ',')
 
@@ -113,7 +115,7 @@ subgrupo.ds <- data.frame(co_grupo, co_sub_grupo, no_sub_grupo, dt_competencia)
 
 library(rmarkdown)
 
-setwd('TabelaUnificada_201809_v1809051203/')
+setwd(path)
 
 forma_organizacao.layout <- read.csv('tb_forma_organizacao_layout.txt', header = TRUE, sep = ',')
 
@@ -142,7 +144,7 @@ forma_organizacao.ds <- data.frame(co_grupo, co_sub_grupo, co_forma_organizacao,
 
 library(rmarkdown)
 
-setwd('TabelaUnificada_201809_v1809051203/')
+setwd(path)
 
 procedimento.layout <- read.csv('tb_procedimento_layout.txt', header = TRUE, sep = ',')
 
@@ -227,7 +229,7 @@ result <- result %>%
 ## Salvando o arquivo
 
 ```{r salvando arquivo final, eval=FALSE, warning=FALSE, echo=TRUE}
-write.csv2(result, 'tabela-sigtap-201809.csv', row.names = FALSE)
+write.csv2(result, 'tabela-sigtap-201904.csv', row.names = FALSE)
 ```
 
 
@@ -244,7 +246,7 @@ A tabela que armazena esta relação é a *rl_procedimento_compativel*
 
 ```{r compatibilidade, eval=FALSE, warning=FALSE, echo=TRUE}
 
-setwd('TabelaUnificada_201809_v1809051203/')
+setwd(path)
 
 rl_proc_comp <- iconv(read_document('rl_procedimento_compativel.txt'), "latin1", "UTF-8")
 
@@ -279,18 +281,187 @@ paged_table(compativeis)
 ```
 
 ```{r}
-write.csv2(compativeis, 'sigtap-compativeis.csv', row.names = FALSE)
+write.csv2(compativeis, 'sigtap-compativeis-201904.csv', row.names = FALSE)
 ```
 
 
+# Resultados Estruturados
+
+```{r}
+library(dplyr)
+library(rmarkdown)
+library(textreadr)
+```
 
 
+## Grupos de Procedimentos
 
+```{r}
+tmp_grupos <- grupo.ds %>%
+  select(co_grupo, no_grupo)
 
+write.csv2(tmp_grupos, 'Resultado/grupos_procedimentos.csv', row.names = FALSE)
+```
 
+## Subrupos de Procedimentos
 
+```{r}
+tmp_subgrupos <- subgrupo.ds %>%
+  select(co_grupo, co_sub_grupo, no_sub_grupo)
 
+write.csv2(tmp_subgrupos, 'Resultado/subgrupos_procedimentos.csv', row.names = FALSE)
+```
 
+## Organização de Procedimentos
 
+```{r}
+tmp_organizacao <- forma_organizacao.ds %>%
+  select(co_grupo, co_sub_grupo, co_forma_organizacao, no_forma_organizacao)
 
+write.csv2(tmp_organizacao, 'Resultado/organizacao_procedimentos.csv', row.names = FALSE)
+```
+
+## Procedimentos
+
+```{r}
+tmp_procedimento <- procedimento.ds %>%
+  select(co_grupo, co_sub_grupo, co_forma_organizacao, co_procedimento, no_procedimento)
+
+write.csv2(tmp_procedimento, 'Resultado/procedimentos.csv', row.names = FALSE)
+```
+
+## Parametros dos Procedimentos
+
+```{r}
+tmp_parametros <- procedimento.ds %>%
+  select(co_procedimento, qt_maxima_execucao, qt_dias_permanencia, qt_pontos, vl_idade_minima, vl_idade_maxima, 
+         vl_servico_hospitalar, vl_servico_ambulatorial, vl_servico_profissional, qt_tempo_permanencia)
+
+write.csv2(tmp_parametros, 'Resultado/parametros_procedimentos.csv', row.names = FALSE)
+```
+
+## CIDs 
+
+```{r}
+cid.layout <- read.csv('TabelaUnificada_201904_v1904100923/tb_cid_layout.txt', header = TRUE, sep = ',')
+paged_table(cid.layout)
+```
+
+```{r}
+cid <- iconv(read_document('TabelaUnificada_201904_v1904100923/tb_cid.txt'), "latin1", "UTF-8")
+
+co_cid <- substr(cid, 1, 4)
+no_cid <- trimws(substr(cid, 5, 104), "r")
+
+cid.ds <- data.frame(co_cid, no_cid)
+
+write.csv2(cid.ds, 'Resultado/cid.csv', row.names = FALSE)
+```
+
+## CIDs dos Procedimentos
+
+```{r}
+cid_procedimentos.layout <- read.csv('TabelaUnificada_201904_v1904100923/rl_procedimento_cid_layout.txt', header = TRUE, sep = ',')
+paged_table(cid_procedimentos.layout)
+```
+
+```{r}
+cid_procedimentos <- iconv(read_document('TabelaUnificada_201904_v1904100923/rl_procedimento_cid.txt'), "latin1", "UTF-8")
+
+co_procedimento <- substr(cid_procedimentos, 1, 10)
+co_cid <- substr(cid_procedimentos, 11, 14)
+
+cid_procedimentos.ds <- data.frame(co_procedimento, co_cid)
+
+write.csv2(cid_procedimentos.ds, 'Resultado/cid_procedimentos.csv', row.names = FALSE)
+```
+
+## Procedimentos Compativeis
+
+```{r}
+tmp_compativeis <- compativeis %>%
+  select(co_procedimento,
+                        co_registro_principal,
+                        co_procedimento_compativel,
+                        co_registro_compativel,
+                        tp_compatibilidade,
+                        qt_permitida)
+
+write.csv2(tmp_compativeis, 'Resultado/compativeis_procedimentos.csv', row.names = FALSE)
+```
+
+## Tipo Registro
+
+```{r}
+tp_registro.layout <- read.csv('TabelaUnificada_201904_v1904100923/tb_registro_layout.txt', header = TRUE, sep = ',')
+paged_table(tp_registro.layout)
+```
+
+```{r}
+tp_registro <- iconv(read_document('TabelaUnificada_201904_v1904100923/tb_registro.txt'), "latin1", "UTF-8")
+
+co_registro <- substr(tp_registro, 1, 2)
+no_registro <- trimws(substr(tp_registro, 3, 52), "r")
+
+tp_registro.ds <- data.frame(co_registro, no_registro)
+
+write.csv2(tp_registro.ds, 'Resultado/tipo_registro.csv', row.names = FALSE)
+```
+
+## Relação Procedimentos e Registro
+
+```{r}
+procedimento_registro.layout <- read.csv('TabelaUnificada_201904_v1904100923/rl_procedimento_registro_layout.txt', 
+                                         header = TRUE, sep = ',')
+paged_table(procedimento_registro.layout)
+```
+
+```{r}
+procedimento_registro <- iconv(read_document('TabelaUnificada_201904_v1904100923/rl_procedimento_registro.txt'), "latin1", "UTF-8")
+
+co_procedimento <- substr(procedimento_registro, 1, 10)
+co_registro <- substr(procedimento_registro, 11, 12)
+
+procedimento_registro.ds <- data.frame(co_procedimento, co_registro)
+
+write.csv2(procedimento_registro.ds, 'Resultado/relacao_procedimento_registro.csv', row.names = FALSE)
+```
+
+## Relação Procedimentos e Serviço
+
+```{r}
+procedimento_servico.layout <- read.csv('TabelaUnificada_201904_v1904100923/rl_procedimento_servico_layout.txt', 
+                                         header = TRUE, sep = ',')
+paged_table(procedimento_servico.layout)
+```
+
+```{r}
+procedimento_servico <- iconv(read_document('TabelaUnificada_201904_v1904100923/rl_procedimento_servico.txt'), "latin1", "UTF-8")
+
+co_procedimento <- substr(procedimento_servico, 1, 10)
+co_servico <- substr(procedimento_servico, 11, 13)
+
+procedimento_servico.ds <- data.frame(co_procedimento, co_servico)
+
+write.csv2(procedimento_servico.ds, 'Resultado/relacao_procedimento_servico.csv', row.names = FALSE)
+```
+
+## Tipo de Serviço
+
+```{r}
+servico.layout <- read.csv('TabelaUnificada_201904_v1904100923/tb_servico_layout.txt', 
+                                         header = TRUE, sep = ',')
+paged_table(servico.layout)
+```
+
+```{r}
+servico <- iconv(read_document('TabelaUnificada_201904_v1904100923/tb_servico.txt'), "latin1", "UTF-8")
+
+co_servico <- substr(servico, 1, 3)
+no_servico <- trimws(substr(servico, 4, 123), "r")
+
+servico.ds <- data.frame(co_servico, no_servico)
+
+write.csv2(servico.ds, 'Resultado/servicos.csv', row.names = FALSE)
+```
 

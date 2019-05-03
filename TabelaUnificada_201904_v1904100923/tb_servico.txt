@@ -1,0 +1,67 @@
+100Serviço de Atenção a Saúde no Sistema Penitenciário                                                                     201904
+101Estratégia de Saúde da Família                                                                                          201904
+102Estratégias de Agentes Comunitário de Saúde                                                                             201904
+103Serviço de Atendimento Móvel de Urgências                                                                               201904
+104Regulação Assistêncial dos Serviços de Saúde                                                                            201904
+105Serviço de Atenção em Neurologia/ Neurocirurgia                                                                         201904
+106Serviço de Atenção a DST/HIV/AIDS                                                                                       201904
+107Serviço de Atenção a Saúde Auditiva                                                                                     201904
+108Serviço de Atenção a Saúde do Trabalhador                                                                               201904
+109Serviço de Atenção a Saúde dos Adolecentes em Conflito com a Lei, em Regime de Internação e Internação Provisória       201904
+110Serviço de Atenção a Saúde Reprodutiva                                                                                  201904
+111Serviço de Atenção ao Paciente com Tuberculose                                                                          201904
+112Serviço de Atenção ao Pré-Natal, Parto e Nascimento                                                                     201904
+113Serviço de Atenção Domiciliar                                                                                           201904
+114Serviço de Atenção em Saúde Bucal                                                                                       201904
+115Serviço de Atenção Psicossocial                                                                                         201904
+116Serviço de Atenção Cardiovascular/Cardiologia                                                                           201904
+117Serviço de Cirurgia Reparadora                                                                                          201904
+118Serviço de Cirurgia Torácica                                                                                            201904
+119Serviço de Controle de Tabagismo                                                                                        201904
+120Serviço de Diagnóstico por Anatomia Patológica e/ou Citopatologia                                                       201904
+121Diagnóstico por Imagem                                                                                                  201904
+122Serviço de Diagnóstico por Métodos Gráficos/Dinâmicos                                                                   201904
+123Serviço de Dispensação de Órteses, Próteses e Materiais Especiais                                                       201904
+124Serviço de Endocrinologia                                                                                               201904
+125Serviço de Farmácia                                                                                                     201904
+126Serviço de Fisioterapia                                                                                                 201904
+127Serviço de Atenção à Obesidade                                                                                          201904
+128Serviço de Hemoterapia                                                                                                  201904
+129Servico de Laboratório de Histocompatibilidade                                                                          201904
+130Atenção à Doença Renal Crônica                                                                                          201904
+131Serviço de Oftalmologia                                                                                                 201904
+132Serviço de Oncologia                                                                                                    201904
+133Serviço de Pneumologia                                                                                                  201904
+134Serviço de Práticas Integrativas e Complementares                                                                       201904
+135Serviço de Reabilitação                                                                                                 201904
+136Serviço de Suporte Nutricional                                                                                          201904
+137Serviço de Telemedicina                                                                                                 201904
+138Serviço de Traumato-Ortopedia                                                                                           201904
+139Serviço de Triagem Neonatal                                                                                             201904
+140Serviço de Urgência e Emergência                                                                                        201904
+141Serviço de Vigilância em Saúde                                                                                          201904
+142Serviço de Endoscopia                                                                                                   201904
+143Serviço Móvel de Urgência (exceto SAMU)                                                                                 201904
+144Serviço Posto de Coleta de Materiais Biológicos                                                                         201904
+145Serviço de Diagnóstico por Laboratório Clínico                                                                          201904
+146Serviço de Videolaparoscopia                                                                                            201904
+147Serviço de Apoio a Saúde da Família                                                                                     201904
+148Hospital-Dia                                                                                                            201904
+149Transplante                                                                                                             201904
+150Cirurgia Vascular                                                                                                       201904
+151Medicina Nuclear                                                                                                        201904
+153Atenção Especializada no Processo Transexualizador                                                                      201904
+154Serviço de Banco de Tecidos                                                                                             201904
+155Serviço de Traumatologia  Ortopedia                                                                                     201904
+156Serviço de Atenção á Saúde das Pessoas Ostomizadas                                                                      201904
+157Serviço de Laboratorio de Protese Dentaria                                                                              201904
+158Serviço de Atenção Integral em Hanseniase                                                                               201904
+159Atenção Básica                                                                                                          201904
+160Teleconsultoria                                                                                                         201904
+162Serviço de Terapia Intensiva                                                                                            201904
+163Serviço de Cuidados Intermediários                                                                                      201904
+164Serviço de Órteses,Próteses e Materiais Especiais em Reabilitação                                                       201904
+165Atenção às Pessoas em Situação de Violência Sexual                                                                      201904
+167Atendimento Itinerante de Asistência e Ensino em Saúde                                                                  201904
+168Atenção Às Pessoas com Doenças Raras                                                                                    201904
+169Serviço de Atenção em Urologia                                                                                          201904

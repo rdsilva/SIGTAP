@@ -1,0 +1,4 @@
+01Ambulatorial                                                                                        201904
+02Hospitalar                                                                                          201904
+03Hospital Dia                                                                                        201904
+06Atenção Domiciliar                                                                                  201904
