@@ -1,0 +1,67 @@
+0401Pequenas cirurgias e cirurgias de pele, tecido subcutâneo e mucosa                                  202510
+0501Coleta e exames para fins de doação de orgãos, tecidos e células e de transplante                   202510
+0201Coleta de material                                                                                  202510
+0101Ações coletivas/individuais em saúde                                                                202510
+0901Atenção em Oncologia                                                                                202510
+0701Órteses, próteses e materiais especiais não relacionados ao ato cirúrgico                           202510
+0601Medicamentos de dispensação excepcional                                                             202510
+0301Consultas / Atendimentos / Acompanhamentos                                                          202510
+0801Ações relacionadas ao estabelecimento                                                               202510
+0302Fisioterapia                                                                                        202510
+0202Diagnóstico em laboratório clínico                                                                  202510
+0102Vigilância em saúde                                                                                 202510
+0902Atenção em Cardiologia                                                                              202510
+0802Ações relacionadas ao atendimento                                                                   202510
+0702Órteses, próteses e materiais especiais relacionados ao ato cirúrgico                               202510
+0602Medicamentos estratégicos                                                                           202510
+0502Avaliação de morte encefálica                                                                       202510
+0402Cirurgia de glândulas endócrinas                                                                    202510
+0203Diagnóstico por anatomia patológica e citopatologia                                                 202510
+0903Atenção em Ortopedia                                                                                202510
+0803Autorização / regulação                                                                             202510
+0503Ações relacionadas à doação de orgãos e tecidos para transplante                                    202510
+0403Cirurgia do sistema nervoso central e periférico                                                    202510
+0303Tratamentos clínicos (outras especialidades)                                                        202510
+0603Medicamentos de âmbito hospitalar e urgência                                                        202510
+0204Diagnóstico por radiologia                                                                          202510
+0604Componente especializado da assistência farmacêutica                                                202510
+0504Processamento de tecidos para transplante                                                           202510
+0804Telessaúde                                                                                          202510
+0904Atenção em Otorrinolaringologia                                                                     202510
+0304Tratamento em oncologia                                                                             202510
+0404Cirurgia das vias aéreas superiores, da face, da cabeça e do pescoço                                202510
+0505Transplante de orgãos, tecidos e células                                                            202510
+0205Diagnóstico por ultrasonografia                                                                     202510
+0405Cirurgia do aparelho da visão                                                                       202510
+0905Atenção em Oftalmologia                                                                             202510
+0305Tratamento em nefrologia                                                                            202510
+0206Diagnóstico por tomografia                                                                          202510
+0306Hemoterapia                                                                                         202510
+0406Cirurgia do aparelho circulatório                                                                   202510
+0506Acompanhamento e intercorrências no pré e pós-transplante                                           202510
+0906Atenção em Saúde Mulher                                                                             202510
+0207Diagnóstico por ressonância magnética                                                               202510
+0307Tratamentos odontológicos                                                                           202510
+0407Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal                                    202510
+0408Cirurgia do sistema osteomuscular                                                                   202510
+0208Diagnóstico por medicina nuclear in vivo                                                            202510
+0308Tratamento de lesões, envenenamentos e outros, decorrentes de causas externas                       202510
+0409Cirurgia do aparelho geniturinário                                                                  202510
+0209Diagnóstico por endoscopia                                                                          202510
+0309Terapias especializadas                                                                             202510
+0310Parto e nascimento                                                                                  202510
+0210Diagnóstico por radiologia intervencionista                                                         202510
+0410Cirurgia de mama                                                                                    202510
+0211Métodos diagnósticos em especialidades                                                              202510
+0311Cuidados Paliativos                                                                                 202510
+0411Cirurgia obstétrica                                                                                 202510
+0412Cirurgia torácica                                                                                   202510
+0212Diagnóstico e procedimentos especiais em hemoterapia                                                202510
+0213Diagnóstico em vigilância epidemiológica e ambiental                                                202510
+0413Cirurgia reparadora                                                                                 202510
+0414Bucomaxilofacial                                                                                    202510
+0214Diagnóstico por teste rápido                                                                        202510
+0415Outras cirurgias                                                                                    202510
+0416Cirurgia em oncologia                                                                               202510
+0417Anestesiologia                                                                                      202510
+0418Cirurgia em nefrologia                                                                              202510

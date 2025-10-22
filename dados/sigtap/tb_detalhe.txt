@@ -1,0 +1,48 @@
+001Inclui valor da anestesia                                                                           202510
+003Admite longa permanência                                                                            202510
+004Admite permanência à maior                                                                          202510
+005Admite liberação de quantidade na AIH                                                               202510
+006CNRAC                                                                                               202510
+007Permanência por dia                                                                                 202510
+008Não permite mudança de procedimento                                                                 202510
+009Exige CPF/CNS                                                                                       202510
+011Permite alta direta de UTI                                                                          202510
+012Exige idade no BPA (Consolidado)                                                                    202510
+013Verifica habilitação de terceiro                                                                    202510
+014Admite APAC de Continuidade                                                                         202510
+015Admitido apenas em Hosp.Espec/Psiquiatria                                                           202510
+017Exige Informação da OPM                                                                             202510
+020Monitoramento do CEO                                                                                202510
+021Não Exige CBO                                                                                       202510
+022Exige registro na APAC de dados complementares                                                      202510
+023Registro no SISCOLO                                                                                 202510
+024Registro no SISPRENATAL                                                                             202510
+025Registro no SISMAMA                                                                                 202510
+026Registro de Procedimentos Secundário Compativel                                                     202510
+029Admite período maior para a apresentação                                                            202510
+033APAC com validade fixa de 03 competências                                                           202510
+034Não exige CPF/CNS                                                                                   202510
+036Exige Autorização                                                                                   202510
+037Exige CNPJ do Fornecedor                                                                            202510
+038Exige Serviço/Classificação                                                                         202510
+040Registro no SISCAN                                                                                  202510
+041APAC com validade fixa de 12 competências                                                           202510
+042Não Admite Liberação de Crítica de Idade                                                            202510
+043Exige registro de CID de causas associadas                                                          202510
+044Cirurgias Eletivas                                                                                  202510
+045Diárias de Leitos Complementares                                                                    202510
+046Tratamento Ambulatorial de Doenças Crônicas                                                         202510
+047Autorização com limite máximo de 6 meses.                                                           202510
+048Exige CID                                                                                           202510
+049Permite Informação de Equipe Cirúrgica                                                              202510
+050Permite o Registro de Informações do CPF/CNS do(s) Recém-Nascido(s)                                 202510
+051Programa Mais Acesso a Especialistas - Componente Cirurgias Hospitalares                            202510
+052Programa Mais Acesso a Especialistas - Componente Cirurgias Ambulatoriais.                          202510
+053Programa Mais Acesso a Especialistas (PMAE)                                                         202510
+054APAC com validade fixa de 2 competências.                                                           202510
+055Exige data do resultado diagnóstico de Neoplasia                                                    202510
+056Exige procedimento de tomografia computadorizada                                                    202510
+057Exige procedimento de ressonância magnética                                                         202510
+058Obrigatório CPF                                                                                     202510
+059Componente Complementar - Modalidade 2                                                              202510
+060Componente Complementar - Modalidade 3                                                              202510

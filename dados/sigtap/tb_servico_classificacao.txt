@@ -1,0 +1,432 @@
+168001Atenção Especializada Em Doenças Raras                                                                                                                202510
+169001Urologia em Geral                                                                                                                                     202510
+170001Núcleo de Segurança do Paciente                                                                                                                       202510
+171001Apoio Assistencial                                                                                                                                    202510
+173001Recebimento e Inspeção                                                                                                                                202510
+174001Indivíduos em Geral                                                                                                                                   202510
+100001Atendimento em presídio até 100 presos                                                                                                                202510
+101001Saúde da família                                                                                                                                      202510
+102001Estratégia de Agentes Comunitários de Saúde - EACS                                                                                                    202510
+103001Ambulância de transporte                                                                                                                              202510
+104001Central de Regulação de Internações Hospitalares                                                                                                      202510
+105001Neurocirurgia do trauma e anomalias do desenvolvimento                                                                                                202510
+106001Testagem e aconselhamento                                                                                                                             202510
+108001Atendimento Assistencial                                                                                                                              202510
+109001Unidade sócio-educativa com até 40 adolecentes                                                                                                        202510
+110001Atenção à infertilidade                                                                                                                               202510
+111001Diagnóstico e tratamento                                                                                                                              202510
+112001Acompanhamento do pré-natal                                                                                                                           202510
+113001Assitência Domiciliar                                                                                                                                 202510
+114001Dentística                                                                                                                                            202510
+115001Residência terapêutica em saúde mental                                                                                                                202510
+116001Eletrofisiologia                                                                                                                                      202510
+117001Tratamento da lipodistrofia do portador de HIV / AIDS                                                                                                 202510
+118001Cirurgia torácica                                                                                                                                     202510
+119001Abordagem e tratamento do fumante                                                                                                                     202510
+120001Exames anatomopatológicos                                                                                                                             202510
+121001Radiologia                                                                                                                                            202510
+122001Teste Ergométrico                                                                                                                                     202510
+124001Diagnóstico/Tratamento das doenças endócrinas, metabólicas e nutricionais                                                                             202510
+125001Dispensação de Medicamentos do Componente Especializado da Assistência Farmaceutica.                                                                  202510
+126001Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                                                                  202510
+127001Tratamento clínico, cirúrgico, reparador e acompanhamento ao obeso                                                                                    202510
+128001Procedimentos destinados à obtenção do sangue para fins de assitência hemoterápica                                                                    202510
+129001Exames de histocompatibilidade por meio de sorologia                                                                                                  202510
+130001Tratamento Dialítico-Hemodiálise                                                                                                                      202510
+131001Diagnóstico em oftalmologia                                                                                                                           202510
+132001Oncologia pediátrica                                                                                                                                  202510
+133001Tratamento de Doenças das Vias Aéreas Inferiores                                                                                                      202510
+134001Acupuntura                                                                                                                                            202510
+135001Reabilitação Visual                                                                                                                                   202510
+136001Enteral                                                                                                                                               202510
+137001Exame eletrocardiográfico por telemedicina                                                                                                            202510
+138001Diagnóstico e tratamento em cintura escapular                                                                                                         202510
+139001Tratamento de recém-nascido com hipotireoidismo e fenilcetonuria                                                                                      202510
+141001Vigilância epidemiológica                                                                                                                             202510
+142001Do aparelho digestivo                                                                                                                                 202510
+143001Transporte terrestre                                                                                                                                  202510
+144001Coleta realizada fora das estrutura laboratorial                                                                                                      202510
+145001Exames Bioquimicos                                                                                                                                    202510
+146001Diagnóstica                                                                                                                                           202510
+147001NASF 1                                                                                                                                                202510
+148001Saúde mental                                                                                                                                          202510
+149001Rim                                                                                                                                                   202510
+150001Fístula arteriovenosa sem enxerto                                                                                                                     202510
+151001Medicina nuclear in vivo                                                                                                                              202510
+152001Atenção Básica à Populações Indígenas                                                                                                                 202510
+153001Acompanhamento Clínico, pré e pós operatório e hormonioterapia.                                                                                       202510
+154001Banco de valvula cardiaca humana                                                                                                                      202510
+155001Serviço de Traumatologia e Ortopedia                                                                                                                  202510
+157001Laboratorio Regional de Protese Dentaria                                                                                                              202510
+158001Serviço de Atenção Integral em Hanseniase Tipo I                                                                                                      202510
+159001Atenção Primária                                                                                                                                      202510
+160001Teleconsultoria Assíncrona                                                                                                                            202510
+161001Equipe de Consultório na Rua - Modalidade I                                                                                                           202510
+162001ADULTO                                                                                                                                                202510
+163001NEONATAL CONVENCIONAL                                                                                                                                 202510
+164001Dispensação de OPM Auxiliares de Locomoção e Ortopédicas                                                                                              202510
+165001Referência para Atenção Integral às Pessoas em Situação de Violência Sexual                                                                           202510
+166001Água de Consumo                                                                                                                                       202510
+167001ODONTOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                           202510
+100002Atendimento em manicômio até 100 presos                                                                                                               202510
+174002Grupos Especiais                                                                                                                                      202510
+102002Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade I)                                                                          202510
+103002Unidade de suporte básico de vida terrestre (USB)                                                                                                     202510
+104002Cental de Regulação de Consultas e Exames                                                                                                             202510
+105002Coluna e nervos periféricos                                                                                                                           202510
+106002Diagnóstico e tratamento                                                                                                                              202510
+108002Centro de referência em saúde do trabalhador CEREST estadual                                                                                          202510
+109002Unidade sócio-educativa com de 41 a 100 adolecentes                                                                                                   202510
+110002Contracepção clínica                                                                                                                                  202510
+111002Tratamento multidrogas resistentes                                                                                                                    202510
+112002Acompanhamento do pré-natal de alto risco                                                                                                             202510
+113002Internação Domiciliar                                                                                                                                 202510
+114002Endodontia                                                                                                                                            202510
+115002Atendimento psicossocial                                                                                                                              202510
+116002Cirurgia cardiovascular (adulto)                                                                                                                      202510
+117002Tratamento em queimados                                                                                                                               202510
+120002Exames citopatológicos                                                                                                                                202510
+121002Ultra-sonografia                                                                                                                                      202510
+122002Teste de Holter                                                                                                                                       202510
+124002Cirurgia de glândulas endócrinas                                                                                                                      202510
+125002Farmácia Popular                                                                                                                                      202510
+126002Assistência fisioterapêutica em alterações oncológicas                                                                                                202510
+128002Diagnóstico em hemoterapia                                                                                                                            202510
+129002Exames de histocompatibilidade por sorologia e biologia                                                                                               202510
+131002Tratamento clínico do aparelho da visão                                                                                                               202510
+132002Hematologia                                                                                                                                           202510
+133002Diagnóstico em Pneumologia                                                                                                                            202510
+134002Fitoterapia                                                                                                                                           202510
+135002Reabilitação Intelectual                                                                                                                              202510
+136002Enteral/Parenteral                                                                                                                                    202510
+138002Diagnóstico e tratamento em membros superiores                                                                                                        202510
+139002Tratamento de recém-nascido com doenças falciformes                                                                                                   202510
+141002Vigilância sanitária                                                                                                                                  202510
+142002Do aparelho respiratório                                                                                                                              202510
+143002Transporte aéreo                                                                                                                                      202510
+145002Exames hematológicos e hemostasia                                                                                                                     202510
+146002Cirúrgica                                                                                                                                             202510
+147002NASF 2                                                                                                                                                202510
+148002AIDS                                                                                                                                                  202510
+149002Medula óssea                                                                                                                                          202510
+150002Fístula arteriovenosa com enxerto                                                                                                                     202510
+151002Medicina nuclear in vitro                                                                                                                             202510
+153002Cirurgia e Acompanhamento pré e pós oreratório                                                                                                        202510
+154002Banco de tecido musculo esqueletico                                                                                                                   202510
+155002Serviço de Traumatologia e Ortopedia Pediátrica (até 21 anos de idade)                                                                                202510
+158002Serviço de Atenção Integral em Hanseniase Tipo II                                                                                                     202510
+159002Atenção Básica com Saúde Bucal                                                                                                                        202510
+160002Teleconsultoria Síncrona                                                                                                                              202510
+161002Equipe de Consultório na Rua - Modalidade II                                                                                                          202510
+162002NEONATAL                                                                                                                                              202510
+163002NEONATAL CANGURU                                                                                                                                      202510
+164002Manutenção e Adaptação de OPM Auxiliares de Locomoção e Ortopédicas                                                                                   202510
+165002Serviço de Referência para Atenção Integral à Saúde de Adolescentes em Situação de Violência Sexual                                                   202510
+166002Água de Ambiental                                                                                                                                     202510
+167002ODONTOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                       202510
+168002Referência em Doenças Raras                                                                                                                           202510
+169002Litotripsia                                                                                                                                           202510
+171002Apoio Matricial                                                                                                                                       202510
+173002Armazenamento e Controle                                                                                                                              202510
+101002Saúde bucal MI                                                                                                                                        202510
+100003Atendimento em presídio acima de 100 presos                                                                                                           202510
+101003Saúde bucal MII                                                                                                                                       202510
+102003Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade II)                                                                         202510
+103003Unidade de suporte avançado de vida terrestre (USA)                                                                                                   202510
+104003Central de Regulação de Urgências                                                                                                                     202510
+105003Tumores do sistema nervoso                                                                                                                            202510
+106003Diagnóstico, tratamento e capacitação técnica                                                                                                         202510
+108003Vigilância em Saúde do Trabalhador (VISAT)                                                                                                            202510
+109003Unidade sócio-educativa com de 101 a 180 adolecentes                                                                                                  202510
+110003Laqueadura                                                                                                                                            202510
+112003Parto                                                                                                                                                 202510
+113003Equipe Multidisciplinar de Atenção Domiciliar - EMAD                                                                                                  202510
+114003Periodontia clínica                                                                                                                                   202510
+115003Serviço Hospitalar para Atenção a Saúde Mental                                                                                                        202510
+116003Cirurgia cardiovascular (Pediátrico)                                                                                                                  202510
+117003Tratamento da lipoatrofia facial do portador de HIV / AIDS                                                                                            202510
+120003Monitoramento Externo da Qualidade dos Exames Citopatologicos do Colo do Útero                                                                        202510
+121003Tomografia computadorizada                                                                                                                            202510
+122003Exame Eletrocardiográfico                                                                                                                             202510
+125003Farmácia com manipulação homeopática                                                                                                                  202510
+126003Assistência fisioterapêutica em oftalmologia                                                                                                          202510
+128003Procedimentos especiais em hemoterapia                                                                                                                202510
+130003Confeccção/Intervenção de Acessos para Diálise                                                                                                        202510
+131003Tratamento cirúrgico do aparelho da visão                                                                                                             202510
+132003Oncologia clínica                                                                                                                                     202510
+133003Diagnóstico em Pneumologia por Telemedicina                                                                                                           202510
+134003Outras Práticas em Medicina Tradicional Chinesa                                                                                                       202510
+135003Reabilitação Física                                                                                                                                   202510
+136003Enteral/Parenteral, com manipulação/fabricação                                                                                                        202510
+138003Diagnóstico e tratamento em coluna vertebral e caixa torácica                                                                                         202510
+139003Tratamento de recém-nascido com fibrose cística                                                                                                       202510
+141003Vigilância ambiental                                                                                                                                  202510
+142003Do aparelho urinário                                                                                                                                  202510
+143003Transporte marítimo                                                                                                                                   202510
+145003Exames sorológicos e imunológicos                                                                                                                     202510
+147003NASF Intermunicipal                                                                                                                                   202510
+148003Geriátrico                                                                                                                                            202510
+149003Coração                                                                                                                                               202510
+151003Medicina nuclear in vivo por telemedicina                                                                                                             202510
+154003Banco de Multitecidos                                                                                                                                 202510
+155003Serviço de Traumatologia e Ortopedia de Urgência                                                                                                      202510
+158003Serviço de Atenção Integral em Hanseniase Tipo III                                                                                                    202510
+159003Academia da Saúde                                                                                                                                     202510
+160003Segunda Opinião Formativa                                                                                                                             202510
+161003Equipe de Consultório na Rua - Modalidade III                                                                                                         202510
+162003PEDIÁTRICO                                                                                                                                            202510
+163003PEDIÁTRICO                                                                                                                                            202510
+164003Dispensação de OPM Ortopédica                                                                                                                         202510
+165003Serviço de Referência para Atenção Integral à Saúde de Crianças em Situação de Violência Sexual                                                       202510
+166003Água de Hemodiálise                                                                                                                                   202510
+167003OFTALMOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                          202510
+168003Terapia Génica                                                                                                                                        202510
+173003Distribuição                                                                                                                                          202510
+152004Saneamento a Populações Indígenas                                                                                                                     202510
+122004Exame Eletroencefalográfico                                                                                                                           202510
+160004TELEDIAGNOSTICO                                                                                                                                       202510
+162004QUEIMADOS                                                                                                                                             202510
+163004ADULTO                                                                                                                                                202510
+164004Manutenção e Adaptação de OPM Ortopédica                                                                                                              202510
+165004Serviço de Referência para Atenção Integral à Saúde de Homens em Situação de Violência Sexual                                                         202510
+166004Água Mineral                                                                                                                                          202510
+167004OFTALMOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                      202510
+173004Transporte                                                                                                                                            202510
+125004Dispensação de medicamentos estratégicos                                                                                                              202510
+126004Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                                                                     202510
+128004Medicina transfusional                                                                                                                                202510
+130004Tratamento Nefrologia em Geral                                                                                                                        202510
+131004Projeto Olhar Brasil                                                                                                                                  202510
+132004Radioterapia                                                                                                                                          202510
+134004Práticas Corpo-mente                                                                                                                                  202510
+135004Reabilitação visual/mental/múltiplas deficiências                                                                                                     202510
+138004Diagnóstico e tratamento em cintura pélvica                                                                                                           202510
+139004Tratamento de recém-nascido com outras doenças congênitas                                                                                             202510
+140004Estabilização de paciente crítico/grave                                                                                                               202510
+141004Núcleo de vigilância hospitalar                                                                                                                       202510
+142004Do aparelho ginecológico                                                                                                                              202510
+145004Exames coprológicos                                                                                                                                   202510
+147004NASF 3                                                                                                                                                202510
+148004Fibrose cística                                                                                                                                       202510
+149004Pulmão                                                                                                                                                202510
+100004Atendimento em manicômio acima de 100 presos                                                                                                          202510
+101004Saúde da Família para a População Ribeirinha                                                                                                          202510
+104004Unidade de autorizações de TFD intermunicipais                                                                                                        202510
+105004Neurocirurgia vascular                                                                                                                                202510
+106004Assistência Domiciliar Terapêutica em AIDS-ADT                                                                                                        202510
+107004Diagnóstico em Audiologia/Otologia                                                                                                                    202510
+109004Unidade sócio-educativa com mais de 180 adolecentes                                                                                                   202510
+110004Vasectomia                                                                                                                                            202510
+112004Parto em gestação de alto risco                                                                                                                       202510
+113004Equipe Multidisciplinar de Apoio - EMAP                                                                                                               202510
+114004Moldagem/Manutenção                                                                                                                                   202510
+115004Serviço Residencial Terapêutico Tipo I - SRT tipo I                                                                                                   202510
+116004Cirurgia vascular                                                                                                                                     202510
+121004Ressonância magnética                                                                                                                                 202510
+159004Estratégia de Saúde da Família                                                                                                                        202510
+152005Atenção Especializada a Populações Indígenas                                                                                                          202510
+122005Teste Ergométrico por Telemedicina                                                                                                                    202510
+160005TELE-EDUCACAO                                                                                                                                         202510
+162005DOENÇA CORONARIANA (UCO)                                                                                                                              202510
+164005Dispensação de OPM Auditiva                                                                                                                           202510
+165005Serviço de Referência para Atenção Integral à Saúde de Pessoas Idosas em Situação de Violência Sexual                                                 202510
+166005Alimentos                                                                                                                                             202510
+125005Dispensação de medicamentos básicos                                                                                                                   202510
+126005Assistência fisioterapêutica nas disfunções músculo-esqueléticas (todas as origens)                                                                   202510
+130005Tratamento Diálitico Peritonial                                                                                                                       202510
+131005Diagnóstico em Oftalmologia por Telemedicina                                                                                                          202510
+132005Oncologia cirúrgica                                                                                                                                   202510
+134005Homeopatia                                                                                                                                            202510
+135005Reabiliatação Auditiva                                                                                                                                202510
+138005Diagnóstico e tratamento em membros inferiores                                                                                                        202510
+139005Acompanhamento a pacientes com diagnósticos de Hiperplasia Adrenal Congênita                                                                          202510
+140005Atendimento ao paciente com Acidente Vascular Cerebral (AVC)                                                                                          202510
+141005Vigilância de Zoonoses                                                                                                                                202510
+145005Exames de uroanálise                                                                                                                                  202510
+148005Cirúrgico / Diagnóstico                                                                                                                               202510
+149005Córnea / Esclera                                                                                                                                      202510
+101005Saúde da Família para a População Ribeirinha-Saúde Bucal MI                                                                                           202510
+103005Unidade de Suporte Básico de vida: Equipe Embarcação                                                                                                  202510
+104005Unidade de autorizações de TFD interestaduais                                                                                                         202510
+105005Tratamento neurocirúrgico da dor funcional                                                                                                            202510
+106005Unidade Dispensadora de Medicamentos - UDM                                                                                                            202510
+107005Implante Coclear                                                                                                                                      202510
+109005Atenção Básica à Adolescentes em Unidade Socioeducativa                                                                                               202510
+112005Centro de parto normal                                                                                                                                202510
+113005Equipe de cuidados domiciliares                                                                                                                       202510
+114005Cirurgia oral                                                                                                                                         202510
+115005Serviço Residencial Terapêutico Tipo II - SRT tipo II                                                                                                 202510
+116005Cardiologia intervencionista (hemodinâmica)                                                                                                           202510
+159005Saúde Bucal                                                                                                                                           202510
+159006Núcleo Ampliado de Saúde da Família e Atenção Primária                                                                                                202510
+122006Teste Holter por Telemedicina                                                                                                                         202510
+161006TELECONSULTA                                                                                                                                          202510
+164006Manutenção e Adaptação de OPM Auditiva                                                                                                                202510
+165006Serviço de referência para interrupção de gravidez nos casos previstos em LEI                                                                         202510
+166006Células, Tecidos e Órgãos                                                                                                                             202510
+125006Farmácia Hospitalar                                                                                                                                   202510
+126006Assistência fisioterapêutica em queimados                                                                                                             202510
+130006Tratamento em DRC                                                                                                                                     202510
+131006Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                                 202510
+134006Termalismo/Crenoterapia                                                                                                                               202510
+139006Acompanhamento a pacientes com diagnósticos de Deficiência Biotinidase                                                                                202510
+140006Pronto Atendimento Clínico                                                                                                                            202510
+145006Exames hormonais                                                                                                                                      202510
+148006Acompanhamento pós-transplante de medula óssea                                                                                                        202510
+149006Fígado                                                                                                                                                202510
+101006Saúde da Família Fluvial                                                                                                                              202510
+103006Veículos de intervenção rápida                                                                                                                        202510
+104006Central Estadual de Regulação da Alta Complexidade                                                                                                    202510
+105006Investigação e cirurgia de epilepsia                                                                                                                  202510
+107006Triagem Auditiva Neonatal                                                                                                                             202510
+112006Casa da Gestante, Bebê e Puérpera                                                                                                                     202510
+114006Cirurgia buco-maxilo-facial                                                                                                                           202510
+115006UA Adulto                                                                                                                                             202510
+116006Cardiologia Endovascular Extracardíaco                                                                                                                202510
+121006Radiologia intervencionista                                                                                                                           202510
+160006TELECONSULTA                                                                                                                                          202510
+159007Atenção Primária para População Ribeirinha                                                                                                            202510
+121007Radiologia por telemedicina                                                                                                                           202510
+164007Dispensação de OPM Oftalmológica                                                                                                                      202510
+165007Atenção Ambulatorial  ás Pessoas em Situação de Violência Sexual                                                                                      202510
+166007Medicamentos                                                                                                                                          202510
+122007Exame Eletrocardiografico por Telemedicina                                                                                                            202510
+123007OPM em odontologia                                                                                                                                    202510
+125007Farmácia Viva                                                                                                                                         202510
+126007Assistência fisioterapêutica nas alterações em neurologia                                                                                             202510
+131007Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                             202510
+134007Antroposofia Aplicada à Saúde                                                                                                                         202510
+135007Oficina Ortopédica Fixa                                                                                                                               202510
+140007Pronto Atendimento Pediátrico                                                                                                                         202510
+145007Exames de  vigilância epidemiológica e  ambiental                                                                                                     202510
+149007Pâncreas                                                                                                                                              202510
+101007Saúde da Família Fluvial com Saúde Bucal                                                                                                              202510
+103007Outros veículos                                                                                                                                       202510
+104007Regulação Nacional de Alta Complexidade                                                                                                               202510
+105007Tratamento endovascular                                                                                                                               202510
+112007Ambulatório de Seguimento do RN e Criança Egresso de Unidade Neonatal                                                                                 202510
+114007Atendimento à pessoa com deficiência                                                                                                                  202510
+115007UA Infantojuvenil                                                                                                                                     202510
+116007Cardiologia Clínica                                                                                                                                   202510
+160007TELEMONITORAMENTO                                                                                                                                     202510
+152008Hospitalidade Indígena                                                                                                                                202510
+121008Ultra-sonografia por telemedicina                                                                                                                     202510
+160008TELEORIENTACAO                                                                                                                                        202510
+164008Adaptação de OPM Oftalmológica                                                                                                                        202510
+165008Coleta de  Vestígios de Violência Sexual                                                                                                              202510
+166008Saneantes Domissanitários                                                                                                                             202510
+122008Exame Eletroencefalografico por Telemedicina                                                                                                          202510
+123008OPM buco-maxilo-facial                                                                                                                                202510
+126008Diagnóstico cinético funcional                                                                                                                        202510
+134008Práticas Expressivas                                                                                                                                  202510
+135008Oficina Ortopédica Intinerante                                                                                                                        202510
+140008Pronto Atendimento Obstétrico                                                                                                                         202510
+145008Exames toxicológicos ou de monitorização terapêutica                                                                                                  202510
+149008Retirada de orgãos                                                                                                                                    202510
+101008ESF Tipo I, II, III, IV ou Transitória                                                                                                                202510
+103008Ambulância de resgate                                                                                                                                 202510
+104008Regulação Ambulatorial de Média Complexidade                                                                                                          202510
+105008Neurocirurgia funcional estereotáxica                                                                                                                 202510
+107008Atenção Especializada às Pessoas com Deficiência Auditiva                                                                                             202510
+112008Ambulatório  de Gestação e Puerpério de Alto Risco                                                                                                    202510
+114008Odontopediatria                                                                                                                                       202510
+115008Unidade de Atenção em Regime Residencial                                                                                                              202510
+116008Serviço de Atenção Cardiovascular/Cardiologia Angiologia                                                                                              202510
+159008Consultório na Rua                                                                                                                                    202510
+149009Pele                                                                                                                                                  202510
+152009Gestão da Atenção e Saneamento à Populações Indígenas                                                                                                 202510
+159009Atenção Primária para População Prisional                                                                                                             202510
+160009TELEINTERCONSULTA                                                                                                                                     202510
+164009Substitução/Troca de OPM                                                                                                                              202510
+166009Produtos para a Saúde                                                                                                                                 202510
+122009Exame Eletroneuromiografia                                                                                                                            202510
+134009Ayurveda                                                                                                                                              202510
+135009Oficina Ortopédica Intinerante Fluvial                                                                                                                202510
+140009Pronto Atendimento Psiquiátrico                                                                                                                       202510
+145009Exames microbiológicos                                                                                                                                202510
+101009ESF Tipo I, II, III, IV ou Transitória com Saúde Bucal MI                                                                                             202510
+104009Regulação do Acesso a Ações e Serviços de Saúde                                                                                                       202510
+105009Polissonografia                                                                                                                                       202510
+114009Disfunsão temporomandibular                                                                                                                           202510
+115009Tratamento em Regime de Internação para Transtornos Mentais e Dependência Química                                                                     202510
+121009Tomografia computadorizada por telemedicina                                                                                                           202510
+152010Saúde Bucal à Populações Indígenas                                                                                                                    202510
+159010Atenção Primária para Adolescentes em Unidade Socioeducativa                                                                                          202510
+160010TELETRIAGEM                                                                                                                                           202510
+164010Dispensação de OPM em Gastroenterologia                                                                                                               202510
+166010Cosméticos                                                                                                                                            202510
+101010ESF Tipo I, II, III, IV ou Transitória com Saúde Bucal MII                                                                                            202510
+103010Motolância                                                                                                                                            202510
+114010Estomatologia                                                                                                                                         202510
+115010DESINST de Pessoas com Transtorno  Mental em Conflito com a Lei                                                                                       202510
+121010Ressonância magnética por telemedicina                                                                                                                202510
+122010Exame videoeletroencefalografia                                                                                                                       202510
+123010OPM em queimados                                                                                                                                      202510
+134010Práticas Naturais                                                                                                                                     202510
+135010Atenção Fonoaudiológica                                                                                                                               202510
+140010Pronto Atendimento Oftalmológico                                                                                                                      202510
+145010Exames em outros líquidos biológicos                                                                                                                  202510
+149010Válvulas cardíacas                                                                                                                                    202510
+115011Promoção à Saúde Mental                                                                                                                               202510
+103011Unidade de Suporte Avançado de vida: Equipe Embarcação                                                                                                202510
+164011Dispensação de OPM em Urologia                                                                                                                        202510
+114011Implantodondia                                                                                                                                        202510
+166011Desinfestantes                                                                                                                                        202510
+149011Osteocondroligamentos                                                                                                                                 202510
+145011Exames de genética                                                                                                                                    202510
+140011Pronto Atendimento Odontológico                                                                                                                       202510
+135011Atenção Fisioterapeutica                                                                                                                              202510
+134011Práticas Manuais                                                                                                                                      202510
+101011ESF Transitória                                                                                                                                       202510
+160011TELERREGULACAO                                                                                                                                        202510
+123011OPM em nefrologia                                                                                                                                     202510
+122011Potenciais Evocados                                                                                                                                   202510
+121011Radiologia intervencionista por telemedicina                                                                                                          202510
+114012Odontogeriatria                                                                                                                                       202510
+103012Equipe Aeromédico                                                                                                                                     202510
+101012Saúde da Família para a População Ribeirinha - Saúde Bucal MII                                                                                        202510
+166012Imunobiológicos                                                                                                                                       202510
+164012Confecção de OPM Auxiliares de Locomoção e Ortopédicas                                                                                                202510
+122012Potenciais Evocados por Telemedicina                                                                                                                  202510
+149012Separação, avaliação biomicroscópica e conservação da córnea/esclera                                                                                  202510
+145012Exames para triagem neonatal                                                                                                                          202510
+140012Pronto Socorro Pediátrico                                                                                                                             202510
+135012Atenção à Saúde das Pessoas Ostomizadas I                                                                                                             202510
+134012Práticas Psicodinâmicas                                                                                                                               202510
+123012OPM - Projeto Olhar Brasil                                                                                                                            202510
+121012Mamografia                                                                                                                                            202510
+149013Contagem endotelial corneana                                                                                                                          202510
+114013Ortodontia                                                                                                                                            202510
+145013Exames imunohematológicos                                                                                                                             202510
+101013ESB MI                                                                                                                                                202510
+134013Ozônioterapia                                                                                                                                         202510
+123013OPM Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                             202510
+121013Mamografia por Telemedicina                                                                                                                           202510
+140013Pronto Socorro Obstétrico                                                                                                                             202510
+135013Atenção à Saúde das Pessoas Ostomizadas II                                                                                                            202510
+166013Insumos Farmacêuticos                                                                                                                                 202510
+134014Aromaterapia                                                                                                                                          202510
+123014OPM Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                         202510
+101014ESB MII                                                                                                                                               202510
+114014Prótese Dentária                                                                                                                                      202510
+166014Material Biológico                                                                                                                                    202510
+140014Pronto Socorro Cardiovascular                                                                                                                         202510
+149014Acompanhamento de paciente transplantado                                                                                                              202510
+149015Ações para doação e captação de órgãos e tecidos                                                                                                      202510
+134015Imposição de Mãos                                                                                                                                     202510
+166015Sangue e Hemoderivados                                                                                                                                202510
+114015Radiologia Odontológica e Imaginologia                                                                                                                202510
+140015Pronto Socorro Neurologia/Neurocirurgia                                                                                                               202510
+149016Retirada de globo ocular humano para transplante                                                                                                      202510
+140016Pronto Socorro Traumato-Ortopédico                                                                                                                    202510
+114016Acupuntura na Odontologia                                                                                                                             202510
+166016Surtos de Toxinfecção                                                                                                                                 202510
+149017Transplante de Membrana Amniótica                                                                                                                     202510
+166017Diversos                                                                                                                                              202510
+140017Pronto Socorro Odontológico                                                                                                                           202510
+114017Ortopedia funcional dos maxilares                                                                                                                     202510
+114018Odontologia hospitalar                                                                                                                                202510
+140018Pronto Socorro Oftalmológico                                                                                                                          202510
+114019Patologia Oral e Máxilo Fácial                                                                                                                        202510
+140019Pronto Socorro Geral/Clínico                                                                                                                          202510
+114020Prótese Buco Maxilo Facial                                                                                                                            202510

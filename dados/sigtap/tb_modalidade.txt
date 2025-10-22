@@ -1,0 +1,4 @@
+01Ambulatorial                                                                                        202510
+02Hospitalar                                                                                          202510
+03Hospital Dia                                                                                        202510
+06Atenção Domiciliar                                                                                  202510

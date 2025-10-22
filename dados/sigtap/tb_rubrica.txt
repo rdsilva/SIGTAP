@@ -1,0 +1,41 @@
+040009Atendimento/acompanhamento em reabilitação física, mental, visual, auditiva e múltiplas deficiências202510
+040013Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabólicas e nutricionais          202510
+040017Nefrologia                                                                                          202510
+040024Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal(inclui pré e pós operatório)       202510
+040028Outras cirurgias plásticas/reparadoras                                                              202510
+040030Sequenciais                                                                                         202510
+040032Transplantes de orgãos, tecidos e células                                                           202510
+040033Medicamentos para transplante                                                                       202510
+040038OPM para transplantes                                                                               202510
+040041Central Nacional de Regulação de Alta Complexidade (CNRAC)                                          202510
+040044Redesignação e Acompanhamento                                                                       202510
+040049Implementar Cirg. CV Pediátrica                                                                     202510
+040055Transplante - Histocompatibilidade                                                                  202510
+040062Doenças Raras                                                                                       202510
+040063Cadeiras de Rodas                                                                                   202510
+040065Medicamentos em Urgência                                                                            202510
+040066Cirurgias Eletivas - Componente Único                                                               202510
+040067Atenção Especializada em Saúde Auditiva                                                             202510
+040068Terapias Especializadas em Angiologia                                                               202510
+040069Tratamento de Doença Macular                                                                        202510
+040070OPME Não Relacionados ao Ato Cirúrgico                                                              202510
+040071Diagnóstico/tratamento em oncologia                                                                 202510
+040072Diagnóstico de trombofilia em gestante                                                              202510
+040073Reabilitação Pós-COVID-19                                                                           202510
+040074Telemedicina em Urgência                                                                            202510
+040075Fisioterapia Cardiovascular                                                                         202510
+040076Hemodinâmica em atendimento de urgência                                                             202510
+040077Exames Sorológicos e Imunológicos                                                                   202510
+040078QualiSUS Cardio                                                                                     202510
+040079Pré-cirúrgico em Cirurgias Prioritárias                                                             202510
+040080Redução das Filas de Procedimentos Eletivos.                                                        202510
+040081Síndrome Respiratória Aguda Grave - SRAG                                                            202510
+040082Alta Complexidade em Cardiologia                                                                    202510
+040083Cirurgia da Face e do Sistema Estomatognático                                                       202510
+040084Neurocirurgias                                                                                      202510
+040085Exames coprológicos                                                                                 202510
+040086Programa Mais Acesso a Especialistas (PMAE)                                                         202510
+040087Saúde Bucal                                                                                         202510
+040088Radioterapia                                                                                        202510
+040089Recursos Vinculados a Parcela Única                                                                 202510
+040090Recursos Vinculados a Emendas Parlamentares                                                         202510

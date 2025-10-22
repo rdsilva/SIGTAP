@@ -1,0 +1,303 @@
+ALTERAÇÕES REALIZADAS NAS TABELA DE EXPORTAÇÃO DO SISTEMA DE TABELAS UNIFICADAS 
+DE PROCEDIMENTOS
+
+/* Versão gerada em 01/09/2008 */
+1 - Procedimentos que tiveram as habeilitações 05.03 e 05.04 excluidas dos 
+    seguintes procedimentos para competência Agosto de 2008:
+    0405010133 - RECONSTITUICAO TOTAL DE PALPEBRA
+    0405040024 - CRIOTERAPIA DE TUMORES INTRA-OCULARES
+    0405040083 - EXENTERACAO DE ORBITA
+    0405040091 - EXERESE DE TUMOR MALIGNO INTRA-OCULAR
+    0405040148 - ORBITOTOMIA
+    0405040156 - RECONSTITUICAO DE CAVIDADE ORBITÁRIA
+    0405040164 - RECONSTITUICAO DE PAREDE DA ORBITA
+    0405050186 - IRIDOCICLECTOMIA
+    0405050232 - RECONSTRUCAO DE CAMARA ANTERIOR DO OLHO
+    0405050313 - TOPOPLASTIA DO TRANSPLANTE
+    0405050372 - FACOEMULSIFICACAO C/ IMPLANTE DE LENTE INTRA-OCULAR DOBRAVEL
+    0303050012 - ACOMPANHAMENTO E AVALIACAO DE GLAUCOMA POR FUNDOSCOPIA E TONOMETRIA
+    0303050039 - TRATAMENTO OFTALMOLOGICO DE PACIENTE C/ GLAUCOMA BINOCULAR (1A LINHA )
+    0303050047 - TRATAMENTO OFTALMOLOGICO DE PACIENTE C/ GLAUCOMA BINOCULAR (2A LINHA)
+    0303050055 - TRATAMENTO OFTALMOLOGICO DE PACIENTE C/ GLAUCOMA BINOCULAR (3 LINHA)
+    0303050063 - TRATAMENTO OFTALMOLOGICO DE PACIENTE C/ GLAUCOMA MONOCULAR (1A LINHA )
+    0303050071 - TRATAMENTO OFTALMOLOGICO DE PACIENTE C/ GLAUCOMA MONOCULAR (2A LINHA)
+    0303050080 - TRATAMENTO OFTALMOLOGICO DE PACIENTE C/ GLAUCOMA MONOCULAR (3A LINHA)
+    0303050098 - TRATAMENTO OFTALMOLOGICO DE PACIENTE C/ GLAUCOMA SITUACAO A C/ ACETAZOLAMIDA MONO / BINOCULAR
+    0303050101 - TRATAMENTO OFTALMOLOGICO DE PACIENTE C/ GLAUCOMA SITUACAO B C/ PILOCARPINA MONOCULAR
+    0303050110 - TRATAMENTO OFTALMOLOGICO DE PACIENTE C/ GLAUCOMA SITUACAO B C/ USO DE PILOCARPINA BINOCULAR
+    0303050152 - TRATAMENTO OFTALMOLÓGICO PACIENTE GLAUCOMA - 1ª LINHA ASSOCIADA A 2ª LINHA -MONO
+    0303050160 - TRATAMENTO OFTALMOLÓGICO PACIENTE GLAUCOMA - 1ª LINHA ASSOCIADA A 2ª LINHA -BINO
+    0303050179 - TRATAMENTO OFTALMOLÓGICO PACIENTE GLAUCOMA - 1ª LINHA ASSOCIADA A 3ª LINHA -MONO
+    0303050187 - TRATAMENTO OFTALMOLÓGICO PACIENTE GLAUCOMA - 1ª LINHA ASSOCIADA A 3ª LINHA - BINO
+    0303050195 - TRATAMENTO OFTALMOLÓGICO PACIENTE GLAUCOMA - 2ª LINHA ASSOCIADA A 3ª LINHA - MONO
+    0303050209 - TRATAMENTO OFTALMOLÓGICO PACIENTE GLAUCOMA - 2ª LINHA ASSOCIADA A 3ª LINHA  BINO
+
+/* Versão gerada em 26/08/2008 */
+1 - Procedimentos alterados na tabelas para competência Agosto de 2008.
+	Memo CGSI Número 84 de 22/08/2008 (Nutrição)
+	03.09.01.004-7
+	03.09.01.005-5
+	03.09.01.008-0
+
+	Memo CGSI Número 84 de 22/08/2008 (Neonatal)
+	08.02.01.012-1
+	08.02.01.013-0
+	08.02.01.016-4
+	
+	Portaria SAS Número 457 de 19/08/2008 (Transgenitalização)
+	03.03.03.007-0
+	03.01.13.002-7
+	04.09.05.012-1
+	04.04.01.042-3
+	
+	Portaria SAS Número 461 de 19/08/2008 (Oncologia)
+	03.04.01.010-3
+	03.04.01.003-0 (Retirar compatibilidade com 03.04.01.020-0)
+	
+	Portaria SAS Número XXX de 22/08/2008 (Transplante)
+	05.03.03.002-3
+	05.03.03.004-0
+	05.03.03.006-6
+	05.03.03.007-4
+	05.03.03.008-2
+
+/* Versão gerada em 31/07/2008 */
+1 - Versão gerada para retornar o leito de psiquiatria para o procedimento 
+    	03.03.17.008-5 - TRATAMENTO EM PSIQUIATRIA - EM HOSPITAL GERAL (POR DIA).
+
+/* Versão gerada em 28/07/2008 */
+1 - Versão gerada para corrigir um problema que causou a exclusão de compatibi-
+    dades no arquivo gerados para o TXT.
+
+/* Versão gerada em 25/07/2008 */
+1 - Versão relativa aos procedimentos da competência Julho/2008 com inclusões,
+    alterações e exclusões de iversos porcedimentos, conforme publicados pelas 
+    portarias 346, 363, 370, 383 e 386 da SAS/SE.
+
+/* Versão gerada em 10/07/2008 */
+1 - Alteração de valores para competência Julho/2008 publicados equivocadamente 
+    em Junho/2008:
+	 0205020020 - PAQUIMETRIA ULTRASSONICA                                                     
+	 0211060160 - POTENCIAL VISUAL EVOCADO                                                     
+	 0211060178 - RETINOGRAFIA COLORIDA BINOCULAR                                              
+	 0211060186 - RETINOGRAFIA FLUORESCENTE BINOCULAR                                          
+	 0211060194 - TESTE DE ADAPTACAO DE VISAO SUBNORMAL                                        
+	 0211060259 - TONOMETRIA                                                                   
+	 0301010102 - CONSULTA PARA DIAGNOSTICO DE GLAUCOMA (TONOMETRIA, FUNDOSCOPIA 
+	              E CAMPIMETRIA)
+	
+2 - Correção do nome, média de permanência e valores para o procedimento 0406010099 
+	 publicado para Junho 2008:
+	 Errado :
+	 Nome : ANASTOMOSE CAVO-PULMONAR TOTAL	
+	 Média de Permanência : 8	
+	 Quantidade de Pontos : 950	
+	 Valor Hospitalar : R$ 4.716,47
+	 Valor Profissional : R$ 1.684,45
+	
+	 Correto : 
+	 Nome : BANDAGEM DA ARTERIA PULMONAR
+	 Média de Permanência : 5	
+	 Quantidade de Pontos : 650	
+	 Valor Hospitalar : R$ 2685,90
+	 Valor Profissional : R$ 1223,47
+
+3 - Correção do tipo de financiamento de 07 - Vigilância em Saúde para 06 - MAC
+    no procedimento 0303170077 - TRATAMENTO EM PSIQUIATRIA (CLASSIFICASSAO PT 
+    GM 251/02) 
+
+/* Versão gerada em 20/06/2008 */
+1 - Versão relativa aos procedimentos da competência Junho/2008 com alterações 
+    em diversos porcedimentos, conforme publicados pelas portarias 312 e 316 da
+    SAS/SE.
+2 - Também contém uma nova versão da TB_CID, cujo o descritivo da doença de 
+    100 posições foi alterado, objetivando dar mais clareza ao texto e para que
+	 ficasse mais próximo possível da descrição original. Esta tabela também 
+	 será alocada às versões anteriores dos arquivos TXT disponíveis na rede.
+
+/* Versão gerada em 16/05/2008 */
+1 - Versão relativa aos procedimentos da competência Maio/2008. 
+
+/* Versão gerada em 22/04/2008 */
+1 - Versão relativa aos procedimentos da competência Abril/2008. Para maiores
+    detalhes sobre as alterações de conteúdo, verificr no Informe CGSI Nº09/08,
+    disponível no site http://sigtap.datasus.gov.br. 
+
+/* Versão gerada em 11/04/2008 */
+1 - Não houve alteração em relação dos dados dos procedimentos em relação a 
+    competência 02/2008.
+2 - A tabela TB_OCUPACAO constará agora só com os registros que são utilizados 
+    pelo SIGTAP.     
+    
+/* Versão gerada em 31/03/2008 */
+1 - Inclusão de algumas dos seguinres CBO´s para o procedimento 03.01.01.004-8:
+    223605,223620,223710,223810,232120,239425,251510,251520,251545,251550,251605
+
+/* Versão gerada em 27/03/2008 */
+1 - Inclusão de algumas compatibilidades de transplante de rim com medicamentos.
+
+/* Versão gerada em 25/03/2008 */
+1 - Correções de conteúdo em várias tabelas do sistema para os procedimentos 
+    valendo para Fevereiro de 2008, recuperando informações de 112 procedimentos
+    que não haviam sido geradas corretamente na versão anterior. Correções dos 
+    procedimentos que tinham o atributo "Exige CNS".
+
+/* Versão gerada em 19/03/2008 */
+1 - Correções de conteúdo abaixo promovidas pela CGSI/DRAC/SAS/MS em várias
+    tabelas do sistema para os procedimentos valendo para Fevereiro de 2008.
+    
+2 - Geração da tabela TB_GRUPO_HABILITACAO, visto que a TB_HABILITACAO faz re-
+    ferência ao campo NU_GRUPO_HABILITACAO. Esta tabela descreve um grupo de
+    habilitações que são necessárias em conjunto para que o procedimento seja
+    executado. Por exemplo, se um procedimento está habilitado para o grupo 0001
+    ele exigirá do prestador as habilitações 0801 E 0803, e não em só uma delas.
+
+
+/* Versão gerada em 04/03/2008 */
+1 - Padronização na geração dos arquivos de exportação (TXT) no conjunto de 
+    caracteres ISO-8859-1 objentivando padronização entre os diversos sistemas 
+    operacionais.
+
+2 - Correções de conteúdo abaixo promovidas pela CGSI/DRAC/SAS/MS em várias 
+    tabelas do sistema para pso procedimentos valendo para Janeiro de 2008.
+
+		Procedimento:	02.06.01.007-9 - TOMOGRAFIA COMPUTADORIZADA DO CRANIO
+		Complexidade:	AC - ALTA COMPLEXIDADE
+
+		Procedimento:	02.06.03.001-0 - TOMOGRAFIA COMPUTADORIZADA DE ABDOMEN SUPERIOR
+		Complexidade:	AC - ALTA COMPLEXIDADE
+
+		Procedimento:	02.06.03.003-7 - TOMOGRAFIA COMPUTADORIZADA DE PELVE / BACIA
+		Complexidade:	AC - ALTA COMPLEXIDADE
+
+		Procedimento:	02.07.02.002-7 - RESSONANCIA MAGNETICA DE MEMBRO SUPERIOR (UNILATERAL)
+		Complexidade:	AC - ALTA COMPLEXIDADE
+
+		Procedimento:	02.07.03.003-0 - RESSONANCIA MAGNETICA DE MEMBRO INFERIOR (UNILATERAL)
+		Complexidade:	AC - ALTA COMPLEXIDADE
+
+		Procedimento:	03.03.17.006-9 - TRATAMENTO DE TRANSTORNOS MENTAIS E COMPORTAMENTAIS DEVIDOS AO USO DE SUBSTANCIAS PSICOATIVAS (POR DIA)
+		Permanência Maior:	NÃO
+
+		Procedimento:	03.05.01.017-4 - TRATAMENTO DE INTERCORRENCIA EM PACIENTE RENAL CRONICO SOB TRATAMENTO DIALITICO ( POR DIA)
+		Permanência Maior:	NÃO
+
+		Procedimento:	03.06.02.012-2 - TRANSFUSAO DE SANGUE / COMPONENTES IRRADIADOS
+		CBO:	223115 , 223133 , 223134 , 223149 , 223505 
+
+		Procedimento:	04.05.04.007-5 - EVISCERACAO DE GLOBO OCULAR
+		Inclui Anestesia:	SIM
+
+		Procedimento:	04.13.01.006-6 - TRATAMENTO DE GRANDE QUEIMADO
+		Habilitação:	Excluir habilitação
+
+		Procedimento:	04.13.01.007-4 - TRATAMENTO DE INTERCORRENCIA EM PACIENTE MEDIO E GRANDE QUEIMADO
+		Habilitação:	Excluir habilitação
+
+		Procedimento:	04.13.01.008-2 - TRATAMENTO DE MEDIO QUEIMADO
+		Habilitação:	Excluir Habilitação
+
+		Procedimento:	06.01.10.006-9 - LEVODOPA 200 MG + BENSERAZIDA 50 MG (POR COMPRIMIDO)
+		Qtde Máxima:	120
+
+/* Versão gerada em 27/02/2008 */
+1 - Correções de conteúdo promovidas pela CGSI/DRAC/SAS/MS em várias tabelas do 
+    sistema.
+
+/* Versão gerada em 22/02/2008 */
+1 - Correções de conteúdo promovidas pela CGSI/DRAC/SAS/MS em várias tabelas do 
+    sistema.
+    - 03.04.03.008-2 inclusão das seguintes Habilitações: 17.12 e 17.13    
+    - 03.04.05.013-0 inclusão das seguintes Habilitações: 17.09 e 17.13    
+    - 07.02.05.079-2 não se aplica mais limite de idade.
+    
+/* Versão gerada em 21/02/2008 */
+1 - Correções de conteúdo promovidas pela CGSI/DRAC/SAS/MS em várias tabelas do 
+    sistema.
+
+/* Versão gerada em 18/02/2008 */
+1 - Correções de conteúdo promovidas pela CGSI/DRAC/SAS/MS em várias tabelas do 
+    sistema.
+
+/* Versão gerada em 07/02/2008 */
+1 - Correções de conteúdo promovidas pela CGSI/DRAC/SAS/MS em várias tabelas do 
+    sistema.
+
+/* Versão gerada em 30/01/2008 */
+1 - Correções no arquivo Excel e nos arquivos de layout:
+    - TB_SERVICO_CLASSIFICACAO tamanho dos campos de valores em 
+      RL_PROCEDIMENTO_INCREMENTO
+
+    - Correção dos nomes das colunas CO_CBO_OCUPACAO tornou-se CO_OCUPACAO na 
+      TB_OCUPACAO e RL_PROCEDIMENTO_OCUPACAO,
+    
+    - Correção dos nomes das colunas em RL_PROCEDIMENTO_ORIGEM, 
+      PROCEDIMENTO_NOVO tornou-se CO_PROCEDIMENTO e PROCEDIMENTO_ANTIGO 
+      tornou-se CO_PROCEDIMENTO_ORIGEM
+    
+    - Correção no nome das tabelas TB_SIA_AIH tornou-se TB_SIA_SIH e
+      RL_PROCEDIMENTO_SIA_AIH tornou-se RL_PROCEDIMENTO_SIA_SIH
+      
+2 - Correções de conteúdo promovidas pela CGSI/DRAC/SAS/MS em várias tabelas do 
+    sistema.
+
+/* Versão gerada em 23/01/2008 */
+1 - Correções de conteúdo promovidas pela CGSI/DRAC/SAS/MS em várias tabelas do 
+    sistema, em especial, de conteúdo da tabela TB_PROCEDIMENTO_COMPATIVEL.
+
+/* Versão gerada em 22/01/2008 */
+1 - Correções de conteúdo promovidas pela CGSI/DRAC/SAS/MS em várias tabelas do 
+    sistema.
+
+/* Versão gerada em 15/01/2008 */
+1 - Correção de conteúdo da tabela de RL_PROCEDIMENTO_SIA_AIH.
+2 - Atualização do arquivo de layout DATASUS - TABELA DE PROCEDIMENTOS - 
+    LAY-OUT - 2008_01_15.XLS, adequando os nomes dos campos com o modelo de dados.
+    NÃO HOUVE ALTERAÇÃO DA ESTRUTURA DAS TABELAS. Observar os textos em vermelho
+    na planilha.
+
+/* Versão gerada em 11/01/2008 */
+1 - Apenas alteração de conteúdo das tabelas, principalmente RL_PROCEDIMENTO_
+    COMPATIVEL.txt, que teve a inclusão de alguns registros novos.
+
+/* Versão gerada em 10/01/2008 */
+1 - O campo CO_RUBRICA foi alterado em sua composição, apesar de manter o tamanho
+    de 6 caracteres. As duas primeiras posições indicam o tipo de financiamento, 
+    que constam na TB_FINANCIAMENTO e as quatros posições seguintes constituem o
+    código do sub-tipo de financiamento (ex-Rubrica).
+2 - O nome do arquivo compactado agora é composto da seginte forma : Tabela 
+    Unificada_"Competência dos Procedimentos"_"Data de geração do arquivo".zip 
+
+/* Versão gerada em 03/01/2008 */
+1 - Existem agora 2 tabelas de origem:
+    - RL_PROCEDIMENTO_SIA_AIH que relaciona os procedimentos do SIA e do SIH com 
+      os procedimentos da tabela unificada.
+    - RL_PROCEDIMENTO_ORIGEM relacionará os procedimentos novos gerados a partir
+      de procedimentos da nova tabela unificada.
+
+/* Versão gerada em 30/11/2007 */
+1 - Os registros que estavam na tabela RL_PROCEDIMENTO_OPM foram transferidos para a 
+    RL_PROCEDIMENTO_COMPATIVEL, passando a ser classificado com o instrumento de 
+    registro AIH (Procedimento Principal) X AIH (Procedimento Especial), do tipo 
+    Compatível.
+    
+2 - Os campos VL_IDADE_MAXIMA e VL_IDADE_MINIMA da TB_PROCEDIMENTO foram altera-
+	 dos de três para quatro posições, passando a guardar agora estes valores em 
+	 meses, e não mais em anos.
+    
+3 - Os campos DT_VIGENCIA_INICIO e DT_VIGENCIA_TERMINO da TB_PROCEDIMENTO foram 
+    excluidos, visto este registro já possuir um campo DT_COMPETENCIA.
+    
+4 - O campo DT_COMPETENCIA das tabelas TB_CID e TB_OCUPACAO foram excluidos.    
+
+5 - Caso os campos VL_IDADE_MINIMA e VL_IDADE_MAXIMA vierem preenchidos com
+    '9999' e '9999', significa que não se aplica o fator idade para este 
+    procedimento.
+    
+6 - Será criada a tabela RL_EXCECAO_COMPATIBILIDADE para comtemplar para um 
+    desterminado procedimento, uma dada situação de compatibilidade é 
+    negada.
+
+7 - Foi incluido na tabela RL_PROCEDIMENTO_SIA_SIH o campo TP_PROCEDIMENTO que
+    informa se o procedimento de origem é Ambulatorial ou Hospitalar.
+

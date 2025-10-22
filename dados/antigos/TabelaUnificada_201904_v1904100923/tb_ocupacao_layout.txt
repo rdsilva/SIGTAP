@@ -1,0 +1,3 @@
+Coluna,Tamanho,Inicio,Fim,Tipo
+CO_OCUPACAO,6,1,6,CHAR
+NO_OCUPACAO,150,7,156,VARCHAR2

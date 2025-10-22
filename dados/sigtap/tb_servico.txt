@@ -1,0 +1,73 @@
+100Serviço de Atenção a Saúde no Sistema Penitenciário                                                                     202510
+101Estratégia de Saúde da Família                                                                                          202510
+102Estratégias de Agentes Comunitário de Saúde                                                                             202510
+103Serviço de Atendimento Móvel de Urgências                                                                               202510
+104Regulação Assistêncial dos Serviços de Saúde                                                                            202510
+105Serviço de Atenção em Neurologia/ Neurocirurgia                                                                         202510
+106Serviço de Atenção a DST/HIV/AIDS                                                                                       202510
+107Atenção à Saúde Auditiva                                                                                                202510
+108Atenção a Saúde do Trabalhador                                                                                          202510
+109Serviço de Atenção a Saúde dos Adolecentes em Conflito com a Lei, em Regime de Internação e Internação Provisória       202510
+110Serviço de Atenção a Saúde Reprodutiva                                                                                  202510
+111Serviço de Atenção ao Paciente com Tuberculose                                                                          202510
+112Serviço de Atenção ao Pré-Natal e Nascimento                                                                            202510
+113Serviço de Atenção Domiciliar                                                                                           202510
+114Serviço de Atenção em Saúde Bucal                                                                                       202510
+115Serviço de Atenção Psicossocial                                                                                         202510
+116Serviço de Atenção Cardiovascular/Cardiologia                                                                           202510
+117Serviço de Cirurgia Reparadora                                                                                          202510
+118Serviço de Cirurgia Torácica                                                                                            202510
+119Serviço de Controle de Tabagismo                                                                                        202510
+120Serviço de Diagnóstico por Anatomia Patológica e/ou Citopatologia                                                       202510
+121Diagnóstico por Imagem                                                                                                  202510
+122Serviço de Diagnóstico por Métodos Gráficos/Dinâmicos                                                                   202510
+123Serviço de Dispensação de Órteses, Próteses e Materiais Especiais                                                       202510
+124Serviço de Endocrinologia                                                                                               202510
+125Serviço de Farmácia                                                                                                     202510
+126Serviço de Fisioterapia                                                                                                 202510
+127Serviço de Atenção à Obesidade                                                                                          202510
+128Serviço de Hemoterapia                                                                                                  202510
+129Servico de Laboratório de Histocompatibilidade                                                                          202510
+130Atenção à Doença Renal Crônica                                                                                          202510
+131Serviço de Oftalmologia                                                                                                 202510
+132Serviço de Oncologia                                                                                                    202510
+133Serviço de Pneumologia                                                                                                  202510
+134Serviço de Práticas Integrativas e Complementares                                                                       202510
+135Serviço de Reabilitação                                                                                                 202510
+136Serviço de Suporte Nutricional                                                                                          202510
+137Serviço de Telemedicina                                                                                                 202510
+138Serviço de Traumato-Ortopedia                                                                                           202510
+139Serviço de Triagem Neonatal                                                                                             202510
+140Serviço de Urgência e Emergência                                                                                        202510
+141Serviço de Vigilância em Saúde                                                                                          202510
+142Serviço de Endoscopia                                                                                                   202510
+143Serviço Móvel de Urgência (exceto SAMU)                                                                                 202510
+144Serviço Posto de Coleta de Materiais Biológicos                                                                         202510
+145Serviço de Diagnóstico por Laboratório Clínico                                                                          202510
+146Serviço de Videolaparoscopia                                                                                            202510
+147Serviço de Apoio a Saúde da Família                                                                                     202510
+148Hospital-Dia                                                                                                            202510
+149Transplante                                                                                                             202510
+150Cirurgia Vascular                                                                                                       202510
+151Medicina Nuclear                                                                                                        202510
+152Atenção à Saúde da População Indígena                                                                                   202510
+153Atenção Especializada no Processo Transexualizador                                                                      202510
+154Serviço de Banco de Tecidos                                                                                             202510
+155Serviço de Traumatologia  Ortopedia                                                                                     202510
+157Serviço de Laboratorio de Protese Dentaria                                                                              202510
+158Serviço de Atenção Integral em Hanseniase                                                                               202510
+159Atenção Primária                                                                                                        202510
+160Teleconsultoria                                                                                                         202510
+161Consultório na Rua                                                                                                      202510
+162Serviço de Terapia Intensiva                                                                                            202510
+163Serviço de Cuidados Intermediários                                                                                      202510
+164Serviço de Órteses,Próteses e Materiais Especiais em Reabilitação                                                       202510
+165Atenção às Pessoas em Situação de Violência Sexual                                                                      202510
+166Serviço de  Análise Laboratorial  de Produtos Sujeitos á  Vigilância Sanitária                                          202510
+167Atendimento Itinerante de Asistência e Ensino em Saúde                                                                  202510
+168Atenção Às Pessoas com Doenças Raras                                                                                    202510
+169Serviço de Atenção em Urologia                                                                                          202510
+170Comissões e Comitês                                                                                                     202510
+171Cuidados Paliativos                                                                                                     202510
+173Logística de Imunobiológicos                                                                                            202510
+174Imunização                                                                                                              202510
